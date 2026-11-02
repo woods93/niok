@@ -82,7 +82,9 @@ export function stripHtml(s) {
 
 export function makeExcerpt(raw, max = 240) {
   let t = stripHtml(raw)
-    .replace(/The post .{0,200}? appeared first on .*$/i, '')
+    .replace(/\s*The post .{0,200}? appeared first on .*$/i, '')
+    .replace(/\s+The post\s.{0,160}$/i, '')
+    .trim()
     .replace(/\s*(\[…\]|\[\.\.\.\]|Read more.*|Continue reading.*)$/i, '')
     .trim();
   if (t.length <= max) return t;
