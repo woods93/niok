@@ -1,8 +1,8 @@
 {
-  "threshold": 3,
+  "threshold": 2,
   "weights": {
-    "entity": 3,
-    "entityCap": 9,
+    "entity": 1,
+    "entityCap": 3,
     "phrase": 2,
     "phraseCap": 4,
     "era": 1,
@@ -14,7 +14,7 @@
     { "name": "Bluebird Cafe", "type": "venue" },
     { "name": "Ryman Auditorium", "type": "venue", "aliases": ["Ryman"] },
     { "name": "Tootsie's Orchid Lounge", "type": "venue", "aliases": ["Tootsie's"] },
-    { "name": "Springwater", "type": "venue", "aliases": ["Springwater Supper Club"] },
+    { "name": "Springwater Supper Club", "type": "venue" },
     { "name": "The Cannery", "type": "venue" },
     { "name": "328 Performance Hall", "type": "venue" },
     { "name": "Music Row", "type": "place" },
@@ -23,12 +23,16 @@
   ],
   "retrospectivePhrases": [
     "anniversary",
+    "years ago",
+    "this day in",
+    "on this day",
     "remember*",
     "reissue*",
     "farewell",
-    "closing",
-    "closes",
+    "closing its doors",
+    "closes its doors",
     "closed its doors",
+    "shutter*",
     "demolish*",
     "demolition",
     "hall of fame",
@@ -40,8 +44,6 @@
     "passed away",
     "in memoriam",
     "tribute",
-    "legend",
-    "legendary",
     "looks back",
     "looking back",
     "throwback",
@@ -49,8 +51,6 @@
     "reunion",
     "oral history",
     "heyday",
-    "golden age",
-    "years ago",
-    "vintage"
+    "golden age"
   ]
 }
