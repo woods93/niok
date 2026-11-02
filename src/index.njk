@@ -1,0 +1,46 @@
+---
+layout: base.njk
+script: filters.js
+---
+{% from "macros.njk" import card %}
+{% set recent = feed | take(150) %}
+{% set pinnedPicks = pickList | pinned | take(5) %}
+
+<section class="intro">
+  <p>{{ site.tagline }}</p>
+</section>
+
+<section id="thisday" class="thisday" hidden data-entries="{{ thisday | dump }}">
+  <h2>This day in Nashville music</h2>
+  <ul id="thisday-list"></ul>
+</section>
+
+{% if pinnedPicks.length %}
+<section class="picks">
+  <h2>Host picks</h2>
+  {% for a in pinnedPicks %}{{ card(a) }}{% endfor %}
+  <p><a href="{{ '/picks/' | url }}">All host picks</a></p>
+</section>
+{% endif %}
+
+<section>
+  <h2>Latest</h2>
+  {% if recent.length %}
+  <form class="filters" onsubmit="return false">
+    <label>Filter <input type="search" id="q" placeholder="Artist, venue, word"></label>
+    <label>Source
+      <select id="src">
+        <option value="">All sources</option>
+        {% for s in recent | uniqueSources %}<option>{{ s }}</option>{% endfor %}
+      </select>
+    </label>
+    <label class="check"><input type="checkbox" id="nost"> Nostalgia only</label>
+    <span id="count" class="count" aria-live="polite"></span>
+  </form>
+  <div id="feed">
+    {% for a in recent %}{{ card(a) }}{% endfor %}
+  </div>
+  {% else %}
+  <p class="empty">No stories yet. The first update fills this page in.</p>
+  {% endif %}
+</section>

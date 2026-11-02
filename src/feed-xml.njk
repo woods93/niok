@@ -1,0 +1,23 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title | xmlEscape }}: host picks</title>
+    <link>{{ site.url }}{{ '/' | url }}</link>
+    <description>{{ site.description | xmlEscape }}</description>
+    <language>en-us</language>
+{%- for a in pickList | take(50) %}
+    <item>
+      <title>{{ a.title | xmlEscape }}</title>
+      <link>{{ a.url | xmlEscape }}</link>
+      <guid isPermaLink="false">{{ a.id }}</guid>
+      <pubDate>{{ a.published | rfc822 }}</pubDate>
+      <source url="{{ a.url | xmlEscape }}">{{ a.source | xmlEscape }}</source>
+      <description>{{ (a.note or a.excerpt or '') | xmlEscape }}</description>
+    </item>
+{%- endfor %}
+  </channel>
+</rss>

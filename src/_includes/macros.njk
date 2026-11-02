@@ -1,0 +1,15 @@
+{% macro card(a) %}
+<article class="card{% if a.nostalgic %} nostalgic{% endif %}" data-source="{{ a.source }}" data-nostalgic="{{ 'yes' if a.nostalgic else 'no' }}" data-text="{{ (a.title + ' ' + a.source + ' ' + (a.excerpt or '') + ' ' + ((a.tags or []) | join(' '))) | lower }}">
+  <h3 class="card-title"><a href="{{ a.url }}" rel="noopener">{{ a.title }}</a></h3>
+  <p class="meta">
+    <span class="source">{{ a.source }}</span>
+    <time datetime="{{ a.published }}">{{ a.published | shortDate }}</time>
+    {% if a.nostalgic %}<span class="badge">Nostalgia {{ a.score }}</span>{% endif %}
+  </p>
+  {% if a.excerpt %}<p class="excerpt">{{ a.excerpt }}</p>{% endif %}
+  {% if a.note %}<p class="note"><strong>Host note:</strong> {{ a.note }}</p>{% endif %}
+  {% if a.episode %}<p class="episode">From the show: {% if a.episode.startsWith('http') %}<a href="{{ a.episode }}" rel="noopener">listen to the episode</a>{% else %}{{ a.episode }}{% endif %}</p>{% endif %}
+  {% if a.nostalgic and a.reasons and a.reasons.length %}<p class="why">Flagged for: {{ a.reasons | join(', ') }}</p>{% endif %}
+  {% if a.tags and a.tags.length %}<p class="tags">{% for t in a.tags %}<span>{{ t }}</span>{% endfor %}</p>{% endif %}
+</article>
+{% endmacro %}

@@ -1,0 +1,14 @@
+---
+layout: base.njk
+title: Search
+permalink: /search/
+script: search.js
+---
+<h1>Search</h1>
+<p class="lede">Searches every story on the site, including the archive.</p>
+<form class="filters" onsubmit="return false">
+  <label>Search <input type="search" id="sq" placeholder="Artist, venue, label, word" autofocus></label>
+  <label class="check"><input type="checkbox" id="snost"> Nostalgia only</label>
+</form>
+<p id="scount" class="count" aria-live="polite"></p>
+<div id="results" data-index="{{ '/search.json' | url }}"></div>

@@ -1,0 +1,16 @@
+---
+layout: base.njk
+title: Archive
+permalink: /archive/
+---
+<h1>Archive</h1>
+<p class="lede">Stories older than 90 days, by month. The last 90 days are on the front page.</p>
+{% if archiveMonths.length %}
+<ul class="months">
+  {% for m in archiveMonths %}
+  <li><a href="{{ ('/archive/' + m.month + '/') | url }}">{{ m.month | monthLabel }}</a> <span class="count">{{ m.items.length }} stories</span></li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="empty">Nothing here yet. Stories move to the archive after 90 days.</p>
+{% endif %}

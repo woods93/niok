@@ -1,0 +1,21 @@
+{
+  "name": "nashville-i-once-knew",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Nashville and Nashville music news aggregator with a nostalgia focus",
+  "scripts": {
+    "ingest": "node scripts/ingest.mjs",
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "update": "node scripts/ingest.mjs && eleventy"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "csv-parse": "^5.5.6",
+    "rss-parser": "^3.13.0"
+  }
+}

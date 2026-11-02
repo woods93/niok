@@ -1,0 +1,14 @@
+---
+layout: base.njk
+pagination:
+  data: archiveMonths
+  size: 1
+  alias: m
+permalink: "archive/{{ m.month }}/"
+eleventyComputed:
+  title: "Archive: {{ m.month | monthLabel }}"
+---
+{% from "macros.njk" import card %}
+<h1>{{ m.month | monthLabel }}</h1>
+<p><a href="{{ '/archive/' | url }}">All months</a></p>
+{% for a in m.items %}{{ card(a) }}{% endfor %}

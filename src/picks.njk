@@ -1,0 +1,13 @@
+---
+layout: base.njk
+title: Host picks
+permalink: /picks/
+---
+{% from "macros.njk" import card %}
+<h1>Host picks</h1>
+<p class="lede">Stories the hosts flagged, with their notes and links to the episodes that cover them.</p>
+{% if pickList.length %}
+  {% for a in pickList %}{{ card(a) }}{% endfor %}
+{% else %}
+  <p class="empty">No picks yet. Add rows to the host picks sheet and they appear here after the next update.</p>
+{% endif %}

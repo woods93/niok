@@ -1,0 +1,76 @@
+{
+  "settings": {
+    "keepDays": 90,
+    "ingestMaxAgeDays": 30,
+    "timeoutMs": 20000,
+    "batchSize": 4,
+    "googleNewsWindow": "14d",
+    "userAgent": "NashvilleIOnceKnewReader/1.0 (news aggregator; headlines and links only)"
+  },
+  "feeds": [
+    {
+      "name": "Saving Country Music",
+      "url": "https://www.savingcountrymusic.com/feed/",
+      "enabled": true,
+      "note": "Guessed WordPress feed address. Confirm on the Status page after the first run."
+    },
+    {
+      "name": "Music Row",
+      "url": "https://musicrow.com/feed/",
+      "enabled": true,
+      "note": "Guessed WordPress feed address. Confirm on the Status page after the first run."
+    },
+    {
+      "name": "WPLN News",
+      "url": "https://wpln.org/feed/",
+      "enabled": true,
+      "note": "Guessed WordPress feed address. Confirm on the Status page after the first run."
+    },
+    {
+      "name": "Billboard Country",
+      "url": "https://www.billboard.com/c/music/country/feed/",
+      "enabled": true,
+      "note": "Guessed address. May be blocked or moved."
+    },
+    {
+      "name": "Rolling Stone Country",
+      "url": "https://www.rollingstone.com/music/music-country/feed/",
+      "enabled": true,
+      "note": "Guessed address. May be blocked or moved."
+    },
+    {
+      "name": "Nashville Scene",
+      "url": "",
+      "enabled": false,
+      "note": "Find the site's RSS address, paste it into url, then set enabled to true."
+    },
+    {
+      "name": "The Tennessean",
+      "url": "",
+      "enabled": false,
+      "note": "Find the RSS address, paste it into url, then set enabled to true."
+    },
+    {
+      "name": "Axios Nashville",
+      "url": "",
+      "enabled": false,
+      "note": "Find the RSS address, paste it into url, then set enabled to true."
+    },
+    {
+      "name": "Country Music Hall of Fame",
+      "url": "",
+      "enabled": false,
+      "evergreen": true,
+      "note": "History source. evergreen true keeps old pieces in the main feed by the date they were added."
+    }
+  ],
+  "googleNews": {
+    "enabled": true,
+    "entityQueries": true,
+    "extraQueries": [
+      "Nashville music history",
+      "Nashville songwriters tribute",
+      "Nashville music venue closing"
+    ]
+  }
+}

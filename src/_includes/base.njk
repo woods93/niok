@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}: host picks" href="{{ '/feed.xml' | url }}">
+</head>
+<body>
+  <header class="masthead">
+    <a class="brand" href="{{ '/' | url }}">{{ site.title }}</a>
+    <nav aria-label="Main">
+      <a href="{{ '/' | url }}">Latest</a>
+      <a href="{{ '/picks/' | url }}">Host picks</a>
+      <a href="{{ '/archive/' | url }}">Archive</a>
+      <a href="{{ '/search/' | url }}">Search</a>
+      <a href="{{ '/about/' | url }}">About</a>
+    </nav>
+  </header>
+  <main>
+    {{ content | safe }}
+  </main>
+  <footer>
+    <p>Headlines and short excerpts link to the original publishers. All rights in the stories belong to their sources.</p>
+    <p><a href="{{ '/feed.xml' | url }}">Host picks RSS</a> · <a href="{{ '/status/' | url }}">Source status</a> · <a href="{{ '/about/' | url }}">About and takedowns</a></p>
+  </footer>
+  {% if script %}<script src="{{ ('/assets/' + script) | url }}" defer></script>{% endif %}
+</body>
+</html>

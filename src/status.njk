@@ -1,0 +1,24 @@
+---
+layout: base.njk
+title: Source status
+permalink: /status/
+---
+<h1>Source status</h1>
+<p class="lede">Which feeds answered on the most recent update.{% if health.checkedAt %} Checked {{ health.checkedAt | shortDate }}.{% endif %}</p>
+{% if health.sources.length %}
+<table class="status">
+  <thead><tr><th>Source</th><th>Result</th><th>Fetched</th><th>New</th></tr></thead>
+  <tbody>
+  {% for s in health.sources %}
+    <tr class="{{ 'ok' if s.ok else 'bad' }}">
+      <td>{{ s.name }}</td>
+      <td>{% if s.ok %}OK{% else %}Failed: {{ s.error }}{% endif %}</td>
+      <td>{{ s.fetched }}</td>
+      <td>{{ s.added }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p class="empty">No update has run yet.</p>
+{% endif %}

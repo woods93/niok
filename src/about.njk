@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: About
+permalink: /about/
+---
+<h1>About this site</h1>
+<p>{{ site.title }} collects news about Nashville and Nashville music from many publishers and marks the stories that look back at the city's music history, especially the rock and country scene of the 1980s and early 1990s.</p>
+{% if site.podcastUrl %}<p>It grew out of <a href="{{ site.podcastUrl }}">{{ site.podcastName }}</a>.</p>{% endif %}
+
+<h2>How it works</h2>
+<p>Every few hours a program reads the public news feeds that publishers offer, removes duplicates, and scores each story. A story scores higher when it mentions a venue, artist, label, or landmark from the era, uses language of remembrance (anniversary, tribute, farewell, hall of fame), or refers to a year from 1980 to 1995. Stories that pass the threshold get a Nostalgia badge, and the card lists the words that triggered it. The scoring is automatic and sometimes wrong. The hosts also pin stories by hand and add notes.</p>
+
+<h2>What is shown</h2>
+<p>Each card shows a headline, a short excerpt where the publisher's feed provides one, the source name, and a link to the original story. The full articles, photos, and everything else stay with the publishers. Please click through to read them.</p>
+
+<h2>Corrections and takedowns</h2>
+{% if site.contact %}
+<p>If you publish a source listed here and want a story or feed removed, or you see a mistake, write to <a href="mailto:{{ site.contact }}">{{ site.contact }}</a>.</p>
+{% else %}
+<p>If you publish a source listed here and want a story or feed removed, please contact the site owner through the podcast.</p>
+{% endif %}
