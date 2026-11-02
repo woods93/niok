@@ -192,10 +192,14 @@ for (const { f, r } of results) {
 }
 
 // ---------------------------------------------------------------- score, trim, archive
-const all = [...existing, ...added].map((a) => ({
-  ...a,
-  ...scorer.score(`${a.title}. ${a.excerpt || ''}`)
-}));
+// Clean every story each run: merge source name variants, drop blocked sources,
+// tidy leftover excerpt endings, then score.
+const blocked = new Set((settings.blockSources || []).map((s) => String(s).toLowerCase()));
+const aliases = settings.sourceAliases || {};
+const all = [...existing, ...added]
+  .map((a) => ({ ...a, source: aliases[a.source] || a.source, excerpt: makeExcerpt(a.excerpt || '') }))
+  .filter((a) => !blocked.has(String(a.source).toLowerCase()))
+  .map((a) => ({ ...a, ...scorer.score(`${a.title}. ${a.excerpt || ''}`) }));
 all.sort((a, b) => String(b.sortDate).localeCompare(String(a.sortDate)));
 
 const keepMs = settings.keepDays * DAY;
