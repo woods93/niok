@@ -1,0 +1,75 @@
+name: Update news and deploy site
+
+on:
+  schedule:
+    # Every 4 hours, at 17 minutes past the hour (UTC).
+    - cron: '17 */4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # Until a custom domain is connected, the site lives at owner.github.io/repo-name/.
+      # After connecting a domain, set the repository variables PATH_PREFIX to / and SITE_URL to https://yourdomain.
+      PATH_PREFIX: ${{ vars.PATH_PREFIX || format('/{0}/', github.event.repository.name) }}
+      SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+      PICKS_CSV_URL: ${{ vars.PICKS_CSV_URL }}
+      THISDAY_CSV_URL: ${{ vars.THISDAY_CSV_URL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Pull feeds and score stories
+        run: node scripts/ingest.mjs
+
+      - name: Save new data to the repository
+        run: |
+          git config user.name "news-updater"
+          git config user.email "news-updater@users.noreply.github.com"
+          git add src/_data
+          if [ -d data ]; then git add data; fi
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update news data"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: Build the site
+        run: npx eleventy
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
