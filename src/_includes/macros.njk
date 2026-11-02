@@ -9,6 +9,7 @@
   {% if a.excerpt %}<p class="excerpt">{{ a.excerpt }}</p>{% endif %}
   {% if a.note %}<p class="note"><strong>Host note:</strong> {{ a.note }}</p>{% endif %}
   {% if a.episode %}<p class="episode">From the show: {% if a.episode.startsWith('http') %}<a href="{{ a.episode }}" rel="noopener">listen to the episode</a>{% else %}{{ a.episode }}{% endif %}</p>{% endif %}
+  {% if a.also and a.also.length %}<p class="also">Also covered by: {% for o in a.also %}<a href="{{ o.url }}" rel="noopener" title="{{ o.title }}">{{ o.source }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>{% endif %}
   {% if a.nostalgic and a.reasons and a.reasons.length %}<p class="why">Flagged for: {{ a.reasons | join(', ') }}</p>{% endif %}
   {% if a.tags and a.tags.length %}<p class="tags">{% for t in a.tags %}<span>{{ t }}</span>{% endfor %}</p>{% endif %}
 </article>
