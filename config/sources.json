@@ -5,7 +5,19 @@
     "timeoutMs": 20000,
     "batchSize": 4,
     "googleNewsWindow": "14d",
-    "userAgent": "NashvilleIOnceKnewReader/1.0 (news aggregator; headlines and links only)"
+    "userAgent": "NashvilleIOnceKnewReader/1.0 (news aggregator; headlines and links only)",
+    "blockSources": [
+      "Fast Food Club",
+      "Condé Nast Traveler",
+      "Hoodline",
+      "WBUR",
+      "Only In Your State",
+      "Nashville Guru",
+      "TicketNews"
+    ],
+    "sourceAliases": {
+      "MusicRow.com": "Music Row"
+    }
   },
   "feeds": [
     {
@@ -69,8 +81,7 @@
     "entityQueries": true,
     "extraQueries": [
       "Nashville music history",
-      "Nashville songwriters tribute",
-      "Nashville music venue closing"
+      "Nashville songwriters tribute"
     ]
   }
 }
