@@ -3,7 +3,7 @@ layout: base.njk
 script: filters.js
 ---
 {% from "macros.njk" import card %}
-{% set recent = feed | take(150) %}
+{% set recent = feedGrouped | take(150) %}
 {% set pinnedPicks = pickList | pinned | take(5) %}
 
 <section class="intro">
