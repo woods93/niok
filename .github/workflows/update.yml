@@ -28,7 +28,10 @@ jobs:
       PICKS_CSV_URL: ${{ vars.PICKS_CSV_URL }}
       THISDAY_CSV_URL: ${{ vars.THISDAY_CSV_URL }}
     steps:
+      # Always start from the newest commit on the branch, so a queued run sees the data saved by the run before it.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-node@v4
         with:
@@ -51,7 +54,7 @@ jobs:
             echo "No data changes to commit."
           else
             git commit -m "Update news data"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
