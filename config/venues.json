@@ -1,0 +1,35 @@
+[
+  {
+    "id": "basement",
+    "name": "The Basement",
+    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+    "reader": "basement"
+  },
+  {
+    "id": "joelton",
+    "name": "Joelton Hardware",
+    "url": "https://www.joeltonhardware.com/events",
+    "reader": "squarespace"
+  },
+  {
+    "id": "end",
+    "name": "The End",
+    "url": "https://endnashville.com/events/",
+    "reader": "links",
+    "linkPattern": "/event/",
+    "ticketPattern": "etix\\.com"
+  },
+  {
+    "id": "5spot",
+    "name": "The 5 Spot",
+    "url": "https://the5spotnashville.com/",
+    "reader": "links",
+    "linkPattern": "/shows/\\d+"
+  },
+  {
+    "id": "skinny",
+    "name": "Skinny Dennis",
+    "url": "https://skinnydennisnashville.com/calendar/",
+    "reader": "text"
+  }
+]
