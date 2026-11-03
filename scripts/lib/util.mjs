@@ -92,3 +92,63 @@ export function makeExcerpt(raw, max = 240) {
   const sp = cut.lastIndexOf(' ');
   return (sp > 120 ? cut.slice(0, sp) : cut).replace(/[\s,;:.\-]+$/, '') + '…';
 }
+
+// ---- thumbnails ----------------------------------------------------------
+const BAD_IMG = /(gravatar|pixel|spacer|blank\.|1x1|emoji|logo|favicon|\/ads?\/|doubleclick|feedburner)/i;
+
+export function cleanImageUrl(u, base) {
+  try {
+    const x = new URL(String(u || '').trim().replace(/&amp;/g, '&'), base || undefined);
+    if (x.protocol === 'http:') x.protocol = 'https:';
+    if (x.protocol !== 'https:') return '';
+    const s = x.toString();
+    return BAD_IMG.test(s) ? '' : s;
+  } catch {
+    return '';
+  }
+}
+
+function attrUrl(v) {
+  if (!v) return '';
+  if (Array.isArray(v)) return attrUrl(v.find((e) => attrUrl(e)));
+  if (typeof v === 'string') return v;
+  return (v.$ && (v.$.url || v.$.href)) || v.url || '';
+}
+
+// Picks the best image a feed item offers: media tags, enclosure, then the first <img> in the body.
+export function extractImage(item) {
+  const cands = [];
+  const mc = item.mediaContent;
+  if (Array.isArray(mc)) {
+    for (const m of mc) {
+      const t = (m && m.$ && (m.$.medium || m.$.type)) || '';
+      if (!t || /image/i.test(t)) cands.push(attrUrl(m));
+    }
+  } else if (mc) cands.push(attrUrl(mc));
+  cands.push(attrUrl(item.mediaThumbnail));
+  if (item.enclosure && /image/i.test(item.enclosure.type || '')) cands.push(item.enclosure.url);
+  for (const body of [item['content:encoded'], item.content, item.summary]) {
+    const m = /<img[^>]+src=["']([^"']+)["']/i.exec(String(body || ''));
+    if (m) cands.push(m[1]);
+  }
+  for (const c of cands) {
+    const ok = cleanImageUrl(c);
+    if (ok) return ok;
+  }
+  return '';
+}
+
+export function ogImage(html, pageUrl) {
+  const head = String(html || '').slice(0, 200000);
+  const re = /<meta[^>]+(?:property|name)=["'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["'][^>]*>/gi;
+  let m;
+  while ((m = re.exec(head))) {
+    const c = /content=["']([^"']+)["']/i.exec(m[0]);
+    if (c) {
+      const ok = cleanImageUrl(decodeEntities(c[1]), pageUrl);
+      if (ok) return ok;
+    }
+  }
+  const rev = /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i.exec(head);
+  return rev ? cleanImageUrl(decodeEntities(rev[1]), pageUrl) : '';
+}
