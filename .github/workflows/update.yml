@@ -50,6 +50,10 @@ jobs:
         timeout-minutes: 5
         run: node scripts/episodes.mjs
 
+      - name: Pull live show listings
+        timeout-minutes: 5
+        run: node scripts/shows.mjs
+
       - name: Save new data to the repository
         run: |
           git config user.name "news-updater"
