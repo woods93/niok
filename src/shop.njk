@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: Shop
+permalink: /shop/
+---
+<h1>Shop</h1>
+<p class="lede">Merchandise and ways to support the show.</p>
+
+{% if shop and shop.length %}
+<div class="fam-grid">
+  {% for item in shop %}
+  <article class="card fam">
+    {% if item.image %}<a class="fam-pic" href="{{ item.url }}" rel="noopener"><img src="{{ (item.image | url) if item.image.startsWith('/') else item.image }}" alt="{{ item.name }}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a>{% endif %}
+    <h3 class="card-title"><a href="{{ item.url }}" rel="noopener">{{ item.name }}</a></h3>
+    {% if item.blurb %}<p>{{ item.blurb }}</p>{% endif %}
+  </article>
+  {% endfor %}
+</div>
+{% else %}
+<p class="empty">Nothing here yet. Check back soon.</p>
+{% endif %}
