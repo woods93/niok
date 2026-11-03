@@ -105,5 +105,11 @@
     "url": "https://cobranashville.com/",
     "image": "https://cobranashville.com/wp-content/uploads/2023/11/Cobra-Logo-400-x-175-px.png",
     "blurb": "A bar and live music venue at 2511 Gallatin Ave in East Nashville, with a main stage and a Front Bar stage. Come for a drink and stay for the music."
+  },
+  {
+    "name": "Vinyl Tap",
+    "url": "https://www.vinyltapnashville.com/",
+    "image": "https://images.squarespace-cdn.com/content/v1/56a7c400d82d5e771fa6096d/1575216521525-MNEBRB22FT2HHOI27YVN/vinyltap_logo.png?format=1500w",
+    "blurb": "A neighborhood bar and record store at 2038 Greenwood Ave in East Nashville, pairing local and regional craft beer with new and used vinyl, plus weekly live music."
   }
 ]
