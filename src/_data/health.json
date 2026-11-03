@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-03T12:04:01.184Z",
+ "checkedAt": "2026-11-03T12:09:11.803Z",
  "sources": [
   {
    "name": "Saving Country Music",
@@ -8,7 +8,7 @@
    "fetched": 38,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Music Row",
@@ -17,7 +17,7 @@
    "fetched": 10,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "WPLN News",
@@ -26,7 +26,7 @@
    "fetched": 16,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Billboard Country",
@@ -35,7 +35,7 @@
    "fetched": 10,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Rolling Stone Country",
@@ -44,16 +44,16 @@
    "fetched": 10,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"Exit/In\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 43,
-   "added": 1,
+   "fetched": 12,
+   "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"Station Inn\" Nashville",
@@ -62,7 +62,7 @@
    "fetched": 2,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"Bluebird Cafe\" Nashville",
@@ -71,16 +71,16 @@
    "fetched": 11,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"Ryman Auditorium\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 26,
+   "fetched": 27,
    "added": 7,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"Tootsie's Orchid Lounge\" Nashville",
@@ -89,7 +89,7 @@
    "fetched": 7,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"Springwater Supper Club\" Nashville",
@@ -98,7 +98,7 @@
    "fetched": 1,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"The Cannery\" Nashville",
@@ -107,7 +107,7 @@
    "fetched": 0,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"328 Performance Hall\" Nashville",
@@ -116,16 +116,16 @@
    "fetched": 0,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"Music Row\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 31,
-   "added": 1,
+   "fetched": 47,
+   "added": 2,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"Printers Alley\" Nashville",
@@ -134,7 +134,7 @@
    "fetched": 5,
    "added": 1,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: \"Elliston Place\" Nashville",
@@ -143,25 +143,25 @@
    "fetched": 6,
    "added": 6,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: Nashville music history",
    "kind": "feed",
    "ok": true,
-   "fetched": 47,
-   "added": 4,
+   "fetched": 45,
+   "added": 0,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   },
   {
    "name": "Google News: Nashville songwriters tribute",
    "kind": "feed",
    "ok": true,
-   "fetched": 62,
-   "added": 0,
+   "fetched": 29,
+   "added": 2,
    "error": "",
-   "checkedAt": "2026-11-03T12:04:01.184Z"
+   "checkedAt": "2026-11-03T12:09:11.803Z"
   }
  ]
 }
