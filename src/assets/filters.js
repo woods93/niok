@@ -1,4 +1,13 @@
 (function () {
+  // Show "3h ago" for stories under two days old
+  Array.prototype.forEach.call(document.querySelectorAll('time[datetime]'), function (t) {
+    var ms = Date.now() - new Date(t.getAttribute('datetime')).getTime();
+    if (ms >= 0 && ms < 48 * 3600000) {
+      var h = Math.floor(ms / 3600000);
+      t.textContent = h < 1 ? 'Just now' : h + 'h ago';
+    }
+  });
+
   // Filtering on the front page
   var cards = Array.prototype.slice.call(document.querySelectorAll('#feed .card'));
   var q = document.getElementById('q');
