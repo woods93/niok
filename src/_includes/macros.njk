@@ -1,16 +1,20 @@
 {% macro card(a) %}
-<article class="card{% if a.nostalgic %} nostalgic{% endif %}" data-source="{{ a.source }}" data-nostalgic="{{ 'yes' if a.nostalgic else 'no' }}" data-text="{{ (a.title + ' ' + a.source + ' ' + (a.excerpt or '') + ' ' + ((a.tags or []) | join(' '))) | lower }}">
-  <h3 class="card-title"><a href="{{ a.url }}" rel="noopener">{{ a.title }}</a></h3>
-  <p class="meta">
-    <span class="source">{{ a.source }}</span>
-    <time datetime="{{ a.published }}">{{ a.published | shortDate }}</time>
-    {% if a.nostalgic %}<span class="badge">Nostalgia {{ a.score }}</span>{% endif %}
-  </p>
-  {% if a.excerpt %}<p class="excerpt">{{ a.excerpt }}</p>{% endif %}
-  {% if a.note %}<p class="note"><strong>Host note:</strong> {{ a.note }}</p>{% endif %}
-  {% if a.episode %}<p class="episode">From the show: {% if a.episode.startsWith('http') %}<a href="{{ a.episode }}" rel="noopener">listen to the episode</a>{% else %}{{ a.episode }}{% endif %}</p>{% endif %}
-  {% if a.also and a.also.length %}<p class="also">Also covered by: {% for o in a.also %}<a href="{{ o.url }}" rel="noopener" title="{{ o.title }}">{{ o.source }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>{% endif %}
-  {% if a.nostalgic and a.reasons and a.reasons.length %}<p class="why">Flagged for: {{ a.reasons | join(', ') }}</p>{% endif %}
-  {% if a.tags and a.tags.length %}<p class="tags">{% for t in a.tags %}<span>{{ t }}</span>{% endfor %}</p>{% endif %}
+{% set lead = a.nostalgic and a.image %}
+<article class="card{% if a.nostalgic %} nostalgic{% endif %}{% if lead %} lead{% endif %}{% if a.image %} has-image{% endif %}" data-source="{{ a.source }}" data-nostalgic="{{ 'yes' if a.nostalgic else 'no' }}" data-text="{{ (a.title + ' ' + a.source + ' ' + (a.excerpt or '') + ' ' + ((a.tags or []) | join(' '))) | lower }}">
+  {% if a.image %}<a class="thumb" href="{{ a.url }}" rel="noopener" tabindex="-1" aria-hidden="true"><img src="{{ a.image }}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="var c=this.closest('.card');c.classList.remove('has-image','lead');this.parentNode.remove()"></a>{% endif %}
+  <div class="card-body">
+    <p class="meta">
+      <span class="source">{{ a.source }}</span>
+      {% if a.nostalgic %}<span class="badge">Nostalgia {{ a.score }}</span>{% endif %}
+    </p>
+    <h3 class="card-title"><a href="{{ a.url }}" rel="noopener">{{ a.title }}</a></h3>
+    {% if a.excerpt %}<p class="excerpt">{{ a.excerpt }}</p>{% endif %}
+    <p class="meta"><time datetime="{{ a.published }}">{{ a.published | shortDate }}</time></p>
+    {% if a.note %}<p class="note"><strong>Host note:</strong> {{ a.note }}</p>{% endif %}
+    {% if a.episode %}<p class="episode">From the show: {% if a.episode.startsWith('http') %}<a href="{{ a.episode }}" rel="noopener">listen to the episode</a>{% else %}{{ a.episode }}{% endif %}</p>{% endif %}
+    {% if a.also and a.also.length %}<p class="also">Also covered by: {% for o in a.also %}<a href="{{ o.url }}" rel="noopener" title="{{ o.title }}">{{ o.source }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>{% endif %}
+    {% if a.nostalgic and a.reasons and a.reasons.length %}<p class="why">Flagged for: {{ a.reasons | join(', ') }}</p>{% endif %}
+    {% if a.tags and a.tags.length %}<p class="tags">{% for t in a.tags %}<span>{{ t }}</span>{% endfor %}</p>{% endif %}
+  </div>
 </article>
 {% endmacro %}
