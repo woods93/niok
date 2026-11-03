@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T20:23:35.878Z",
+ "updatedAt": "2026-11-03T20:24:56.257Z",
  "venues": [
   {
    "id": "basement",
@@ -45,9 +45,29 @@
    "count": 67,
    "error": "",
    "stale": false
+  },
+  {
+   "id": "puckett-nashville",
+   "name": "Puckett's Nashville",
+   "url": "https://www.puckettsrestaurant.com/nashville/music",
+   "ok": true,
+   "count": 45,
+   "error": "",
+   "stale": false
   }
  ],
  "shows": [
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Kaylyn Sahs",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/kaylyn-sahs-11326",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
   {
    "venue": "The Basement",
    "title": "New Faces Night feat. Ziona Riley, Trevor Finlay, Alaina Fidanzo, Billy Vincent, Speaker, Southside MAB and Cook Allender",
@@ -120,6 +140,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Erin McLendon",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/erin-mclendon-11426",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "CRAIG GOFF BAND",
    "date": "2026-11-04",
@@ -150,6 +181,17 @@
    "url": "https://www.joeltonhardware.com/events/good-news-open-mic-4",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "JL Fulks",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/jl-fulks-11526",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "Skinny Dennis",
@@ -232,6 +274,17 @@
    "url": "https://www.joeltonhardware.com/events/joelton-hardware-presents-bonepony",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "The Berrys",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/the-berrys-11626",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement East",
@@ -337,6 +390,17 @@
    "source": "end"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Josey Clay",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/josey-clay-11726",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "Sunday Brunch with music by TRIPLE DOG DARE (acoustic roots rock)",
    "date": "2026-11-08",
@@ -411,6 +475,17 @@
    "source": "joelton"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Shane Zen",
+   "date": "2026-11-09",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/shane-zen-11926",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement",
    "title": "Caitlyn Smith - Album Release Show",
    "date": "2026-11-09",
@@ -469,6 +544,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Doug Allen",
+   "date": "2026-11-10",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/doug-allen-111026",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement",
@@ -530,6 +616,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Lucie Tiger",
+   "date": "2026-11-11",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/lucie-tiger-111126",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement",
@@ -685,6 +782,17 @@
    "source": "joelton"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "RischeCraft",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/rischecraft-111326",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement",
    "title": "RR Party - D. Striker, Corey Parsons, Chris Crofton",
    "date": "2026-11-13",
@@ -746,6 +854,17 @@
    "url": "https://www.joeltonhardware.com/events/oliver-sayani-album-release-concert-with-support-from-brady-evan",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "TN WOLVES",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/tn-wolves-111426",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement East",
@@ -841,6 +960,17 @@
    "source": "joelton"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Cody Lee Rose",
+   "date": "2026-11-16",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/cody-lee-rose-111626",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement",
    "title": "Hippie Death Cult w/ Maanta Raay",
    "date": "2026-11-16",
@@ -901,6 +1031,17 @@
    "url": "https://www.joeltonhardware.com/events/sw4gk3y27c6wt3y-t7s5t",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Ben Owens",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/ben-owens-111726",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement",
@@ -964,6 +1105,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Katrina Burgoyne",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/katrina-burgoyne-111826",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement",
    "title": "Olive Jones w/ Lindsey Lomis",
    "date": "2026-11-18",
@@ -1024,6 +1176,17 @@
    "url": "https://www.joeltonhardware.com/events/earl-erb-trio-1-fnc5c-kdngy-8952j-np2ep-xncyk-8j5kl-dg2ar-4tlbz-ec2gr-ws492-24wxc-xrnh8-ap2r9-5mc7l-ct72n-et3tn-flc2p-lrsp4-yyybf-kj6eh-lrpx7-6arcr-atr63",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Brittany Elise",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/brittany-elise-111926",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "Joelton Hardware",
@@ -1117,6 +1280,17 @@
    "url": "https://www.joeltonhardware.com/events/kiss-led-zeppelin-and-rush-cover-band",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Montgomery Pike",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/montgomery-pike-112026",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement East",
@@ -1222,6 +1396,17 @@
    "source": "joelton"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Adam & Amy Pope",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/adam-and-amy-pope-112126",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "SUNDAY BRUNCH with music by JOHNNY SHORTRIDGE!",
    "date": "2026-11-22",
@@ -1295,6 +1480,17 @@
    "source": "joelton"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Austin Gray",
+   "date": "2026-11-23",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/austin-gray-112326",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement",
    "title": "Jonah Kagen",
    "date": "2026-11-23",
@@ -1337,6 +1533,17 @@
    "source": "joelton"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Amberlea Bruch",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/amberlea-bruch-112426",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement",
    "title": "New Faces Night feat.",
    "date": "2026-11-24",
@@ -1376,6 +1583,17 @@
    "url": "https://www.joeltonhardware.com/events/gene-dunlap-w-jonell-mosser-z-band-lmmzk-r5hxf-j9lth-ybzph-ppr7b-64en6-yblkl-88rse-rlgbm-njjbn-4sn35-eb75y-68ewr-3sk6x-9lcdz-ehb79-ey4ym-gdep8-5ace4-6znmb-ta9s6-apdyd-msmy3-slnmx-djyac-rmegm-pz6bn",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Blake Nolan",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/blake-nolan-112526",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "Skinny Dennis",
@@ -1440,6 +1658,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Mark Hatt",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/mark-hatt-112726",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement East",
    "title": "Guilty Pleasures 11th Annual Post-Thanksgiving Bash",
    "date": "2026-11-27",
@@ -1480,6 +1709,17 @@
    "url": "https://www.joeltonhardware.com/events/kyle-rullmann-3k9eg",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Carl Wayne Meekins and the Nashville All Stars",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/e-carl-wayne-meekins-and-the-nashville-all-stars-112826",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement East",
@@ -1555,6 +1795,17 @@
    "source": "joelton"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Natalie Uhlenhake",
+   "date": "2026-11-30",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/natalie-uhlenhake-113026",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The End",
    "title": "Liam Law & Lance Magic w/Noah Rojas, Dean Marino & The Mob & Layla Michelle – 18+",
    "date": "2026-11-30",
@@ -1563,6 +1814,17 @@
    "url": "https://endnashville.com/event/liam-law-lance-magic-w-noah-rojas-dean-marino-the-mob-layla-michelle-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/42266878/liam-law-lance-magic-wnoah-rojasdean-marino-the-mob-layla-michelle-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Krystal King",
+   "date": "2026-12-01",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/krystal-king-12126",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement",
@@ -1605,6 +1867,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Cole Greenwalt",
+   "date": "2026-12-02",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/cole-greenwalt-12226",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement East",
    "title": "Katie Pruitt - Fools for the Fleeting Tour w/ Anthony da Costa and BAERD",
    "date": "2026-12-02",
@@ -1623,6 +1896,17 @@
    "url": "https://endnashville.com/event/emma-martin-w-lisa-curtis-beila-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/89304502/emma-martin-wlisa-curtis-beila-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Austin Byrd",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/austin-byrd-12326",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "Skinny Dennis",
@@ -1665,6 +1949,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "The Resonauts",
+   "date": "2026-12-04",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/the-resonauts-12426",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement East",
    "title": "The Wldlfe - Long Way Home Tour w/ Landon Conrath",
    "date": "2026-12-04",
@@ -1705,6 +2000,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Kayla Woodson",
+   "date": "2026-12-05",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/kayla-woodson-12526",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement East",
    "title": "The Emo Night Tour",
    "date": "2026-12-05",
@@ -1735,6 +2041,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Matt Marinchick",
+   "date": "2026-12-07",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/matt-marinchick-12726",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "AN EVENING WITH JIM LAUDERDALE & THE GAME CHANGERS",
    "date": "2026-12-07",
@@ -1753,6 +2070,17 @@
    "url": "https://endnashville.com/event/wild-pink-w-hiding-places-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/67193997/wild-pink-whiding-places-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Kyle Isamoyer",
+   "date": "2026-12-08",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/kyle-isamoyer-12826",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement",
@@ -1805,6 +2133,17 @@
    "source": "basement"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Taylon Hope",
+   "date": "2026-12-10",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/taylon-hope-121026",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "HUNTER FLYNN",
    "date": "2026-12-10",
@@ -1845,6 +2184,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Christmas with the Pat Sheridan Trio",
+   "date": "2026-12-11",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/christmas-with-the-pat-sheridan-trio-121126",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement East",
    "title": "Sicard Hollow & Dizgo",
    "date": "2026-12-11",
@@ -1863,6 +2213,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "The Jenkins Twins",
+   "date": "2026-12-12",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/the-jenkins-twins-121226",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement East",
@@ -1895,6 +2256,17 @@
    "source": "basement"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Justen Harden",
+   "date": "2026-12-14",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/justen-harden-121426",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "BIRKEDAHL & THE WOLVES",
    "date": "2026-12-14",
@@ -1903,6 +2275,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Patrick McCormic",
+   "date": "2026-12-15",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/patrick-mccormic-121526",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement",
@@ -1935,6 +2318,28 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Ingrid Griffin",
+   "date": "2026-12-16",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/ingrid-griffin-121626",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Brooklyn Ray",
+   "date": "2026-12-17",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/brooklyn-ray-121726",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "WAYLON PAYNE",
    "date": "2026-12-17",
@@ -1965,6 +2370,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Makenzie Phipps",
+   "date": "2026-12-18",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/makenzie-phipps-121826",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
    "date": "2026-12-19",
@@ -1993,6 +2409,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Adam & Amy Pope",
+   "date": "2026-12-19",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/adam-and-amy-pope-121926",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The End",
@@ -2035,6 +2462,17 @@
    "source": "basement"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Sarah Morey",
+   "date": "2026-12-21",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/sarah-morey-122126",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement East",
    "title": "NIGHT 2: Evergreen Christmas",
    "date": "2026-12-21",
@@ -2043,6 +2481,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Ivey Campbell",
+   "date": "2026-12-22",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/ivey-campbell-122226",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement",
@@ -2063,6 +2512,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Douglas Riley",
+   "date": "2026-12-23",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/douglas-riley-122326",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "Skinny Dennis",
@@ -2075,6 +2535,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Eastern Dreamers",
+   "date": "2026-12-26",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/eastern-dreamers-122626",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "DIME AT A TIME VINTAGE MARKET",
    "date": "2026-12-27",
@@ -2085,6 +2556,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Sam Cary",
+   "date": "2026-12-28",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/sam-cary-122826",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "CHRIS CASELLO COMBO",
    "date": "2026-12-28",
@@ -2093,6 +2575,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Kennedy Scott",
+   "date": "2026-12-29",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/kennedy-scott-122926",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement",
@@ -2113,6 +2606,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Aaron Simmons",
+   "date": "2026-12-30",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/aaron-simmons-123026",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "Skinny Dennis",
