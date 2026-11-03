@@ -44,6 +44,9 @@ jobs:
       - name: Pull feeds and score stories
         run: node scripts/ingest.mjs
 
+      - name: Pull episodes (YouTube and podcast feeds)
+        run: node scripts/episodes.mjs
+
       - name: Save new data to the repository
         run: |
           git config user.name "news-updater"
