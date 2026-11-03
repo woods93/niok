@@ -1,7 +1,16 @@
 {
- "updatedAt": "2026-11-03T15:21:42.419Z",
+ "updatedAt": "2026-11-03T15:49:11.478Z",
  "channelUrl": "https://www.youtube.com/@NashvilleIOnceKnew",
- "links": [],
+ "links": [
+  {
+   "label": "Apple Podcasts",
+   "url": "https://podcasts.apple.com/us/podcast/laurie-webbs-nashville-i-once-knew/id1888271623"
+  },
+  {
+   "label": "YouTube",
+   "url": "https://www.youtube.com/@NashvilleIOnceKnew"
+  }
+ ],
  "videos": [
   {
    "id": "yCD1PUFnu-A",
