@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T20:01:45.818Z",
+ "updatedAt": "2026-11-03T20:23:35.878Z",
  "venues": [
   {
    "id": "basement",
@@ -49,16 +49,6 @@
  ],
  "shows": [
   {
-   "venue": "Skinny Dennis",
-   "title": "POP A TOP TUESDAY FT. SWEET MEGG",
-   "date": "2026-11-03",
-   "time": "17:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
    "venue": "The Basement",
    "title": "New Faces Night feat. Ziona Riley, Trevor Finlay, Alaina Fidanzo, Billy Vincent, Speaker, Southside MAB and Cook Allender",
    "date": "2026-11-03",
@@ -87,6 +77,16 @@
    "url": "https://endnashville.com/event/legacy-concerts-presents-ouija-macc-w-billy-marchiafava-darby-otrill-mikey-rotten-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/87305404/legacy-concerts-presentsouija-macc-wbilly-marchiafavadarby-otrillmikey-rotten-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
+   "date": "2026-11-03",
+   "time": "21:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   },
   {
    "venue": "Joelton Hardware",
@@ -451,6 +451,16 @@
    "source": "basement"
   },
   {
+   "venue": "Skinny Dennis",
+   "title": "POP A TOP TUESDAY FT. SWEET MEGG",
+   "date": "2026-11-10",
+   "time": "17:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
    "venue": "The Basement",
    "title": "FREE SHOW! SJ McDonald - Grocery List Release Party",
    "date": "2026-11-10",
@@ -479,16 +489,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-11-10",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "The Basement",
