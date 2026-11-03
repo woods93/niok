@@ -31,5 +31,11 @@
     "name": "Skinny Dennis",
     "url": "https://skinnydennisnashville.com/calendar/",
     "reader": "text"
+  },
+  {
+    "id": "puckett-nashville",
+    "name": "Puckett's Nashville",
+    "url": "https://www.puckettsrestaurant.com/nashville/music",
+    "reader": "squarespace"
   }
 ]
