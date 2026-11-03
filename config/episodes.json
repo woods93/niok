@@ -4,5 +4,8 @@
   "podcastFeed": "",
   "maxVideos": 30,
   "maxPodcastEpisodes": 30,
-  "listenLinks": []
+  "listenLinks": [
+    { "label": "Apple Podcasts", "url": "https://podcasts.apple.com/us/podcast/laurie-webbs-nashville-i-once-knew/id1888271623" },
+    { "label": "YouTube", "url": "https://www.youtube.com/@NashvilleIOnceKnew" }
+  ]
 }
