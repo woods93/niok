@@ -207,3 +207,7 @@ footer p { margin: 0.25rem 0; }
 .ep-audio { border-top: 1px solid var(--line); padding: 0.75rem 0; }
 .ep-audio audio { width: 100%; margin-top: 0.4rem; }
 .listen-links { color: var(--muted); }
+
+/* About page marquee */
+.marquee { margin: 1.25rem 0 0; }
+.marquee img { display: block; width: 100%; max-width: 35rem; height: auto; border-radius: 10px; border: 1px solid var(--line); }
