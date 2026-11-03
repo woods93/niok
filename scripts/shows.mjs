@@ -210,7 +210,7 @@ async function readSquarespace(v) {
       const en = e.endDate ? chicagoParts(e.endDate) : null;
       return {
         venue: v.name,
-        title: clean(e.title),
+        title: clean(e.title).replace(/\s*[-\u2013]\s*\d{1,2}\.\d{1,2}\.\d{2,4}\s*$/, ''),
         date: s.date,
         time: s.time,
         endTime: en && en.date === s.date ? en.time : '',
