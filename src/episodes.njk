@@ -1,0 +1,71 @@
+---
+layout: base.njk
+title: Episodes
+script: episodes.js
+---
+<h1>Episodes</h1>
+<p class="lede">Conversations about the Nashville rock and honky-tonk scene of the 1980s and early 1990s.</p>
+
+{% set vids = episodes.videos or [] %}
+{% set pods = episodes.podcast or [] %}
+
+{% if episodes.links and episodes.links.length %}
+<p class="listen-links">Listen on:
+  {% for l in episodes.links %}<a href="{{ l.url }}" rel="noopener">{{ l.label }}</a>{% if not loop.last %} · {% endif %}{% endfor %}
+</p>
+{% endif %}
+
+{% if vids.length %}
+<section class="watch">
+  <h2>Watch</h2>
+  <div class="featured">
+    <div class="yt" data-id="{{ vids[0].id }}" data-title="{{ vids[0].title }}">
+      <a class="yt-lite" href="{{ vids[0].url }}" rel="noopener">
+        <img src="{{ vids[0].thumb }}" alt="" loading="lazy" referrerpolicy="no-referrer">
+        <span class="play" aria-hidden="true">&#9654;</span>
+        <span class="sr">Play: {{ vids[0].title }}</span>
+      </a>
+    </div>
+    <h3 class="card-title"><a href="{{ vids[0].url }}" rel="noopener">{{ vids[0].title }}</a></h3>
+    <p class="meta"><time datetime="{{ vids[0].published }}">{{ vids[0].published | shortDate }}</time></p>
+    {% if vids[0].description %}<p class="excerpt">{{ vids[0].description }}</p>{% endif %}
+  </div>
+
+  {% if vids.length > 1 %}
+  <div class="ep-grid">
+    {% for v in vids | take(30) %}{% if not loop.first %}
+    <article class="ep">
+      <div class="yt" data-id="{{ v.id }}" data-title="{{ v.title }}">
+        <a class="yt-lite" href="{{ v.url }}" rel="noopener">
+          <img src="{{ v.thumb }}" alt="" loading="lazy" referrerpolicy="no-referrer">
+          <span class="play" aria-hidden="true">&#9654;</span>
+          <span class="sr">Play: {{ v.title }}</span>
+        </a>
+      </div>
+      <h3 class="card-title"><a href="{{ v.url }}" rel="noopener">{{ v.title }}</a></h3>
+      <p class="meta"><time datetime="{{ v.published }}">{{ v.published | shortDate }}</time></p>
+    </article>
+    {% endif %}{% endfor %}
+  </div>
+  {% endif %}
+  {% if episodes.channelUrl %}<p><a href="{{ episodes.channelUrl }}" rel="noopener">All videos on YouTube</a></p>{% endif %}
+</section>
+{% endif %}
+
+{% if pods.length %}
+<section class="listen">
+  <h2>Listen</h2>
+  {% for e in pods %}
+  <article class="ep-audio">
+    <h3 class="card-title">{% if e.url %}<a href="{{ e.url }}" rel="noopener">{{ e.title }}</a>{% else %}{{ e.title }}{% endif %}</h3>
+    <p class="meta"><time datetime="{{ e.published }}">{{ e.published | shortDate }}</time>{% if e.duration %} · {{ e.duration }}{% endif %}</p>
+    {% if e.description %}<p class="excerpt">{{ e.description }}</p>{% endif %}
+    {% if e.audio %}<audio controls preload="none" src="{{ e.audio }}"></audio>{% endif %}
+  </article>
+  {% endfor %}
+</section>
+{% endif %}
+
+{% if not vids.length and not pods.length %}
+<p class="empty">Episodes appear here after the next update.</p>
+{% endif %}
