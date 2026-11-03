@@ -14,7 +14,9 @@ import {
   titleKey,
   decodeEntities,
   makeExcerpt,
-  isGoogleNews
+  isGoogleNews,
+  extractImage,
+  ogImage
 } from './lib/util.mjs';
 import { buildScorer, loadEntityConfig } from './lib/score.mjs';
 
@@ -79,7 +81,14 @@ const parser = new Parser({
     'User-Agent': settings.userAgent,
     Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'
   },
-  customFields: { item: ['source'] }
+  customFields: {
+    item: [
+      'source',
+      ['media:content', 'mediaContent', { keepArray: true }],
+      ['media:thumbnail', 'mediaThumbnail'],
+      'content:encoded'
+    ]
+  }
 });
 
 async function fetchFeed(f) {
@@ -125,7 +134,8 @@ function normalize(item, f) {
     published,
     added: nowIso,
     sortDate: f.evergreen ? nowIso : published,
-    excerpt
+    excerpt,
+    image: f.google ? '' : extractImage(item)
   };
 }
 
@@ -200,6 +210,34 @@ const all = [...existing, ...added]
   .map((a) => ({ ...a, source: aliases[a.source] || a.source, excerpt: makeExcerpt(a.excerpt || '') }))
   .filter((a) => !blocked.has(String(a.source).toLowerCase()))
   .map((a) => ({ ...a, ...scorer.score(`${a.title}. ${a.excerpt || ''}`) }));
+// Thumbnails: feeds that carry no image get one look at the story page (og:image).
+// A story is tried once; Google News links are redirects and are skipped.
+async function fetchOg(a) {
+  try {
+    const res = await fetch(a.url, {
+      headers: { 'User-Agent': settings.userAgent, Accept: 'text/html' },
+      redirect: 'follow',
+      signal: AbortSignal.timeout(8000)
+    });
+    if (!res.ok) return '';
+    return ogImage(await res.text(), res.url || a.url);
+  } catch {
+    return '';
+  }
+}
+const needImage = all.filter((a) => !a.image && !a.imageTried && !isGoogleNews(a.url))
+  .sort((x, y) => String(y.sortDate).localeCompare(String(x.sortDate)))
+  .slice(0, settings.imageLookupsPerRun ?? 60);
+for (let i = 0; i < needImage.length; i += 6) {
+  await Promise.all(
+    needImage.slice(i, i + 6).map(async (a) => {
+      a.image = await fetchOg(a);
+      a.imageTried = true;
+    })
+  );
+}
+console.log(`thumbnails: looked up ${needImage.length}, found ${needImage.filter((a) => a.image).length}`);
+
 all.sort((a, b) => String(b.sortDate).localeCompare(String(a.sortDate)));
 
 const keepMs = settings.keepDays * DAY;
