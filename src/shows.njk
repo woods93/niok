@@ -1,0 +1,49 @@
+---
+layout: base.njk
+title: Live Shows
+permalink: /shows/
+script: shows.js
+---
+<h1>Live Shows</h1>
+<p class="lede">What's playing at our favorite Nashville rooms, updated daily. Always check with the venue for tickets, times and age limits.</p>
+
+{% set g = showsGrouped %}
+{% if g.total %}
+<div class="filters">
+  <label>Venue
+    <select id="venue-filter">
+      <option value="">All venues</option>
+      {% for v in g.venues %}<option value="{{ v }}">{{ v }}</option>{% endfor %}
+    </select>
+  </label>
+  <input type="search" id="show-search" placeholder="Search acts" aria-label="Search acts">
+  <span class="count" id="show-count"></span>
+</div>
+
+{% for d in g.days %}
+<section class="day" data-date="{{ d.date }}">
+  <h2 class="day-head"><span class="day-label" data-label="{{ d.label }}">{{ d.label }}</span></h2>
+  <ul class="show-list">
+    {% for s in d.shows %}
+    <li class="show" data-venue="{{ s.venue }}" data-text="{{ (s.title + ' ' + s.venue) | lower }}">
+      <span class="show-time">{{ s.timeLabel }}</span>
+      <span class="show-main">
+        <a class="show-title" href="{{ s.url }}" rel="noopener">{{ s.title }}</a>
+        <span class="show-venue">{{ s.venue }}{% if s.doorsLabel %} · Doors {{ s.doorsLabel }}{% endif %}</span>
+      </span>
+      {% if s.tickets %}<a class="show-tix" href="{{ s.tickets }}" rel="noopener">Tickets</a>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+<p class="empty" id="show-empty" hidden>No shows match.</p>
+{% else %}
+<p class="empty">No shows loaded yet. The next daily update will fill this in.</p>
+{% endif %}
+
+<p class="shows-note">
+  {% if g.updatedAt %}Updated {{ g.updatedAt | shortDate }}.{% endif %}
+  {% if g.problems.length %}Having trouble reading: {{ g.problems | join(', ') }}. Showing the last listings we had.{% endif %}
+  Listings come from each venue's own calendar.
+</p>
