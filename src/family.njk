@@ -10,7 +10,7 @@ permalink: /family/
 <div class="fam-grid">
   {% for f in family %}
   <article class="card fam">
-    {% if f.image %}<a class="fam-pic" href="{{ f.url }}" rel="noopener"><img src="{{ f.image }}" alt="{{ f.name }}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a>{% endif %}
+    {% if f.image %}<a class="fam-pic" href="{{ f.url }}" rel="noopener"><img src="{{ (f.image | url) if f.image.startsWith('/') else f.image }}" alt="{{ f.name }}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a>{% endif %}
     <h3 class="card-title"><a href="{{ f.url }}" rel="noopener">{{ f.name }}</a></h3>
     {% if f.blurb %}<p>{{ f.blurb }}</p>{% endif %}
   </article>
