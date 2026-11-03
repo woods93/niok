@@ -3,7 +3,7 @@ name: Update news and deploy site
 on:
   schedule:
     # Every 4 hours, at 17 minutes past the hour (UTC).
-    - cron: '17 */4 * * *'
+    - cron: '17 11 * * *'
   workflow_dispatch:
   push:
     branches: [main]
