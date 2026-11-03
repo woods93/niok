@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T19:46:24.511Z",
+ "updatedAt": "2026-11-03T19:54:46.742Z",
  "venues": [
   {
    "id": "basement",
@@ -49,16 +49,6 @@
  ],
  "shows": [
   {
-   "venue": "Skinny Dennis",
-   "title": "POP A TOP TUESDAY FT. SWEET MEGG",
-   "date": "2026-11-03",
-   "time": "17:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
    "venue": "The Basement",
    "title": "New Faces Night feat. Ziona Riley, Trevor Finlay, Alaina Fidanzo, Billy Vincent, Speaker, Southside MAB and Cook Allender",
    "date": "2026-11-03",
@@ -77,6 +67,16 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
+   "date": "2026-11-03",
+   "time": "21:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   },
   {
    "venue": "The End",
@@ -451,6 +451,16 @@
    "source": "end"
   },
   {
+   "venue": "Skinny Dennis",
+   "title": "POP A TOP TUESDAY FT. SWEET MEGG",
+   "date": "2026-11-10",
+   "time": "17:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
    "venue": "The Basement",
    "title": "FREE SHOW! SJ McDonald - Grocery List Release Party",
    "date": "2026-11-10",
@@ -479,16 +489,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-11-10",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "The Basement",
@@ -2238,7 +2238,7 @@
    "venue": "Skinny Dennis",
    "title": "THE STARLIGHT JAMBOREE FT. THE COWTOWN DOZEN",
    "date": "2027-01-13",
-   "time": "18:00",
+   "time": "19:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
