@@ -7,6 +7,7 @@ import { readJson, writeJson, decodeEntities, stripHtml } from './lib/util.mjs';
 const OUT = process.env.SHOWS_OUT || 'src/_data/shows.json';
 const TZ = 'America/Chicago';
 const HORIZON_DAYS = 75;
+const BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 const UA = 'Mozilla/5.0 (compatible; NashvilleIOnceKnewBot/1.0; +https://woods93.github.io/niok/)';
 
 // ---------- helpers ----------
@@ -78,6 +79,9 @@ async function get(url, opts = {}) {
     signal: AbortSignal.timeout(25000),
     redirect: 'follow',
   });
+  if (!res.ok && !opts._retry && res.status >= 400) {
+    return get(url, { ...opts, _retry: true, headers: { ...(opts.headers || {}), 'user-agent': BROWSER_UA, 'accept-language': 'en-US,en;q=0.9' } });
+  }
   if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
   return res;
 }
@@ -112,6 +116,23 @@ const abs = (href, base) => {
 
 const GENERIC = /^(buy tickets?|get tickets?|tickets?|more info|details|read more|view event|learn more|info|rsvp|sold out|free)$/i;
 
+
+const looksDate = (t) => /^(mon|tue|wed|thu|fri|sat|sun)[a-z]*\.?,?\s/i.test(t) || (t.length < 20 && !!parseDateText(t));
+
+// True when a block holds something that can serve as a title (a heading or a non-date link text).
+function hasTitle(node) {
+  let ok = false;
+  walk(node, (n) => {
+    if (ok || n.type !== 'tag') return;
+    if (/^h[1-6]$/.test(n.name) && clean(textOf(n)) && !looksDate(clean(textOf(n)))) ok = true;
+    else if (n.name === 'a' && n.attribs && n.attribs.href) {
+      const t = clean(textOf(n));
+      if (t.length > 2 && !GENERIC.test(t) && !looksDate(t)) ok = true;
+    }
+  });
+  return ok;
+}
+
 // Finds each event by its link, then looks upward for the smallest block that holds
 // exactly that event and a date. Works for lists/cards that put date, time and title together.
 export function scrapeByLinks(html, { base, linkRe, ticketRe }) {
@@ -138,7 +159,7 @@ export function scrapeByLinks(html, { base, linkRe, ticketRe }) {
       if (!node || node.type === 'root') break;
       if (hrefsIn(node).size > 1) break;
       const txt = clean(textOf(node));
-      if (parseDateText(txt)) { found = node; break; }
+      if (parseDateText(txt) && hasTitle(node)) { found = node; break; }
     }
     if (!found) continue;
     const txt = clean(textOf(found));
@@ -151,14 +172,14 @@ export function scrapeByLinks(html, { base, linkRe, ticketRe }) {
     // title: first heading, else the longest non-generic link text
     let title = '';
     walk(found, (n) => {
-      if (!title && n.type === 'tag' && /^h[1-6]$/.test(n.name)) title = clean(textOf(n));
+      if (!title && n.type === 'tag' && /^h[1-6]$/.test(n.name) && !looksDate(clean(textOf(n)))) title = clean(textOf(n));
     });
     if (!title) {
       const cands = [];
       walk(found, (n) => {
         if (n.type === 'tag' && n.name === 'a' && n.attribs && n.attribs.href && linkRe.test(n.attribs.href)) {
           const t = clean(textOf(n));
-          if (t && !GENERIC.test(t)) cands.push(t);
+          if (t && !GENERIC.test(t) && !looksDate(t)) cands.push(t);
         }
       });
       title = cands.sort((x, y) => y.length - x.length)[0] || '';
