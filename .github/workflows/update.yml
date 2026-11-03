@@ -42,9 +42,12 @@ jobs:
         run: npm ci
 
       - name: Pull feeds and score stories
+        if: github.event_name != 'push'
+        timeout-minutes: 20
         run: node scripts/ingest.mjs
 
       - name: Pull episodes (YouTube and podcast feeds)
+        timeout-minutes: 5
         run: node scripts/episodes.mjs
 
       - name: Save new data to the repository
