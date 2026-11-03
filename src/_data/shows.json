@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T19:54:46.742Z",
+ "updatedAt": "2026-11-03T20:00:33.736Z",
  "venues": [
   {
    "id": "basement",
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 29,
+   "count": 32,
    "error": "",
    "stale": false
   },
@@ -34,7 +34,7 @@
    "url": "https://the5spotnashville.com/",
    "ok": false,
    "count": 0,
-   "error": "HTTP 502 for https://the5spotnashville.com/",
+   "error": "fetch failed",
    "stale": false
   },
   {
@@ -48,6 +48,16 @@
   }
  ],
  "shows": [
+  {
+   "venue": "Skinny Dennis",
+   "title": "POP A TOP TUESDAY FT. SWEET MEGG",
+   "date": "2026-11-03",
+   "time": "17:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
   {
    "venue": "The Basement",
    "title": "New Faces Night feat. Ziona Riley, Trevor Finlay, Alaina Fidanzo, Billy Vincent, Speaker, Southside MAB and Cook Allender",
@@ -69,23 +79,13 @@
    "source": "basement"
   },
   {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-11-03",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
    "venue": "The End",
-   "title": "Tue, Nov 03",
+   "title": "Legacy Concerts Presents: Ouija Macc w/ Billy Marchiafava, Darby O’Trill, Mikey Rotten – 18+",
    "date": "2026-11-03",
-   "time": "",
-   "doors": "",
+   "time": "20:00",
+   "doors": "19:00",
    "url": "https://endnashville.com/event/legacy-concerts-presents-ouija-macc-w-billy-marchiafava-darby-otrill-mikey-rotten-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/87305404/legacy-concerts-presentsouija-macc-wbilly-marchiafavadarby-otrillmikey-rotten-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -132,12 +132,12 @@
   },
   {
    "venue": "The End",
-   "title": "Wed, Nov 04",
+   "title": "Idkcap w/Tynes, KITSUNE, LA, Slesh & Xp – 18+",
    "date": "2026-11-04",
-   "time": "",
-   "doors": "",
+   "time": "20:00",
+   "doors": "19:00",
    "url": "https://endnashville.com/event/idkcap-w-tynes-kitsune-la-slesh-xp-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/73214344/idkcap-wtyneskitsunelaslesh-xp-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -172,6 +172,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Hannah Roby w/Maggie Dexter & Rae -18+",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/hannah-roby-w-maggie-dexter-rae-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/31002119/hannah-roby-wmaggie-dexter-rae-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Molch w/ The Regulars and Mycota",
    "date": "2026-11-05",
@@ -180,16 +190,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Thu, Nov 05",
-   "date": "2026-11-05",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/hannah-roby-w-maggie-dexter-rae-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Skinny Dennis",
@@ -244,6 +244,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Legacy Concerts Presents: Parrotfish w/ Visit Neptune and Snorkler- 18+",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/legacy-concerts-presents-parrotfish-w-visit-neptune-and-snorkler-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/51448417/legacy-concerts-presentsparrotfish-wvisit-neptune-and-snorkler18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Certainly So w/ Sarah Henderson",
    "date": "2026-11-06",
@@ -252,16 +262,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Fri, Nov 06",
-   "date": "2026-11-06",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-parrotfish-w-visit-neptune-and-snorkler-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -328,12 +328,12 @@
   },
   {
    "venue": "The End",
-   "title": "Sat, Nov 07",
+   "title": "Legacy Concerts Presents:First To Eleven w/ Keepsake and Aching Back Sunday – 18+",
    "date": "2026-11-07",
-   "time": "",
-   "doors": "",
+   "time": "19:30",
+   "doors": "18:30",
    "url": "https://endnashville.com/event/legacy-concerts-presentsfirst-to-eleven-w-keepsake-and-aching-back-sunday-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/60294878/legacy-concerts-presentsfirst-to-eleven-wkeepsake-and-aching-back-sunday-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -380,6 +380,16 @@
    "source": "joelton"
   },
   {
+   "venue": "The End",
+   "title": "Cuffing Season w/Sarah Mootz & Annelise Gonzalez – 18+",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/cuffing-season-w-sarah-mootz-annelise-gonzalez-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/74108595/cuffing-season-wsarah-mootz-annelise-gonzalez-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "MINKA with Summer School and BellaOnBass",
    "date": "2026-11-08",
@@ -388,16 +398,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Sun, Nov 08",
-   "date": "2026-11-08",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/cuffing-season-w-sarah-mootz-annelise-gonzalez-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -421,6 +421,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Isabel w/Raeven & Gressor – 18+",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/isabel-w-raeven-gressor-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/63409260/isabel-wraeven-gressor-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "HOBSON'S CHOICE",
    "date": "2026-11-09",
@@ -439,26 +449,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Mon, Nov 09",
-   "date": "2026-11-09",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/isabel-w-raeven-gressor-18/the-end/",
-   "tickets": "",
-   "source": "end"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "POP A TOP TUESDAY FT. SWEET MEGG",
-   "date": "2026-11-10",
-   "time": "17:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "The Basement",
@@ -489,6 +479,16 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
+   "date": "2026-11-10",
+   "time": "21:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   },
   {
    "venue": "The Basement",
@@ -553,6 +553,26 @@
    "source": "joelton"
   },
   {
+   "venue": "The End",
+   "title": "Legacy Concerts Presents: Not My Weekend w/ Greyson Zane, Rare Candy- 18+",
+   "date": "2026-11-11",
+   "time": "19:30",
+   "doors": "18:30",
+   "url": "https://endnashville.com/event/legacy-concerts-presents-not-my-weekend-w-greyson-zane-rare-candy-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/72274472/legacy-concerts-presentsnot-my-weekend-wgreyson-zanerare-candy18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
+   "venue": "The End",
+   "title": "Legacy Concerts Presents: Yana – All Ages (NOW AT EXIT/IN)",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/legacy-concerts-presents-yana-all-ages-now-at-exit-in/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/83168710/legacy-concerts-presentsyana-all-ages-now-at-exitin-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "ANDREW LAMBIE & THE LIVESTOCK",
    "date": "2026-11-11",
@@ -573,16 +593,6 @@
    "source": "basement"
   },
   {
-   "venue": "The End",
-   "title": "Wed, Nov 11",
-   "date": "2026-11-11",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-not-my-weekend-w-greyson-zane-rare-candy-18/the-end/",
-   "tickets": "",
-   "source": "end"
-  },
-  {
    "venue": "The Basement",
    "title": "Fabrizio - The Recovery Tour w/ Colette Elyse",
    "date": "2026-11-12",
@@ -591,6 +601,16 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "The End",
+   "title": "Legacy Concerts Presents: The Haunt w/ 8 Graves, Platinum Moon – 18+",
+   "date": "2026-11-12",
+   "time": "19:30",
+   "doors": "18:30",
+   "url": "https://endnashville.com/event/legacy-concerts-presents-the-haunt-w-8-graves-platinum-moon-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/72731791/legacy-concerts-presentsthe-haunt-w8-gravesplatinum-moon-18-nashville-the-end?partner_id=100",
+   "source": "end"
   },
   {
    "venue": "The Basement East",
@@ -623,16 +643,6 @@
    "source": "basement"
   },
   {
-   "venue": "The End",
-   "title": "Thu, Nov 12",
-   "date": "2026-11-12",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-the-haunt-w-8-graves-platinum-moon-18/the-end/",
-   "tickets": "",
-   "source": "end"
-  },
-  {
    "venue": "Joelton Hardware",
    "title": "HAPPY HOUR BAND (Variety)",
    "date": "2026-11-13",
@@ -654,6 +664,16 @@
    "source": "skinny"
   },
   {
+   "venue": "The End",
+   "title": "Legacy Concerts Presents: Heal The Hurt w/ Magdalene Rose, Unbroken Reign, Collective Dust, Atlaslight – 18+",
+   "date": "2026-11-13",
+   "time": "18:30",
+   "doors": "18:00",
+   "url": "https://endnashville.com/event/legacy-concerts-presents-heal-the-hurt-w-magdalene-rose-unbroken-reign-collective-dust-atlaslight-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/87475102/legacy-concerts-presentsheal-the-hurt-wmagdalene-roseunbroken-reigncollective-dustatlaslight-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "AARON VANCE (Country)",
    "date": "2026-11-13",
@@ -673,16 +693,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Fri, Nov 13",
-   "date": "2026-11-13",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-heal-the-hurt-w-magdalene-rose-unbroken-reign-collective-dust-atlaslight-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -748,6 +758,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Creek w/Aprilwinters, Fisheye & Squent – 18+",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/creek-w-aprilwinters-fisheye-squent-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/36578320/creek-waprilwintersfisheye-squent-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Mitchell Ferguson w/ Corina Grove",
    "date": "2026-11-14",
@@ -756,16 +776,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Sat, Nov 14",
-   "date": "2026-11-14",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/creek-w-aprilwinters-fisheye-squent-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -913,6 +923,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Fielder – 18+",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/fielder-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/32827885/fielder-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
    "date": "2026-11-17",
@@ -921,16 +941,6 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
-  },
-  {
-   "venue": "The End",
-   "title": "Tue, Nov 17",
-   "date": "2026-11-17",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/fielder-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -985,6 +995,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Lake Drive x Nightbreakers w/Cherry Vance & Luchiano – 18+",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/lake-drive-x-nightbreakers-w-cherry-vance-luchiano-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/55907000/lake-drive-x-nightbreakers-wcherry-vance-luchiano-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Materializer Record Release Show w/ Blood Root",
    "date": "2026-11-18",
@@ -993,16 +1013,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Wed, Nov 18",
-   "date": "2026-11-18",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/lake-drive-x-nightbreakers-w-cherry-vance-luchiano-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -1047,6 +1057,26 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "*CANCELLED* Megafaunaa w/Sorry Mom & House Warmer – 18+",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/cancelled-megafaunaa-w-sorry-mom-house-warmer-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/54857952/cancelledmegafaunaa-wsorry-mom-house-warmer-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
+   "venue": "The End",
+   "title": "*CANCELLED* Taylor McCall – 18+",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/cancelled-taylor-mccall-18-2/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/35960760/cancelledtaylor-mccall-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Rigometrics - Wake Up Tour w/ Carson Bull and the Cousins",
    "date": "2026-11-19",
@@ -1055,16 +1085,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Thu, Nov 19",
-   "date": "2026-11-19",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/cancelled-megafaunaa-w-sorry-mom-house-warmer-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -1109,6 +1129,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "David Wimbish & The Collection w/Jesse James DeConto – 18+",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/david-wimbish-the-collection-w-jesse-james-deconto-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/86900244/david-wimbish-the-collection-wjesse-james-deconto-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Fungkshui",
    "date": "2026-11-20",
@@ -1117,16 +1147,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Fri, Nov 20",
-   "date": "2026-11-20",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/david-wimbish-the-collection-w-jesse-james-deconto-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -1181,6 +1201,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "The Human Condition w/ Hard Reset, Weighed Down, Rotten Luck, Nightwake – 18+",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "doors": "18:00",
+   "url": "https://endnashville.com/event/the-human-condition-w-hard-reset-weighed-down-rotten-luck-nightwake-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/82906977/the-human-condition-whard-resetweighed-downrotten-lucknightwake-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "PENTATONIC JOHNEEZE (rock)",
    "date": "2026-11-21",
@@ -1190,16 +1220,6 @@
    "url": "https://www.joeltonhardware.com/events/pentatonic-johneez-rock-a8bst-3rxkl",
    "tickets": "",
    "source": "joelton"
-  },
-  {
-   "venue": "The End",
-   "title": "Sat, Nov 21",
-   "date": "2026-11-21",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/the-human-condition-w-hard-reset-weighed-down-rotten-luck-nightwake-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -1255,12 +1275,12 @@
   },
   {
    "venue": "The End",
-   "title": "Sun, Nov 22",
+   "title": "Spoken In Tongues w/Ghosthood & Slurry – 18+",
    "date": "2026-11-22",
-   "time": "",
-   "doors": "",
+   "time": "20:00",
+   "doors": "19:00",
    "url": "https://endnashville.com/event/spoken-in-tongues-w-ghosthood-slurry-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/75284845/spoken-in-tongues-wghosthood-slurry-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1327,6 +1347,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Starletta w/Reeve Stimpson & Luke Bodine – 18+",
+   "date": "2026-11-24",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/starletta-w-reeve-stimpson-luke-bodine-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/86433238/starletta-wreeve-stimpson-luke-bodine-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
    "date": "2026-11-24",
@@ -1335,16 +1365,6 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
-  },
-  {
-   "venue": "The End",
-   "title": "Tue, Nov 24",
-   "date": "2026-11-24",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/starletta-w-reeve-stimpson-luke-bodine-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -1368,6 +1388,16 @@
    "source": "skinny"
   },
   {
+   "venue": "The End",
+   "title": "Legacy Concerts Presents: Primer 55 w/ Redefind, Emerge, Head Trauma – 18+",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "doors": "18:00",
+   "url": "https://endnashville.com/event/legacy-concerts-presents-primer-55-w-redefind-emerge-head-trauma-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/95865182/legacy-concerts-presentsprimer-55-wredefindemergehead-trauma-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Big Bill w/ Wesley & The Boys and Barcode",
    "date": "2026-11-25",
@@ -1376,16 +1406,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Wed, Nov 25",
-   "date": "2026-11-25",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-primer-55-w-redefind-emerge-head-trauma-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -1473,12 +1493,12 @@
   },
   {
    "venue": "The End",
-   "title": "Sat, Nov 28",
+   "title": "Loduxx w/Avalon & Particular Rick, AlieNativ – 18+",
    "date": "2026-11-28",
-   "time": "",
-   "doors": "",
+   "time": "21:00",
+   "doors": "20:00",
    "url": "https://endnashville.com/event/loduxx-w-avalon-particular-rick-alienativ-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/36672745/loduxx-wavalon-particular-rickalienativ-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1536,12 +1556,12 @@
   },
   {
    "venue": "The End",
-   "title": "Mon, Nov 30",
+   "title": "Liam Law & Lance Magic w/Noah Rojas, Dean Marino & The Mob & Layla Michelle – 18+",
    "date": "2026-11-30",
-   "time": "",
-   "doors": "",
+   "time": "20:00",
+   "doors": "19:00",
    "url": "https://endnashville.com/event/liam-law-lance-magic-w-noah-rojas-dean-marino-the-mob-layla-michelle-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/42266878/liam-law-lance-magic-wnoah-rojasdean-marino-the-mob-layla-michelle-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1555,6 +1575,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Will Ellis w/Nora Connor & Blake Lyman – 18+",
+   "date": "2026-12-01",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/will-ellis-w-nora-connor-blake-lyman-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/88909656/will-ellis-wnora-connor-blake-lyman-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
    "date": "2026-12-01",
@@ -1563,16 +1593,6 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
-  },
-  {
-   "venue": "The End",
-   "title": "Tue, Dec 01",
-   "date": "2026-12-01",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/will-ellis-w-nora-connor-blake-lyman-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Skinny Dennis",
@@ -1596,12 +1616,12 @@
   },
   {
    "venue": "The End",
-   "title": "Wed, Dec 02",
+   "title": "Emma Martin w/Lisa Curtis & Beila – 18+",
    "date": "2026-12-02",
-   "time": "",
-   "doors": "",
+   "time": "20:00",
+   "doors": "19:00",
    "url": "https://endnashville.com/event/emma-martin-w-lisa-curtis-beila-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/89304502/emma-martin-wlisa-curtis-beila-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1616,12 +1636,22 @@
   },
   {
    "venue": "The End",
-   "title": "Thu, Dec 03",
+   "title": "Swim Team w/Valories & Start Ahead -18+",
    "date": "2026-12-03",
-   "time": "",
-   "doors": "",
+   "time": "20:00",
+   "doors": "19:00",
    "url": "https://endnashville.com/event/swim-team-w-valories-start-ahead-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/83784022/swim-team-wvalories-start-ahead-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
+   "venue": "The End",
+   "title": "Swim Team w/Valories & Start Ahead – 18+",
+   "date": "2026-12-03",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/swim-team-w-valories-start-ahead-18-2/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/63489165/swim-team-wvalories-start-ahead-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1645,6 +1675,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Ozma & The King w/Blind Matador, Big Decisions & Play The Part – 18+",
+   "date": "2026-12-04",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/ozma-the-king-w-blind-matador-big-decisions-play-the-part-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/40755118/ozma-the-king-wblind-matadorbig-decisions-play-the-part-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Under High Street - Exclusive Album Release Show w/ Campanula",
    "date": "2026-12-04",
@@ -1653,16 +1693,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Fri, Dec 04",
-   "date": "2026-12-04",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/ozma-the-king-w-blind-matador-big-decisions-play-the-part-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Skinny Dennis",
@@ -1686,12 +1716,12 @@
   },
   {
    "venue": "The End",
-   "title": "Sat, Dec 05",
+   "title": "*CANCELLED* Thelma & The Sleaze w/Hussy Fit & Slow Shiv – 18+",
    "date": "2026-12-05",
-   "time": "",
-   "doors": "",
+   "time": "20:00",
+   "doors": "19:00",
    "url": "https://endnashville.com/event/cancelled-thelma-the-sleaze-w-hussy-fit-slow-shiv-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/91779240/cancelledthelma-the-sleaze-whussy-fit-slow-shiv-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1716,12 +1746,12 @@
   },
   {
    "venue": "The End",
-   "title": "Mon, Dec 07",
+   "title": "Wild Pink w/ Hiding Places – 18+",
    "date": "2026-12-07",
-   "time": "",
-   "doors": "",
+   "time": "20:00",
+   "doors": "19:00",
    "url": "https://endnashville.com/event/wild-pink-w-hiding-places-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/67193997/wild-pink-whiding-places-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1796,12 +1826,12 @@
   },
   {
    "venue": "The End",
-   "title": "Thu, Dec 10",
+   "title": "Hartrich Landow Band w/Home Remedy & Izzy Mahoubi – 18+",
    "date": "2026-12-10",
-   "time": "",
-   "doors": "",
+   "time": "20:00",
+   "doors": "19:00",
    "url": "https://endnashville.com/event/hartrich-landow-band-w-home-remedy-izzy-mahoubi-18/the-end/",
-   "tickets": "",
+   "tickets": "https://www.etix.com/ticket/p/68282029/hartrich-landow-band-whome-remedy-izzy-mahoubi-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1965,6 +1995,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Seizure w/Soul69, BULL-E & Geneswarm – 18+",
+   "date": "2026-12-19",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/seizure-w-soul69-bull-e-geneswarm-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/76286722/seizure-wsoul69bulle-geneswarm-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Slurry w/ Us In Motion and Khamsin",
    "date": "2026-12-19",
@@ -1973,16 +2013,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Sat, Dec 19",
-   "date": "2026-12-19",
-   "time": "",
-   "doors": "",
-   "url": "https://endnashville.com/event/seizure-w-soul69-bull-e-geneswarm-18/the-end/",
-   "tickets": "",
-   "source": "end"
   },
   {
    "venue": "Skinny Dennis",
