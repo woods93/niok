@@ -169,3 +169,18 @@ footer p { margin: 0.25rem 0; }
 
 .card .also { font-size: 0.9rem; color: var(--muted); }
 .card .also a { color: inherit; }
+
+/* Story cards with thumbnails */
+.card { border-radius: 12px; display: flex; gap: 1rem; align-items: flex-start; padding: 0.9rem 1rem; }
+.card-body { flex: 1 1 auto; min-width: 0; }
+.card .meta { margin: 0.1rem 0; }
+.card .source { text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.78rem; color: var(--accent); }
+.card-title { font-size: 1.15rem; line-height: 1.25; }
+.thumb { order: 2; flex: 0 0 7.5rem; width: 7.5rem; height: 7.5rem; border-radius: 8px; overflow: hidden; background: var(--line); }
+.thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.card.lead { flex-direction: column; padding: 0; overflow: hidden; border-left-width: 1px; }
+.card.lead.nostalgic { border-left-color: var(--line); border-top: 4px solid var(--gold); }
+.card.lead .thumb { order: 0; flex: none; width: 100%; height: auto; aspect-ratio: 16 / 9; border-radius: 0; }
+.card.lead .card-body { padding: 0.9rem 1rem 1rem; width: 100%; box-sizing: border-box; }
+.card.lead .card-title { font-size: 1.5rem; }
+@media (max-width: 30rem) { .thumb { flex-basis: 5.5rem; width: 5.5rem; height: 5.5rem; } }
