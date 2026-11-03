@@ -211,3 +211,9 @@ footer p { margin: 0.25rem 0; }
 /* About page marquee */
 .marquee { margin: 1.25rem 0 0; }
 .marquee img { display: block; width: 100%; max-width: 35rem; height: auto; border-radius: 10px; border: 1px solid var(--line); }
+
+/* Family page */
+.fam-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 1.25rem; margin: 1rem 0; }
+.card.fam { display: block; padding: 0 0 0.9rem; overflow: hidden; margin: 0; }
+.card.fam .fam-pic img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+.card.fam .card-title, .card.fam p { margin: 0.6rem 1rem 0; }
