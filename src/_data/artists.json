@@ -1,9 +1,33 @@
 [
   {
-    "name": "Media Pig AF",
-    "url": "https://www.mediapigaf.com/",
-    "image": "https://static.wixstatic.com/media/ac6171_5b82068dec4f41398e2b1cf6ae8cad92%7Emv2_d_3000_3000_s_4_2.jpg/v1/fit/w_800,h_426,al_c/ac6171_5b82068dec4f41398e2b1cf6ae8cad92%7Emv2_d_3000_3000_s_4_2.jpg",
-    "blurb": "An independent Nashville music company that develops original music with artists, produces recordings, and works on sync licensing and industry partnerships, so good music gets more chances to be heard."
+    "name": "Lollie Vox",
+    "url": "https://lollievox.com/",
+    "image": "https://lollievox.com/wp-content/uploads/2013/05/lollievox-logo.png",
+    "blurb": "The stage name of Laurie Webb, singer, songwriter, and co-producer of this podcast, known for her FL Studio demo songs, with her music, a YouTube channel, and a free vocal sample pack on the site."
+  },
+  {
+    "name": "The Vegas Cocks",
+    "url": "https://theblush.bandzoogle.com/",
+    "image": "https://images.zoogletools.com/s:bzglfiles/u/706287/f4fca8b3edfa276263c0ede069f01a15f7bbc4f2/original/the-vegas-cocks-1.png",
+    "blurb": "Nashville rock and roll, described in their own words as uncured, high-octane gutter-snipe rock and roll."
+  },
+  {
+    "name": "Tommy Womack",
+    "url": "https://tommywomack.com/",
+    "image": "https://images.zoogletools.com/s:bzglfiles/u/592287/ce8a1f6d9cda3c3deac3508f85039ee9475e4372/original/itiwf-packshot-640x640px-72dpi.jpg",
+    "blurb": "Nashville songwriter and author with three books, eight solo albums, and a past in Government Cheese and Daddy, and a two-time winner of the Nashville Scene critics-poll songwriting award."
+  },
+  {
+    "name": "Jonell Mosser",
+    "url": "https://jonellmosser.com/",
+    "image": "https://jonellmosser.com/wp-content/uploads/2026/07/new-enhance-photo-base-3-688x1024.jpg",
+    "blurb": "Nashville singer working in soul, roots, and blues for four decades, with credits alongside Ringo Starr, Don Was, and Levon Helm."
+  },
+  {
+    "name": "Lisa Stewart",
+    "url": "https://www.qualifiedrecords.com/lisa-stewart",
+    "image": "https://static.wixstatic.com/media/be6c8d_6c0c8b601cb949be8ab5d2d676f5f038~mv2.jpg",
+    "blurb": "Nashville vocalist blending country, jazz, and blues, an RCA/BNA recording artist, BMI Award–winning songwriter, and CMA Horizon Award nominee."
   },
   {
     "name": "Alan Messer Photography",
