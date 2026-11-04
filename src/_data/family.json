@@ -141,5 +141,16 @@
     "url": "https://bluebirdcafe.com/",
     "image": "https://bluebirdcafe.com/wp-content/uploads/2021/08/bb-logo.png",
     "blurb": "Nashville's famed listening room, home of the in-the-round songwriter shows."
+  },
+  {
+    "name": "Brown's Diner",
+    "url": "https://thebrownsdiner.com/",
+    "blurb": "Nashville's legendary burger joint since 1927, serving cheeseburgers and all-day Southern breakfast from a historic trolley car."
+  },
+  {
+    "name": "Alan Messer Photography",
+    "url": "https://alanmesser.com/",
+    "image": "https://alanmesser.com/wp-content/uploads/NASHVILLE-PHOTOGRAPHER_R.DUVALL_1984__web.jpeg",
+    "blurb": "Award-winning Nashville photographer in his 48th year behind the lens, with galleries, signed prints and books."
   }
 ]
