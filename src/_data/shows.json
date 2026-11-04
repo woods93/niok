@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-04T01:00:40.017Z",
+ "updatedAt": "2026-11-04T16:40:11.615Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 78,
+   "count": 77,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 48,
+   "count": 47,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 32,
+   "count": 31,
    "error": "",
    "stale": false
   },
@@ -42,7 +42,7 @@
    "name": "Skinny Dennis",
    "url": "https://skinnydennisnashville.com/calendar/",
    "ok": true,
-   "count": 67,
+   "count": 66,
    "error": "",
    "stale": false
   },
@@ -51,74 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 45,
+   "count": 44,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Kaylyn Sahs",
-   "date": "2026-11-03",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/kaylyn-sahs-11326",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "New Faces Night feat. Ziona Riley, Trevor Finlay, Alaina Fidanzo, Billy Vincent, Speaker, Southside MAB and Cook Allender",
-   "date": "2026-11-03",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "JOELTON HARDWARE OPEN MIC with LeNAYE!",
-   "date": "2026-11-03",
-   "time": "19:30",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/joelton-hardware-open-mic-with-lenaye",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "the olllam w/ Rachael Davis",
-   "date": "2026-11-03",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Legacy Concerts Presents: Ouija Macc w/ Billy Marchiafava, Darby O’Trill, Mikey Rotten – 18+",
-   "date": "2026-11-03",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-ouija-macc-w-billy-marchiafava-darby-otrill-mikey-rotten-18/the-end/",
-   "tickets": "",
-   "source": "end"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-11-03",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
@@ -296,16 +234,6 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/the-berrys-11626",
    "tickets": "",
    "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "Sawyer Hill - Everybody&rsquo;s Home, Nobody&rsquo;s Happy World Tour w/ Never Ending Fall",
-   "date": "2026-11-06",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
   },
   {
    "venue": "The End",
@@ -587,16 +515,6 @@
    "url": "https://www.joeltonhardware.com/events/joelton-hardware-open-mic-with-lenaye-askg9",
    "tickets": "",
    "source": "joelton"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "POSTPONED - SiM - HOOMAN WORLD TOUR w/ Zero 9:36 and Aurorawave",
-   "date": "2026-11-10",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
   },
   {
    "venue": "The Basement",
@@ -2063,6 +1981,16 @@
    "source": "skinny"
   },
   {
+   "venue": "The Basement",
+   "title": "Spring Term",
+   "date": "2026-12-06",
+   "time": "21:00",
+   "doors": "20:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Matt Marinchick",
    "date": "2026-12-07",
@@ -2136,7 +2064,7 @@
   },
   {
    "venue": "The Basement East",
-   "title": "Ben Chapman's Peach Jam",
+   "title": "Ben Chapman's Peach Jam w/ Marcus King, Madeline Edwards, Zack Logan, Meg Mcree, Briley King and more!",
    "date": "2026-12-09",
    "time": "20:00",
    "doors": "19:00",
@@ -2401,6 +2329,16 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/makenzie-phipps-121826",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "The Basement East",
+   "title": "Music City Hero Coalition Presents: A Very Emo Christmas",
+   "date": "2026-12-18",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
   },
   {
    "venue": "Skinny Dennis",
@@ -2849,6 +2787,16 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "The Basement East",
+   "title": "POSTPONED! Dan Deacon w/ Terror Pigeon",
+   "date": "2027-01-17",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
   }
  ]
 }
