@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T20:24:56.257Z",
+ "updatedAt": "2026-11-04T01:00:40.017Z",
  "venues": [
   {
    "id": "basement",
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 46,
+   "count": 48,
    "error": "",
    "stale": false
   },
@@ -79,6 +79,17 @@
    "source": "basement"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "JOELTON HARDWARE OPEN MIC with LeNAYE!",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/joelton-hardware-open-mic-with-lenaye",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "The Basement East",
    "title": "the olllam w/ Rachael Davis",
    "date": "2026-11-03",
@@ -95,7 +106,7 @@
    "time": "20:00",
    "doors": "19:00",
    "url": "https://endnashville.com/event/legacy-concerts-presents-ouija-macc-w-billy-marchiafava-darby-otrill-mikey-rotten-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/87305404/legacy-concerts-presentsouija-macc-wbilly-marchiafavadarby-otrillmikey-rotten-18-nashville-the-end?partner_id=100",
+   "tickets": "",
    "source": "end"
   },
   {
@@ -245,7 +256,7 @@
   },
   {
    "venue": "Joelton Hardware",
-   "title": "MARK MILLER",
+   "title": "MARK ANDREW MILLER",
    "date": "2026-11-06",
    "time": "17:00",
    "endTime": "18:30",
@@ -565,6 +576,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "JOELTON HARDWARE OPEN MIC with LeNAYE!",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/joelton-hardware-open-mic-with-lenaye-askg9",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "The Basement East",
@@ -1440,7 +1462,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "Jonah Kagen",
+   "title": "SOLD OUT! Jonah Kagen",
    "date": "2026-11-22",
    "time": "19:00",
    "doors": "18:30",
@@ -2155,7 +2177,7 @@
   },
   {
    "venue": "The Basement East",
-   "title": "Eddie 9V",
+   "title": "Eddie 9V w/ Leroy From the North",
    "date": "2026-12-10",
    "time": "20:00",
    "doors": "19:00",
