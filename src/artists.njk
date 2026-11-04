@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: Artists
+permalink: /artists/
+---
+<h1>Artists</h1>
+<p class="lede">Musicians, photographers and other artists we love.</p>
+
+{% if artists and artists.length %}
+<div class="fam-grid">
+  {% for f in artists %}
+  <article class="card fam">
+    {% if f.image %}<a class="fam-pic" href="{{ f.url }}" rel="noopener"><img src="{{ (f.image | url) if f.image.startsWith('/') else f.image }}" alt="{{ f.name }}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a>{% endif %}
+    <h3 class="card-title"><a href="{{ f.url }}" rel="noopener">{{ f.name }}</a></h3>
+    {% if f.blurb %}<p>{{ f.blurb }}</p>{% endif %}
+  </article>
+  {% endfor %}
+</div>
+{% else %}
+<p class="empty">Nothing here yet. Check back soon.</p>
+{% endif %}
