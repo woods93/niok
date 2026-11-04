@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T16:42:50.462Z",
+ "updatedAt": "2026-11-04T17:43:34.309Z",
  "venues": [
   {
    "id": "basement",
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 31,
+   "count": 32,
    "error": "",
    "stale": false
   },
@@ -887,6 +887,16 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "The End",
+   "title": "Hog Mama w/Super Puller & Pig Martyr – 18+",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/hog-mama-w-super-puller-pig-martyr-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/84332116/hog-mama-wsuper-puller-pig-martyr-18-nashville-the-end?partner_id=100",
+   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -1982,7 +1992,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "Spring Term",
+   "title": "Spring Term, Stewart Arp and Sungold",
    "date": "2026-12-06",
    "time": "21:00",
    "doors": "20:30",
