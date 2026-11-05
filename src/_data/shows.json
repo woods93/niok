@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-05T18:50:08.878Z",
+ "updatedAt": "2026-11-05T22:55:07.781Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 77,
+   "count": 78,
    "error": "",
    "stale": false
   },
@@ -455,7 +455,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "GOOSE AFTER PARTY! Squeaky Feet 2-SHOW-PASS",
+   "title": "GOOSE AFTER PARTY! Squeaky Feet - Night 1 at The Basement",
    "date": "2026-11-10",
    "time": "23:30",
    "doors": "23:00",
@@ -465,7 +465,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "GOOSE AFTER PARTY! Squeaky Feet - Night 1 at The Basement",
+   "title": "GOOSE AFTER PARTY! Squeaky Feet 2-SHOW-PASS",
    "date": "2026-11-10",
    "time": "23:30",
    "doors": "23:00",
@@ -1179,6 +1179,16 @@
    "source": "skinny"
   },
   {
+   "venue": "The Basement",
+   "title": "Slack Times and Country Westerns",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "ROCK CITY REWIND (rock tribute)",
    "date": "2026-11-20",
@@ -1358,7 +1368,7 @@
   },
   {
    "venue": "The Basement East",
-   "title": "Ethan Regan - Young Regan Tour w/ Lily Kershaw",
+   "title": "SOLD OUT! Ethan Regan - Young Regan Tour w/ Lily Kershaw",
    "date": "2026-11-22",
    "time": "20:00",
    "doors": "19:00",
