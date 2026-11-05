@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T20:00:51.411Z",
+ "updatedAt": "2026-11-05T18:50:08.878Z",
  "venues": [
   {
    "id": "basement",
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 47,
+   "count": 45,
    "error": "",
    "stale": false
   },
@@ -57,69 +57,6 @@
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
-   "date": "2026-11-04",
-   "time": "17:00",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/gene-dunlap-w-jonell-mosser-z-band-lmmzk-r5hxf-j9lth-ybzph-ppr7b-64en6-yblkl-88rse-rlgbm-njjbn-4sn35-eb75y-68ewr-3sk6x-9lcdz-ehb79-ey4ym-gdep8-5ace4-6znmb-ta9s6-apdyd-msmy3-slnmx",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement",
-   "title": "FREE SHOW! - BMI PLUG & PLAY ft. Action Figurez, Kruse Brothers, Lucas Ball, and Penny Lame",
-   "date": "2026-11-04",
-   "time": "17:30",
-   "doors": "17:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "JOSHUA HEDLEY'S WESTERN WEDNESDAY",
-   "date": "2026-11-04",
-   "time": "18:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Erin McLendon",
-   "date": "2026-11-04",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/erin-mclendon-11426",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "CRAIG GOFF BAND",
-   "date": "2026-11-04",
-   "time": "19:30",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/craig-goff-band-1",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The End",
-   "title": "Idkcap w/Tynes, KITSUNE, LA, Slesh & Xp – 18+",
-   "date": "2026-11-04",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/idkcap-w-tynes-kitsune-la-slesh-xp-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/73214344/idkcap-wtyneskitsunelaslesh-xp-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "GOOD NEWS OPEN MIC!",
@@ -486,12 +423,12 @@
   },
   {
    "venue": "Puckett's Nashville",
-   "title": "Doug Allen",
+   "title": "Aaron Simmons",
    "date": "2026-11-10",
    "time": "19:00",
    "endTime": "20:30",
    "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/doug-allen-111026",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/aaron-simmons-111026",
    "tickets": "",
    "source": "puckett-nashville"
   },
@@ -518,7 +455,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "GOOSE AFTER PARTY! Squeaky Feet - Night 1 at The Basement",
+   "title": "GOOSE AFTER PARTY! Squeaky Feet 2-SHOW-PASS",
    "date": "2026-11-10",
    "time": "23:30",
    "doors": "23:00",
@@ -528,7 +465,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "GOOSE AFTER PARTY! Squeaky Feet 2-SHOW-PASS",
+   "title": "GOOSE AFTER PARTY! Squeaky Feet - Night 1 at The Basement",
    "date": "2026-11-10",
    "time": "23:30",
    "doors": "23:00",
@@ -628,6 +565,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Mark Box",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/mark-box111226",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement",
@@ -949,6 +897,16 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "The End",
+   "title": "Sweet Fruits w/The T-Rexes & Between 4th & 5th – 18+",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/sweet-fruits-w-the-t-rexes-between-4th-5th-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/72378393/sweet-fruits-wthe-trexes-between-4th-5th-18-nashville-the-end?partner_id=100",
+   "source": "end"
   },
   {
    "venue": "The Basement",
@@ -1316,7 +1274,7 @@
   },
   {
    "venue": "The Basement East",
-   "title": "SOLD OUT! Alyssa Grace",
+   "title": "Alyssa Grace",
    "date": "2026-11-21",
    "time": "19:00",
    "doors": "18:00",
@@ -2800,13 +2758,33 @@
   },
   {
    "venue": "The Basement East",
-   "title": "POSTPONED! Dan Deacon w/ Terror Pigeon",
+   "title": "NEW DATE! Dan Deacon w/ Terror Pigeon",
    "date": "2027-01-17",
    "time": "20:00",
    "doors": "19:00",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "The Basement",
+   "title": "Arythmia w/ Scuffed Animals and Jade Koth",
+   "date": "2027-01-18",
+   "time": "21:00",
+   "doors": "20:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
+   "date": "2027-01-19",
+   "time": "21:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   }
  ]
 }
