@@ -81,7 +81,10 @@
     "entityQueries": true,
     "extraQueries": [
       "Nashville music history",
-      "Nashville songwriters tribute"
+      "Nashville songwriters tribute",
+      "site:nashvillescene.com music",
+      "site:nashvillescene.com venue closing",
+      "site:nashvillescene.com concert OR songwriter OR \"Music Row\" OR nightclub"
     ]
   }
 }
