@@ -140,5 +140,11 @@
     "name": "Brown's Diner",
     "url": "https://thebrownsdiner.com/",
     "blurb": "Nashville's legendary burger joint since 1927, serving cheeseburgers and all-day Southern breakfast from a historic trolley car."
+  },
+  {
+    "name": "Brooklyn Bowl Nashville",
+    "url": "https://nashville.brooklynbowl.com/",
+    "image": "https://assets.livenationcdn.com/uploads/0613d75d-6cba-4047-86ed-dad6ba2f93ce.png?auto=webp&quality=70&width=1200",
+    "blurb": "Concert and bowling venue at 925 3rd Ave N in Nashville, with a restaurant and bar serving food by Blue Ribbon."
   }
 ]
