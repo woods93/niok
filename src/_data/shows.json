@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T22:59:39.563Z",
+ "updatedAt": "2026-11-06T18:03:23.909Z",
  "venues": [
   {
    "id": "basement",
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 45,
+   "count": 44,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 32,
+   "count": 31,
    "error": "",
    "stale": false
   },
@@ -51,74 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 44,
+   "count": 43,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "GOOD NEWS OPEN MIC!",
-   "date": "2026-11-05",
-   "time": "19:00",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/good-news-open-mic-4",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "JL Fulks",
-   "date": "2026-11-05",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/jl-fulks-11526",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "GRAM & KEEF",
-   "date": "2026-11-05",
-   "time": "20:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "Deer Tick w/ DUG",
-   "date": "2026-11-05",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Hannah Roby w/Maggie Dexter & Rae -18+",
-   "date": "2026-11-05",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/hannah-roby-w-maggie-dexter-rae-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/31002119/hannah-roby-wmaggie-dexter-rae-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Molch w/ The Regulars and Mycota",
-   "date": "2026-11-05",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Skinny Dennis",
    "title": "BUSCH & BARDSTOWN & BRUISERS HAPPY HOUR",
@@ -2567,6 +2505,16 @@
    "source": "skinny"
   },
   {
+   "venue": "The Basement East",
+   "title": "My So-Called Band: The Ultimate 90s New Year’s Eve!",
+   "date": "2026-12-31",
+   "time": "22:00",
+   "doors": "20:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "BUSCH & THE BRUISERS HAPPY HOUR: WILD BILL & THE BRUISERS",
    "date": "2027-01-01",
@@ -2787,10 +2735,30 @@
    "source": "basement"
   },
   {
+   "venue": "The Basement East",
+   "title": "The Womack Sisters",
+   "date": "2027-01-19",
+   "time": "19:00",
+   "doors": "18:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
    "date": "2027-01-19",
    "time": "21:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "JOSHUA HEDLEY'S WESTERN WEDNESDAY",
+   "date": "2027-01-20",
+   "time": "18:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
