@@ -1,0 +1,9 @@
+---
+pagination:
+  data: apiEndpoints
+  size: 1
+  alias: ep
+permalink: "/api/{{ ep.slug }}.json"
+eleventyExcludeFromCollections: true
+---
+{{ ep.body | dump | safe }}
