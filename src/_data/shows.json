@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-06T18:03:23.909Z",
+ "updatedAt": "2026-11-07T15:24:57.591Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 78,
+   "count": 77,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 44,
+   "count": 43,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 31,
+   "count": 30,
    "error": "",
    "stale": false
   },
@@ -42,7 +42,7 @@
    "name": "Skinny Dennis",
    "url": "https://skinnydennisnashville.com/calendar/",
    "ok": true,
-   "count": 66,
+   "count": 65,
    "error": "",
    "stale": false
   },
@@ -51,85 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 43,
+   "count": 42,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Skinny Dennis",
-   "title": "BUSCH & BARDSTOWN & BRUISERS HAPPY HOUR",
-   "date": "2026-11-06",
-   "time": "16:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "MARK ANDREW MILLER",
-   "date": "2026-11-06",
-   "time": "17:00",
-   "endTime": "18:30",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/mark-miller",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement",
-   "title": "The Morning Hollow &ldquo;Sister Moon&rdquo; Vinyl Release Show",
-   "date": "2026-11-06",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "SOLD OUT! Joelton Hardware presents BONEPONY!",
-   "date": "2026-11-06",
-   "time": "19:30",
-   "endTime": "21:30",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/joelton-hardware-presents-bonepony",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "The Berrys",
-   "date": "2026-11-06",
-   "time": "20:00",
-   "endTime": "21:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/the-berrys-11626",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The End",
-   "title": "Legacy Concerts Presents: Parrotfish w/ Visit Neptune and Snorkler- 18+",
-   "date": "2026-11-06",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-parrotfish-w-visit-neptune-and-snorkler-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/51448417/legacy-concerts-presentsparrotfish-wvisit-neptune-and-snorkler18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Certainly So w/ Sarah Henderson",
-   "date": "2026-11-06",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "OPEN COMMUNITY JAM Noon-5pm",
@@ -393,7 +320,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "GOOSE AFTER PARTY! Squeaky Feet - Night 1 at The Basement",
+   "title": "GOOSE AFTER PARTY! Squeaky Feet 2-SHOW-PASS",
    "date": "2026-11-10",
    "time": "23:30",
    "doors": "23:00",
@@ -403,7 +330,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "GOOSE AFTER PARTY! Squeaky Feet 2-SHOW-PASS",
+   "title": "GOOSE AFTER PARTY! Squeaky Feet - Night 1 at The Basement",
    "date": "2026-11-10",
    "time": "23:30",
    "doors": "23:00",
@@ -534,6 +461,17 @@
    "url": "https://endnashville.com/event/legacy-concerts-presents-the-haunt-w-8-graves-platinum-moon-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/72731791/legacy-concerts-presentsthe-haunt-w8-gravesplatinum-moon-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "MARCEDES CARROLL & DOC ELLIOT (roots, singer/songwriter)",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/marcedes-carroll-doc-elliot-roots-singersongwriter",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "The Basement East",
@@ -1776,23 +1714,23 @@
   },
   {
    "venue": "The End",
-   "title": "Swim Team w/Valories & Start Ahead -18+",
-   "date": "2026-12-03",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/swim-team-w-valories-start-ahead-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/83784022/swim-team-wvalories-start-ahead-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The End",
    "title": "Swim Team w/Valories & Start Ahead – 18+",
    "date": "2026-12-03",
    "time": "20:00",
    "doors": "19:00",
-   "url": "https://endnashville.com/event/swim-team-w-valories-start-ahead-18-2/the-end/",
+   "url": "https://endnashville.com/event/swim-team-w-valories-start-ahead-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/63489165/swim-team-wvalories-start-ahead-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "The Basement",
+   "title": "Thom Chapman w/ Boy Orbison and Larcine",
+   "date": "2026-12-03",
+   "time": "21:00",
+   "doors": "20:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
   },
   {
    "venue": "Skinny Dennis",
@@ -1970,7 +1908,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "Late Night Thoughts: Days Like This Tour",
+   "title": "Late Night Thoughts: Days Like This Tour w/ Elias Hix",
    "date": "2026-12-09",
    "time": "19:00",
    "doors": "18:30",
@@ -2048,6 +1986,16 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "The End",
+   "title": "School of Rock Nashville’s Bonnie’s Nightmare before Christmas – All Ages, FREE SHOW",
+   "date": "2026-12-11",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://endnashville.com/event/school-of-rock-nashvilles-bonnies-nightmare-before-christmas-all-ages-free-show/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/58089198/school-of-rock-nashvilles-bonnies-nightmare-before-christmas-all-agesfree-show-nashville-the-end?partner_id=100",
+   "source": "end"
   },
   {
    "venue": "Puckett's Nashville",
