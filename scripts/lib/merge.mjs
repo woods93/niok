@@ -26,7 +26,11 @@ function withDefaults(a) {
 export function loadMerged(root = process.cwd()) {
   const cfg = loadEntityConfig(root);
   const scorer = buildScorer(cfg);
-  const articles = readJson(path.join(root, 'src', '_data', 'articles.json'), []).map(withDefaults);
+  // Some feeds publish photo files (for example "Photo-1061.jpg") as stories. Skip them.
+  const isImageFileTitle = (t) => /\.(jpe?g|png|gif|webp)\s*$/i.test(String(t || ''));
+  const articles = readJson(path.join(root, 'src', '_data', 'articles.json'), [])
+    .filter((a) => !isImageFileTitle(a.title))
+    .map(withDefaults);
   const picks = readJson(path.join(root, 'src', '_data', 'picks.json'), []);
   const archive = loadArchive(root);
 
