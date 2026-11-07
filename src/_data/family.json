@@ -146,5 +146,11 @@
     "url": "https://nashville.brooklynbowl.com/",
     "image": "https://assets.livenationcdn.com/uploads/0613d75d-6cba-4047-86ed-dad6ba2f93ce.png?auto=webp&quality=70&width=1200",
     "blurb": "Concert and bowling venue at 925 3rd Ave N in Nashville, with a restaurant and bar serving food by Blue Ribbon."
+  },
+  {
+    "name": "Guitar Build Workshop",
+    "url": "https://www.guitarbuildworkshop.com/",
+    "image": "https://static.wixstatic.com/media/50d356_b3653acb4ad54e548427fddbf42972ad~mv2.png",
+    "blurb": "Nashville studio at 1606 4th Ave N where anyone, beginner or experienced, can build their own custom electric guitar or bass in a single day, with tools and guidance provided."
   }
 ]
