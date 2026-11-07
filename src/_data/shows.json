@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T16:20:08.010Z",
+ "updatedAt": "2026-11-07T16:20:41.400Z",
  "venues": [
   {
    "id": "basement",
@@ -34,7 +34,7 @@
    "url": "https://the5spotnashville.com/",
    "ok": false,
    "count": 0,
-   "error": "fetch failed",
+   "error": "reader returned no upcoming shows",
    "stale": false
   },
   {
