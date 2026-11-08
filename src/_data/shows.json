@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-07T16:56:31.652Z",
+ "updatedAt": "2026-11-08T17:06:41.286Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 77,
+   "count": 76,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 43,
+   "count": 40,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "stale": false
   },
@@ -51,96 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 42,
+   "count": 41,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "OPEN COMMUNITY JAM Noon-5pm",
-   "date": "2026-11-07",
-   "time": "12:00",
-   "endTime": "17:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/open-jam-s2tcg-aesa2-sbhgh-ez2hk-l7xz6-efd3t-s7mya-g4kk5-yexge-jdyww-48c96-mb6ha-6tz25-s35as-mnde6-cwbfb-yalkk-7wa69",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
-   "date": "2026-11-07",
-   "time": "15:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "THE MUSIC of DUSTY SPRINGFIELD feat. JAMIE-SUE SEAL with The EARL ERB TRIO",
-   "date": "2026-11-07",
-   "time": "17:30",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/the-music-of-dusty-springfield-featuring-jamie-sue-seal-with-the-earl-erb-trio-ndbsa-3gng9-a72hk",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement",
-   "title": "JT. Moore's 2nd Annual Moore-Aoke benefitting JTM PTO",
-   "date": "2026-11-07",
-   "time": "19:00",
-   "doors": "18:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "Havok w/ Hellripper, Slackjaw, and Xoth",
-   "date": "2026-11-07",
-   "time": "19:00",
-   "doors": "18:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "ACOUSTIC THEM LEMMINGS",
-   "date": "2026-11-07",
-   "time": "19:30",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/them-lemmings-mg546-xf6xl",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The End",
-   "title": "Legacy Concerts Presents:First To Eleven w/ Keepsake and Aching Back Sunday – 18+",
-   "date": "2026-11-07",
-   "time": "19:30",
-   "doors": "18:30",
-   "url": "https://endnashville.com/event/legacy-concerts-presentsfirst-to-eleven-w-keepsake-and-aching-back-sunday-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/60294878/legacy-concerts-presentsfirst-to-eleven-wkeepsake-and-aching-back-sunday-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Josey Clay",
-   "date": "2026-11-07",
-   "time": "20:00",
-   "endTime": "21:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/josey-clay-11726",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "Sunday Brunch with music by TRIPLE DOG DARE (acoustic roots rock)",
@@ -2707,6 +2623,26 @@
    "title": "JOSHUA HEDLEY'S WESTERN WEDNESDAY",
    "date": "2027-01-20",
    "time": "18:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "The Basement",
+   "title": "Boy Golden",
+   "date": "2027-01-21",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "BUSCH & THE BRUISERS HAPPY HOUR: WILD BILL & THE BRUISERS",
+   "date": "2027-01-22",
+   "time": "16:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
