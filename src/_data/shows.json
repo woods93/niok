@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T17:06:41.286Z",
+ "updatedAt": "2026-11-09T21:32:50.102Z",
  "venues": [
   {
    "id": "basement",
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 40,
+   "count": 37,
    "error": "",
    "stale": false
   },
@@ -57,69 +57,6 @@
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "Sunday Brunch with music by TRIPLE DOG DARE (acoustic roots rock)",
-   "date": "2026-11-08",
-   "time": "11:00",
-   "endTime": "14:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/4879u3rku9vz3si7usq1ftf4p9k4bs-tk89l-9ttxb",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "SUNDAY BRUNCH!",
-   "date": "2026-11-08",
-   "time": "11:00",
-   "endTime": "14:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/sunday-brunch-with-music-by-the-brunch-boyz-2-a9spn-jlgb6-6tlzj-kn6fs-hphwc-pt8nt",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "DIME AT A TIME VINTAGE MARKET",
-   "date": "2026-11-08",
-   "time": "12:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "La la la la Ladies Night Karaoke",
-   "date": "2026-11-08",
-   "time": "16:00",
-   "endTime": "20:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/tim-jones-friends-wb9bf-6skp8",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The End",
-   "title": "Cuffing Season w/Sarah Mootz & Annelise Gonzalez – 18+",
-   "date": "2026-11-08",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/cuffing-season-w-sarah-mootz-annelise-gonzalez-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/74108595/cuffing-season-wsarah-mootz-annelise-gonzalez-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The Basement",
-   "title": "MINKA with Summer School and BellaOnBass",
-   "date": "2026-11-08",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "Farmacy Kitchen & Stage closed on Mondays!",
@@ -215,7 +152,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "New Faces Night feat.",
+   "title": "New Faces Night feat. Grace Day, The Zooeys, Dylan Bradley, Maeve McMahon, Lindsay Jordan, Thom Chapman, & Los Juanos",
    "date": "2026-11-10",
    "time": "19:00",
    "doors": "18:30",
@@ -298,7 +235,7 @@
   },
   {
    "venue": "Joelton Hardware",
-   "title": "REED FIELDS & SHAKE E. FOWLKES",
+   "title": "CANCELLED REED FIELDS & SHAKE E. FOWLKES",
    "date": "2026-11-11",
    "time": "19:30",
    "endTime": "21:00",
@@ -483,6 +420,16 @@
    "source": "basement"
   },
   {
+   "venue": "The Basement East",
+   "title": "QDP",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "doors": "21:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "OPEN COMMUNITY JAM Noon-5pm",
    "date": "2026-11-14",
@@ -516,7 +463,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "Big Guy & The Very Large Men",
+   "title": "Big Guy & The Very Large Men w/ She Returns From War and Maddie Medley",
    "date": "2026-11-14",
    "time": "19:00",
    "doors": "18:30",
@@ -630,12 +577,12 @@
   },
   {
    "venue": "The End",
-   "title": "Hog Mama w/Super Puller & Pig Martyr – 18+",
+   "title": "Hog Mama w/Chasing Dane & Pig Martyr – 18+",
    "date": "2026-11-15",
    "time": "20:00",
    "doors": "19:00",
-   "url": "https://endnashville.com/event/hog-mama-w-super-puller-pig-martyr-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/84332116/hog-mama-wsuper-puller-pig-martyr-18-nashville-the-end?partner_id=100",
+   "url": "https://endnashville.com/event/hog-mama-w-chasing-dane-pig-martyr-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/84332116/hog-mama-wchasing-dane-pig-martyr-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1813,6 +1760,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Johanna Velez w/Anna Vitale, Cameron Thorne & Amber Toon- 18+",
+   "date": "2026-12-08",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/johanna-velez-w-anna-vitale-cameron-thorne-amber-toon-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/97105106/johanna-velez-wanna-vitalecameron-thorne-amber-toon18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
    "date": "2026-12-08",
@@ -2193,7 +2150,7 @@
   },
   {
    "venue": "The Basement East",
-   "title": "NIGHT 1: Evergreen Christmas",
+   "title": "NIGHT 1: Evergreen Christmas featuring Melissa Greene and Ryan Greenawalt",
    "date": "2026-12-20",
    "time": "19:00",
    "doors": "18:00",
@@ -2214,7 +2171,7 @@
   },
   {
    "venue": "The Basement East",
-   "title": "NIGHT 2: Evergreen Christmas",
+   "title": "NIGHT 2: Evergreen Christmas featuring Melissa Greene and Ryan Greenawalt",
    "date": "2026-12-21",
    "time": "19:00",
    "doors": "18:00",
@@ -2370,7 +2327,7 @@
   },
   {
    "venue": "The Basement East",
-   "title": "My So-Called Band: The Ultimate 90s New Year’s Eve!",
+   "title": "My So-Called Band: The Ultimate 90s New Year&rsquo;s Eve!",
    "date": "2026-12-31",
    "time": "22:00",
    "doors": "20:30",
@@ -2643,6 +2600,16 @@
    "title": "BUSCH & THE BRUISERS HAPPY HOUR: WILD BILL & THE BRUISERS",
    "date": "2027-01-22",
    "time": "16:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
+   "date": "2027-01-23",
+   "time": "15:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
