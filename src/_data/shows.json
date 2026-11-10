@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-09T21:32:50.102Z",
+ "updatedAt": "2026-11-10T18:46:40.624Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 76,
+   "count": 75,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 37,
+   "count": 36,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "stale": false
   },
@@ -51,74 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 41,
+   "count": 53,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "Farmacy Kitchen & Stage closed on Mondays!",
-   "date": "2026-11-09",
-   "time": "00:01",
-   "endTime": "23:59",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/farmacy-kitchen-stage-closed-on-mondays-rgr4k",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Shane Zen",
-   "date": "2026-11-09",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/shane-zen-11926",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Caitlyn Smith - Album Release Show",
-   "date": "2026-11-09",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Isabel w/Raeven & Gressor – 18+",
-   "date": "2026-11-09",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/isabel-w-raeven-gressor-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/63409260/isabel-wraeven-gressor-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "HOBSON'S CHOICE",
-   "date": "2026-11-09",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "The Basement",
-   "title": "GOOSE NIGHT ZERO: The Band Memo",
-   "date": "2026-11-09",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Skinny Dennis",
    "title": "POP A TOP TUESDAY FT. SWEET MEGG",
@@ -400,12 +338,12 @@
   },
   {
    "venue": "Puckett's Nashville",
-   "title": "RischeCraft",
+   "title": "JL Fulks Acoustic Duo",
    "date": "2026-11-13",
    "time": "20:00",
    "endTime": "21:30",
    "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/rischecraft-111326",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/jl-fulks-acoustic-duo-111326",
    "tickets": "",
    "source": "puckett-nashville"
   },
@@ -2346,6 +2284,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Radio Farm",
+   "date": "2027-01-01",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/radio-farm-1127",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
    "date": "2027-01-02",
@@ -2354,6 +2303,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "EverAmarillo",
+   "date": "2027-01-02",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/everamarillo-1227",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "Skinny Dennis",
@@ -2366,6 +2326,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Cody Wickline",
+   "date": "2027-01-04",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/cody-wickline-1427",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "AN EVENING WITH JIM LAUDERDALE & THE GAME CHANGERS",
    "date": "2027-01-04",
@@ -2374,6 +2345,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Brad Morgan",
+   "date": "2027-01-05",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/brad-morgan-1527",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "Skinny Dennis",
@@ -2394,6 +2376,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Rachel Pedersen",
+   "date": "2027-01-07",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/rachel-pedersen-1727",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement East",
@@ -2456,6 +2449,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Matt Marinchick",
+   "date": "2027-01-11",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/matt-marinchick-11127",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "ROCK NITE",
    "date": "2027-01-11",
@@ -2464,6 +2468,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Taylor Hughes",
+   "date": "2027-01-12",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/taylor-hughes-11227",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "Skinny Dennis",
@@ -2476,6 +2491,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Austin Gray",
+   "date": "2027-01-13",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/austin-gray-11327",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "THE STARLIGHT JAMBOREE FT. THE COWTOWN DOZEN",
    "date": "2027-01-13",
@@ -2484,6 +2510,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Lucie Tiger",
+   "date": "2027-01-14",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/lucie-tiger-11427",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement East",
@@ -2556,6 +2593,17 @@
    "source": "basement"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Kylie Brown",
+   "date": "2027-01-19",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/kylie-brown-11927",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement East",
    "title": "The Womack Sisters",
    "date": "2027-01-19",
@@ -2586,6 +2634,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Drew Dangerfield",
+   "date": "2027-01-20",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/drew-dangerfield-12027",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement",
    "title": "Boy Golden",
    "date": "2027-01-21",
@@ -2594,6 +2653,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Mark Hatt",
+   "date": "2027-01-21",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/mark-hatt-12127",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "Skinny Dennis",
@@ -2610,6 +2680,37 @@
    "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
    "date": "2027-01-23",
    "time": "15:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Karli & James",
+   "date": "2027-01-23",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/karli-and-james-12327",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
+   "venue": "The Basement East",
+   "title": "Blisspop Presents: Can't Feel My Face: 2010s Dance Party",
+   "date": "2027-01-23",
+   "time": "21:00",
+   "doors": "20:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "DIME AT A TIME VINTAGE MARKET",
+   "date": "2027-01-24",
+   "time": "12:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
