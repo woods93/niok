@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-10T18:46:40.624Z",
+ "updatedAt": "2026-11-11T18:47:42.102Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 75,
+   "count": 71,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 36,
+   "count": 35,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 28,
+   "count": 30,
    "error": "",
    "stale": false
   },
@@ -42,7 +42,7 @@
    "name": "Skinny Dennis",
    "url": "https://skinnydennisnashville.com/calendar/",
    "ok": true,
-   "count": 65,
+   "count": 64,
    "error": "",
    "stale": false
   },
@@ -51,84 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 53,
+   "count": 60,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Skinny Dennis",
-   "title": "POP A TOP TUESDAY FT. SWEET MEGG",
-   "date": "2026-11-10",
-   "time": "17:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "The Basement",
-   "title": "FREE SHOW! SJ McDonald - Grocery List Release Party",
-   "date": "2026-11-10",
-   "time": "18:00",
-   "doors": "17:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Aaron Simmons",
-   "date": "2026-11-10",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/aaron-simmons-111026",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "New Faces Night feat. Grace Day, The Zooeys, Dylan Bradley, Maeve McMahon, Lindsay Jordan, Thom Chapman, & Los Juanos",
-   "date": "2026-11-10",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "JOELTON HARDWARE OPEN MIC with LeNAYE!",
-   "date": "2026-11-10",
-   "time": "19:30",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/joelton-hardware-open-mic-with-lenaye-askg9",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement",
-   "title": "GOOSE AFTER PARTY! Squeaky Feet 2-SHOW-PASS",
-   "date": "2026-11-10",
-   "time": "23:30",
-   "doors": "23:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The Basement",
-   "title": "GOOSE AFTER PARTY! Squeaky Feet - Night 1 at The Basement",
-   "date": "2026-11-10",
-   "time": "23:30",
-   "doors": "23:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
@@ -173,7 +101,7 @@
   },
   {
    "venue": "Joelton Hardware",
-   "title": "CANCELLED REED FIELDS & SHAKE E. FOWLKES",
+   "title": "ELIOT HOUSER and JOSEPH LORAIN FLEMING Sr. (Dead & Dylan tunes!)",
    "date": "2026-11-11",
    "time": "19:30",
    "endTime": "21:00",
@@ -650,12 +578,12 @@
   },
   {
    "venue": "The End",
-   "title": "Fielder – 18+",
+   "title": "Fielder w/ Leah Marlene – 18+",
    "date": "2026-11-17",
    "time": "20:00",
    "doors": "19:00",
-   "url": "https://endnashville.com/event/fielder-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/32827885/fielder-18-nashville-the-end?partner_id=100",
+   "url": "https://endnashville.com/event/fielder-w-leah-marlene-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/32827885/fielder-wleah-marlene-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1881,6 +1809,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Schlick w/Slim Guerilla, Almighty Bumpin’, Mike Wvtts, Baby Tokie & Qwan Lennon – 18+",
+   "date": "2026-12-13",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/schlick-w-slim-guerilla-almighty-bumpin-mike-wvtts-baby-tokie-qwan-lennon-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/84240390/schlick-wslim-guerillaalmighty-bumpinmike-wvttsbaby-tokie-qwan-lennon-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Justen Harden",
    "date": "2026-12-14",
@@ -1983,6 +1921,16 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "The End",
+   "title": "Jackson Travis w/Auburn, Hapsonlie & Kaylee Keeny – 18+",
+   "date": "2026-12-17",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/jackson-travis-w-auburn-hapsonlie-kaylee-keeny-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/71488435/jackson-travis-wauburnhapsonlie-kaylee-keeny-18-nashville-the-end?partner_id=100",
+   "source": "end"
   },
   {
    "venue": "Skinny Dennis",
@@ -2379,6 +2327,17 @@
   },
   {
    "venue": "Puckett's Nashville",
+   "title": "Tyler Gould",
+   "date": "2027-01-06",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/tyler-gould-1627",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
+   "venue": "Puckett's Nashville",
    "title": "Rachel Pedersen",
    "date": "2027-01-07",
    "time": "19:00",
@@ -2419,6 +2378,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Martini & Steel",
+   "date": "2027-01-08",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/martini-and-steel-1827",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
    "date": "2027-01-09",
@@ -2427,6 +2397,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Highway94",
+   "date": "2027-01-09",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/highway94-1927",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement East",
@@ -2543,6 +2524,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "Ashley Miller",
+   "date": "2027-01-15",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/ashley-miller-11527",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
    "date": "2027-01-16",
@@ -2551,6 +2543,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Jake & Mikayla",
+   "date": "2027-01-16",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/jake-mikayla-11627",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement East",
@@ -2581,6 +2584,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Caleb Mills",
+   "date": "2027-01-18",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/caleb-mills-11827",
+   "tickets": "",
+   "source": "puckett-nashville"
   },
   {
    "venue": "The Basement",
@@ -2676,6 +2690,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "The Hobbs Sisters",
+   "date": "2027-01-22",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/the-hobbs-sisters-12227",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
    "date": "2027-01-23",
@@ -2715,6 +2740,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Maura Streppa",
+   "date": "2027-01-25",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/maura-streppa-12527",
+   "tickets": "",
+   "source": "puckett-nashville"
   }
  ]
 }
