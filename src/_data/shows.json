@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T18:47:42.102Z",
+ "updatedAt": "2026-11-12T19:00:00.080Z",
  "venues": [
   {
    "id": "basement",
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 35,
+   "count": 42,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 30,
+   "count": 28,
    "error": "",
    "stale": false
   },
@@ -42,7 +42,7 @@
    "name": "Skinny Dennis",
    "url": "https://skinnydennisnashville.com/calendar/",
    "ok": true,
-   "count": 64,
+   "count": 65,
    "error": "",
    "stale": false
   },
@@ -57,99 +57,6 @@
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
-   "date": "2026-11-11",
-   "time": "17:00",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/gene-dunlap-w-jonell-mosser-z-band-lmmzk-r5hxf-j9lth-ybzph-ppr7b-64en6-yblkl-88rse-rlgbm-njjbn-4sn35-eb75y-68ewr-3sk6x-9lcdz-ehb79-ey4ym-gdep8-5ace4-6znmb-ta9s6-apdyd-msmy3-slnmx-djyac",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "MUSHROOMHEAD/ FEAR FACTORY co-headline SOULS OF A NEW MACHINE TOUR with guests NINE TREASURES and Sicksense",
-   "date": "2026-11-11",
-   "time": "18:15",
-   "doors": "17:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Lucie Tiger",
-   "date": "2026-11-11",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/lucie-tiger-111126",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Francis of Delirium w/ Caroline Carter",
-   "date": "2026-11-11",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "ELIOT HOUSER and JOSEPH LORAIN FLEMING Sr. (Dead & Dylan tunes!)",
-   "date": "2026-11-11",
-   "time": "19:30",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/reed-fields-shake-e-fowlkes",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The End",
-   "title": "Legacy Concerts Presents: Not My Weekend w/ Greyson Zane, Rare Candy- 18+",
-   "date": "2026-11-11",
-   "time": "19:30",
-   "doors": "18:30",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-not-my-weekend-w-greyson-zane-rare-candy-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/72274472/legacy-concerts-presentsnot-my-weekend-wgreyson-zanerare-candy18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The End",
-   "title": "Legacy Concerts Presents: Yana – All Ages (NOW AT EXIT/IN)",
-   "date": "2026-11-11",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-yana-all-ages-now-at-exit-in/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/83168710/legacy-concerts-presentsyana-all-ages-now-at-exitin-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "ANDREW LAMBIE & THE LIVESTOCK",
-   "date": "2026-11-11",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "The Basement",
-   "title": "GOOSE AFTER PARTY! Squeaky Feet - Night 2 at The Basement",
-   "date": "2026-11-11",
-   "time": "23:30",
-   "doors": "23:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Puckett's Nashville",
    "title": "Mark Box",
@@ -930,6 +837,27 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "The Basement",
+   "title": "League of Sound Disciples",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "doors": "20:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "JOHNNY \"BRUNCH\" (SHORTRIDGE) - variety",
+   "date": "2026-11-22",
+   "time": "11:00",
+   "endTime": "14:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/johnny-brunch-shortridge-variety",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "SUNDAY BRUNCH with music by JOHNNY SHORTRIDGE!",
    "date": "2026-11-22",
@@ -1139,6 +1067,17 @@
    "source": "end"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "THOMAS TOWNSLEY (swing, blues, folk)",
+   "date": "2026-11-25",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/thomas-townsley-swing-blues-folk",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "The Basement",
    "title": "Big Bill w/ Wesley & The Boys and Barcode",
    "date": "2026-11-25",
@@ -1179,6 +1118,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "KRIS HOUSER & FRIENDS After-Thanksgiving Jam!",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "endTime": "22:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/kris-houser-friends-after-thanksgiving-jam",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1230,6 +1180,17 @@
    "endTime": "19:00",
    "doors": "",
    "url": "https://www.joeltonhardware.com/events/kyle-rullmann-3k9eg",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "JOE COLLIER BLUES BAND",
+   "date": "2026-11-28",
+   "time": "19:30",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/joe-collier-blues-band-1",
    "tickets": "",
    "source": "joelton"
   },
@@ -1401,6 +1362,17 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "ARUM RAE - sultry singer/songwriter",
+   "date": "2026-12-02",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/arum-rae-sultry-singersongwriter",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "The Basement East",
    "title": "Katie Pruitt - Fools for the Fleeting Tour w/ Anthony da Costa and BAERD",
    "date": "2026-12-02",
@@ -1430,6 +1402,17 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/austin-byrd-12326",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "GOOD NEWS OPEN MIC!",
+   "date": "2026-12-03",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/good-news-open-mic-5",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Skinny Dennis",
@@ -1470,6 +1453,38 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "MARK ANDREW MILLER (roots)",
+   "date": "2026-12-04",
+   "time": "17:30",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/mark-andrew-miller-roots",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
+   "venue": "The Basement",
+   "title": "An Evening with Sammy Arriaga - With Special Guest A Night of Holiday Classics & Fan-Favorite Originals",
+   "date": "2026-12-04",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "THEM LEMMINGS!",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "endTime": "22:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/them-lemmings-1",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1523,6 +1538,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "HENRY BITZER & BAND! SATURDAY SCHOOL Opens! *Ticketed Event*",
+   "date": "2026-12-05",
+   "time": "17:30",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/henry-bitzer-band-saturday-school-opens",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Kayla Woodson",
    "date": "2026-12-05",
@@ -1552,6 +1578,16 @@
    "url": "https://endnashville.com/event/cancelled-thelma-the-sleaze-w-hussy-fit-slow-shiv-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/91779240/cancelledthelma-the-sleaze-whussy-fit-slow-shiv-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "The Basement",
+   "title": "Silicon Death Ray w/ Iguanahead and Abbdav",
+   "date": "2026-12-05",
+   "time": "21:00",
+   "doors": "20:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
   },
   {
    "venue": "Skinny Dennis",
@@ -1654,6 +1690,16 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "CONSCIOUS ALLIANCE",
+   "date": "2026-12-09",
+   "time": "20:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   },
   {
    "venue": "The Basement East",
@@ -2751,6 +2797,27 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/maura-streppa-12527",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Ronny Criss",
+   "date": "2027-01-26",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/ronny-criss-12627",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
+   "date": "2027-01-26",
+   "time": "21:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   }
  ]
 }
