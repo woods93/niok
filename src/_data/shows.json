@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-12T19:00:00.080Z",
+ "updatedAt": "2026-11-13T18:36:59.344Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 71,
+   "count": 69,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 42,
+   "count": 41,
    "error": "",
    "stale": false
   },
@@ -42,7 +42,7 @@
    "name": "Skinny Dennis",
    "url": "https://skinnydennisnashville.com/calendar/",
    "ok": true,
-   "count": 65,
+   "count": 63,
    "error": "",
    "stale": false
   },
@@ -57,78 +57,6 @@
   }
  ],
  "shows": [
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Mark Box",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/mark-box111226",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Fabrizio - The Recovery Tour w/ Colette Elyse",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Legacy Concerts Presents: The Haunt w/ 8 Graves, Platinum Moon – 18+",
-   "date": "2026-11-12",
-   "time": "19:30",
-   "doors": "18:30",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-the-haunt-w-8-graves-platinum-moon-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/72731791/legacy-concerts-presentsthe-haunt-w8-gravesplatinum-moon-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "MARCEDES CARROLL & DOC ELLIOT (roots, singer/songwriter)",
-   "date": "2026-11-12",
-   "time": "20:00",
-   "endTime": "21:30",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/marcedes-carroll-doc-elliot-roots-singersongwriter",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "Devon Gilfillian Time Will Tell Tour w/ Alex Lambert",
-   "date": "2026-11-12",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "BIRKEDAHL & THE WOLVES",
-   "date": "2026-11-12",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Give A Crap, Nashville ft. Kelsi Mayne, Hollye B and Shannon McNally",
-   "date": "2026-11-12",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "HAPPY HOUR BAND (Variety)",
@@ -1580,6 +1508,16 @@
    "source": "end"
   },
   {
+   "venue": "The End",
+   "title": "Nick Ball & The Chain w/East Side Experience – 18+",
+   "date": "2026-12-05",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/nick-ball-the-chain-w-east-side-experience-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/54062013/nick-ball-the-chain-weast-side-experience-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Silicon Death Ray w/ Iguanahead and Abbdav",
    "date": "2026-12-05",
@@ -1642,12 +1580,12 @@
   },
   {
    "venue": "Puckett's Nashville",
-   "title": "Kyle Isamoyer",
+   "title": "Rhonda Funk",
    "date": "2026-12-08",
    "time": "19:00",
    "endTime": "20:30",
    "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/kyle-isamoyer-12826",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/rhonda-funk-12826",
    "tickets": "",
    "source": "puckett-nashville"
   },
@@ -1690,16 +1628,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "CONSCIOUS ALLIANCE",
-   "date": "2026-12-09",
-   "time": "20:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "The Basement East",
@@ -1936,6 +1864,16 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/ingrid-griffin-121626",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "The Basement",
+   "title": "Arkose",
+   "date": "2026-12-16",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
   },
   {
    "venue": "Puckett's Nashville",
@@ -2818,6 +2756,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Brittany Bishop",
+   "date": "2027-01-27",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/brittany-bishop-12727",
+   "tickets": "",
+   "source": "puckett-nashville"
   }
  ]
 }
