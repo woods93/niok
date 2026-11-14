@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-13T18:36:59.344Z",
+ "updatedAt": "2026-11-14T17:10:53.336Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 69,
+   "count": 68,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 41,
+   "count": 39,
    "error": "",
    "stale": false
   },
@@ -57,79 +57,6 @@
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "HAPPY HOUR BAND (Variety)",
-   "date": "2026-11-13",
-   "time": "16:00",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/happy-hour-band-variety-3z88h-9756p-5smln-r7eha-awtpz-xfp9c-l8228-er4kr",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "BUSCH & BARDSTOWN & BRUISERS HAPPY HOUR",
-   "date": "2026-11-13",
-   "time": "16:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "The End",
-   "title": "Legacy Concerts Presents: Heal The Hurt w/ Magdalene Rose, Unbroken Reign, Collective Dust, Atlaslight – 18+",
-   "date": "2026-11-13",
-   "time": "18:30",
-   "doors": "18:00",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-heal-the-hurt-w-magdalene-rose-unbroken-reign-collective-dust-atlaslight-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/87475102/legacy-concerts-presentsheal-the-hurt-wmagdalene-roseunbroken-reigncollective-dustatlaslight-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "AARON VANCE (Country)",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "endTime": "22:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/aaron-vance-country-1",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "JL Fulks Acoustic Duo",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "endTime": "21:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/jl-fulks-acoustic-duo-111326",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "RR Party - D. Striker, Corey Parsons, Chris Crofton",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "doors": "19:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "QDP",
-   "date": "2026-11-13",
-   "time": "21:00",
-   "doors": "21:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "OPEN COMMUNITY JAM Noon-5pm",
@@ -1630,6 +1557,16 @@
    "source": "basement"
   },
   {
+   "venue": "Skinny Dennis",
+   "title": "CONSCIOUS ALLIANCE",
+   "date": "2026-12-09",
+   "time": "20:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
    "venue": "The Basement East",
    "title": "Ben Chapman's Peach Jam w/ Marcus King, Madeline Edwards, Zack Logan, Meg Mcree, Briley King and more!",
    "date": "2026-12-09",
@@ -1830,6 +1767,16 @@
    "date": "2026-12-15",
    "time": "19:00",
    "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "The Basement East",
+   "title": "John Corabi's Toys for Tots Charity Concert featuring Peter Keys & All Time Low Stars, Brother Cane and Rebels Opera",
+   "date": "2026-12-15",
+   "time": "19:00",
+   "doors": "18:00",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
@@ -2267,16 +2214,6 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/cody-wickline-1427",
    "tickets": "",
    "source": "puckett-nashville"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "AN EVENING WITH JIM LAUDERDALE & THE GAME CHANGERS",
-   "date": "2027-01-04",
-   "time": "20:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "Puckett's Nashville",
@@ -2767,6 +2704,37 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/brittany-bishop-12727",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Megan Faith",
+   "date": "2027-01-28",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/megan-faith-12827",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "ROCK NITE",
+   "date": "2027-01-28",
+   "time": "20:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "The End",
+   "title": "Legacy Concerts Presents: Scarlet Demore w/ Latter – 18+",
+   "date": "2027-01-28",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/legacy-concerts-presents-scarlet-demore-w-latter-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/66947106/legacy-concerts-presentsscarlet-demore-wlatter-18-nashville-the-end?partner_id=100",
+   "source": "end"
   }
  ]
 }
