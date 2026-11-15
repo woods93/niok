@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-14T17:10:53.336Z",
+ "updatedAt": "2026-11-15T17:48:35.165Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 68,
+   "count": 65,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 39,
+   "count": 36,
    "error": "",
    "stale": false
   },
@@ -57,100 +57,6 @@
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "OPEN COMMUNITY JAM Noon-5pm",
-   "date": "2026-11-14",
-   "time": "12:00",
-   "endTime": "17:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/open-jam-s2tcg-aesa2-sbhgh-ez2hk-l7xz6-efd3t-s7mya-g4kk5-yexge-jdyww-48c96-mb6ha-6tz25-s35as-mnde6-cwbfb-yalkk-7wa69-52r8n",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
-   "date": "2026-11-14",
-   "time": "15:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "NED HILL (Americana)",
-   "date": "2026-11-14",
-   "time": "17:00",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/ned-hill-1",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Big Guy & The Very Large Men w/ She Returns From War and Maddie Medley",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "OLIVER SAYANI Album Release Concert with support from BRADY EVAN!",
-   "date": "2026-11-14",
-   "time": "19:30",
-   "endTime": "21:30",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/oliver-sayani-album-release-concert-with-support-from-brady-evan",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "TN WOLVES",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "endTime": "21:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/tn-wolves-111426",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "Hiss Golden Messenger - I'm People Tour w/ Sam Amidon",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Creek w/Aprilwinters, Fisheye & Squent – 18+",
-   "date": "2026-11-14",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/creek-w-aprilwinters-fisheye-squent-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/36578320/creek-waprilwintersfisheye-squent-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Mitchell Ferguson w/ Corina Grove",
-   "date": "2026-11-14",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "THE DOSSTONES (Jazz to Bluegrass)",
@@ -2734,6 +2640,37 @@
    "doors": "19:00",
    "url": "https://endnashville.com/event/legacy-concerts-presents-scarlet-demore-w-latter-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/66947106/legacy-concerts-presentsscarlet-demore-wlatter-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "BUSCH & THE BRUISERS HAPPY HOUR: WILD BILL & THE BRUISERS",
+   "date": "2027-01-29",
+   "time": "16:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Kaylyn Sahs",
+   "date": "2027-01-29",
+   "time": "19:00",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/kaylyn-sahs-12927",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
+   "venue": "The End",
+   "title": "Emo Night Karaoke – 18+",
+   "date": "2027-01-29",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/emo-night-karaoke-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/98317281/emo-night-karaoke-18-nashville-the-end?partner_id=100",
    "source": "end"
   }
  ]
