@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T17:48:35.165Z",
+ "updatedAt": "2026-11-16T21:06:56.111Z",
  "venues": [
   {
    "id": "basement",
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 36,
+   "count": 68,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
    "stale": false
   },
@@ -51,74 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 60,
+   "count": 61,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "THE DOSSTONES (Jazz to Bluegrass)",
-   "date": "2026-11-15",
-   "time": "11:00",
-   "endTime": "14:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/the-dosstones-jazz-to-bluegrass",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "DIME AT A TIME VINTAGE MARKET",
-   "date": "2026-11-15",
-   "time": "12:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "La la la la Ladies Night Karaoke",
-   "date": "2026-11-15",
-   "time": "16:00",
-   "endTime": "20:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/tim-jones-friends-wb9bf-6skp8-c29fd",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Laney Lebo w/ Molly Annelle",
-   "date": "2026-11-15",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "RED LEATHER &ndash; TAHOE TOUR w/ The Romance",
-   "date": "2026-11-15",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Hog Mama w/Chasing Dane & Pig Martyr – 18+",
-   "date": "2026-11-15",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/hog-mama-w-chasing-dane-pig-martyr-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/84332116/hog-mama-wchasing-dane-pig-martyr-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "Farmacy Kitchen & Stage closed on Mondays!",
@@ -1051,6 +989,16 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "The Basement",
+   "title": "The Beau Burnette Show ft. Sharkfoot, Rustler, CATES and Norman P. Jones",
+   "date": "2026-11-30",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "The End",
    "title": "Liam Law & Lance Magic w/Noah Rojas, Dean Marino & The Mob & Layla Michelle – 18+",
    "date": "2026-11-30",
@@ -1059,6 +1007,17 @@
    "url": "https://endnashville.com/event/liam-law-lance-magic-w-noah-rojas-dean-marino-the-mob-layla-michelle-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/42266878/liam-law-lance-magic-wnoah-rojasdean-marino-the-mob-layla-michelle-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "NASHVILLE BY THE SEA (Carco Clave's Surf Band)",
+   "date": "2026-12-01",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/nashville-by-the-sea-carco-claves-surf-band-nexr5-fz2hd",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1092,6 +1051,17 @@
    "source": "end"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "BLUEGRASS TUESDAYS with TIM GRAVES & THE FARMHANDS",
+   "date": "2026-12-01",
+   "time": "21:00",
+   "endTime": "22:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/myxcs2kj98phsxntcy8kzhedxfplmb-rbzel-m6mf8-c2knl-ddjw2-695ar-byldf-77ked-39rfz-8jbfd-x4c7r-cp98k-ldehr-tam43-zll97-28msc-yhz35-dtzm5-rrt3b-estz9-6xd53-y28xy-njy72-tafjh-38mph-n38l7-nrewx-8cll9",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
    "date": "2026-12-01",
@@ -1100,6 +1070,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
+   "date": "2026-12-02",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/8na2frecg2x7xjy",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Skinny Dennis",
@@ -1152,6 +1133,17 @@
    "url": "https://endnashville.com/event/emma-martin-w-lisa-curtis-beila-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/89304502/emma-martin-wlisa-curtis-beila-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "EARL ERB TRIO",
+   "date": "2026-12-03",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/earl-erb-trio-1-fnc5c-kdngy-8952j-np2ep-xncyk-8j5kl-dg2ar-4tlbz-ec2gr-ws492-24wxc-xrnh8-ap2r9-5mc7l-ct72n-et3tn-flc2p-lrsp4-yyybf-kj6eh-lrpx7-6arcr-atr63-7x5xa",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1412,6 +1404,28 @@
    "source": "end"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "TRIO CLAVE (Carco Clave’s Jazz Band)",
+   "date": "2026-12-08",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/myxcs2kj98phsxntcy8kzhedxfplmb-rbzel-m6mf8-c2knl-ddjw2-695ar-byldf-77ked-k7ypj-35gwc-ccffz-t9yfa-ly3e6-jlbse-p9khs-8e95k-6z5ay-h6lat-3ck6g-9k2fm-62ysx-gc758-3war5-g2jt7-6wn4j-jg5ad-e2hr9-eks2e",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "BLUEGRASS TUESDAYS with TIM GRAVES & THE FARMHANDS",
+   "date": "2026-12-08",
+   "time": "19:00",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/myxcs2kj98phsxntcy8kzhedxfplmb-rbzel-m6mf8-c2knl-ddjw2-695ar-byldf-77ked-39rfz-8jbfd-x4c7r-cp98k-ldehr-tam43-zll97-28msc-yhz35-dtzm5-rrt3b-estz9-6xd53-y28xy-njy72-tafjh-38mph-n38l7-nrewx-8cll9-awjj8",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Rhonda Funk",
    "date": "2026-12-08",
@@ -1453,6 +1467,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
+   "date": "2026-12-09",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/8na2frecg2x7xjy-mc9e6",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "The Basement",
    "title": "Late Night Thoughts: Days Like This Tour w/ Elias Hix",
    "date": "2026-12-09",
@@ -1461,6 +1486,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "THE RETROPOLITANS (60’s/70’s variety, formerly Date Nite)",
+   "date": "2026-12-09",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/the-retropolitans-variety-formerly-date-nite",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Skinny Dennis",
@@ -1481,6 +1517,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "EARL ERB TRIO",
+   "date": "2026-12-10",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/earl-erb-trio-1-fnc5c-kdngy-8952j-np2ep-xncyk-8j5kl-dg2ar-4tlbz-ec2gr-ws492-24wxc-xrnh8-ap2r9-5mc7l-ct72n-et3tn-flc2p-lrsp4-yyybf-kj6eh-lrpx7-6arcr-atr63-7x5xa-wles8",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "The Basement",
@@ -1512,6 +1559,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "STEEVIE STEEVES (Soulful Singer/Songwriter)",
+   "date": "2026-12-10",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/steevie-steeves-soulful-singersongwriter",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "The Basement East",
@@ -1554,6 +1612,17 @@
    "source": "end"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "AARON VANCE (Country)",
+   "date": "2026-12-11",
+   "time": "19:30",
+   "endTime": "22:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/aaron-vance-country-2",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Christmas with the Pat Sheridan Trio",
    "date": "2026-12-11",
@@ -1575,6 +1644,17 @@
    "source": "basement"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "THE MUSIC OF DUSTY SPRINGFIELD (& more including holiday tunes) featuring JAMIE-SUE SEAL w/THE EARL ERB TRIO",
+   "date": "2026-12-12",
+   "time": "10:30",
+   "endTime": "12:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/the-music-of-dusty-springfield-amp-more-including-holiday-tunes-featuring-jamie-sue-seal-wthe-earl-erb-trio",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
    "date": "2026-12-12",
@@ -1583,6 +1663,28 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "JIM SKINNER BLUES BAND",
+   "date": "2026-12-12",
+   "time": "17:30",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/tsctkrxdzz4yzs6smx8amfj2f8rh6t",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "CITADYL",
+   "date": "2026-12-12",
+   "time": "20:00",
+   "endTime": "22:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/citadyl",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1657,6 +1759,28 @@
    "source": "skinny"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "TRIO CLAVE (Carco Clave’s Jazz Band)",
+   "date": "2026-12-15",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/myxcs2kj98phsxntcy8kzhedxfplmb-rbzel-m6mf8-c2knl-ddjw2-695ar-byldf-77ked-k7ypj-35gwc-ccffz-t9yfa-ly3e6-jlbse-p9khs-8e95k-6z5ay-h6lat-3ck6g-9k2fm-62ysx-gc758-3war5-g2jt7-6wn4j-jg5ad-e2hr9-eks2e-9kfr2",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "BLUEGRASS TUESDAYS with TIM GRAVES & THE FARMHANDS",
+   "date": "2026-12-15",
+   "time": "19:00",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/lh6fxz5z3x566de",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Patrick McCormic",
    "date": "2026-12-15",
@@ -1679,7 +1803,7 @@
   },
   {
    "venue": "The Basement East",
-   "title": "John Corabi's Toys for Tots Charity Concert featuring Peter Keys & All Time Low Stars, Brother Cane and Rebels Opera",
+   "title": "John Corabi's Toys for Tots Charity Concert featuring Peter Keys & All Time Low Stars, Damon Johnson (of Brother Cane) and Rebels Opera",
    "date": "2026-12-15",
    "time": "19:00",
    "doors": "18:00",
@@ -1696,6 +1820,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
+   "date": "2026-12-16",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/8na2frecg2x7xjy-mc9e6-nsfk5",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Skinny Dennis",
@@ -1729,6 +1864,28 @@
    "source": "basement"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "MO & EMILY PITNEY (ticketed event/residency)",
+   "date": "2026-12-16",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/mo-emily-pitney-ticketed-eventresidency",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "EARL ERB TRIO",
+   "date": "2026-12-17",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/earl-erb-trio-1-fnc5c-kdngy-8952j-np2ep-xncyk-8j5kl-dg2ar-4tlbz-ec2gr-ws492-24wxc-xrnh8-ap2r9-5mc7l-ct72n-et3tn-flc2p-lrsp4-yyybf-kj6eh-lrpx7-6arcr-atr63-7x5xa-wles8-89ytb",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Brooklyn Ray",
    "date": "2026-12-17",
@@ -1748,6 +1905,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "FIREWEED DUO",
+   "date": "2026-12-17",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/fireweed-duo-1",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "The Basement East",
@@ -1778,6 +1946,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "STRANGE BISCUIT (strange rock)",
+   "date": "2026-12-18",
+   "time": "20:00",
+   "endTime": "22:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/strange-biscuit-strange-rock",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1811,6 +1990,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "RACHEL PEDERSEN (singer/songwriter)",
+   "date": "2026-12-19",
+   "time": "17:30",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/rachel-pedersen-singersongwriter",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "The Basement",
    "title": "Suns of Stars",
    "date": "2026-12-19",
@@ -1819,6 +2009,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "THOMAS TOWNSLEY (swing, folk)",
+   "date": "2026-12-19",
+   "time": "19:30",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/thomas-townsley-swing-folk",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "The Basement East",
@@ -1903,6 +2104,17 @@
    "source": "basement"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "TRIO CLAVE (Carco Clave’s Jazz Band)",
+   "date": "2026-12-22",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/3n6d38rfnhzpbs3",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Ivey Campbell",
    "date": "2026-12-22",
@@ -1924,6 +2136,17 @@
    "source": "basement"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "NANCY MARSHALL (variety)",
+   "date": "2026-12-22",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/nancy-marshall-variety",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
    "date": "2026-12-22",
@@ -1932,6 +2155,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
+   "date": "2026-12-23",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/8na2frecg2x7xjy-mc9e6-nsfk5-tztpa",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1945,6 +2179,39 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "BARRY SULKIN (instrumentals)",
+   "date": "2026-12-23",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/barry-sulkin-instrumentals",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "CLOSED on Christmas Eve!",
+   "date": "2026-12-24",
+   "time": "00:00",
+   "endTime": "23:59",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/closed-on-christmas-eve",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "MERRY CHRISTMAS & HAPPY HOLIDAYS from all of us at JOELTON HARDWARE!",
+   "date": "2026-12-25",
+   "time": "00:01",
+   "endTime": "23:59",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/merry-christmas-happy-holidays-from-all-of-us-at-joelton-hardware",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
    "date": "2026-12-26",
@@ -1953,6 +2220,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "MIRANDA LOUISE BLUES BAND",
+   "date": "2026-12-26",
+   "time": "17:30",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/kyle-rullmann-3k9eg-9f86p",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1997,6 +2275,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "TRIO CLAVE (Carco Clave’s Jazz Band)",
+   "date": "2026-12-29",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/3n6d38rfnhzpbs3-j2yxd",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Kennedy Scott",
    "date": "2026-12-29",
@@ -2028,6 +2317,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
+   "date": "2026-12-30",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/8na2frecg2x7xjy-mc9e6-nsfk5-tztpa-9b47r",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Aaron Simmons",
    "date": "2026-12-30",
@@ -2037,6 +2337,17 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/aaron-simmons-123026",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "CRAIG GOFF BAND (eclectic, blues, americana)",
+   "date": "2026-12-30",
+   "time": "19:30",
+   "endTime": "21:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/craig-goff-band-blues-americana",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Skinny Dennis",
@@ -2162,6 +2473,17 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/tyler-gould-1627",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "EARL ERB TRIO",
+   "date": "2027-01-07",
+   "time": "17:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/earl-erb-trio-1-fnc5c-kdngy-8952j-np2ep-xncyk-8j5kl-dg2ar-4tlbz-ec2gr-ws492-24wxc-xrnh8-ap2r9-5mc7l-ct72n-et3tn-flc2p-lrsp4-yyybf-kj6eh-lrpx7-6arcr-atr63-7x5xa-wles8-89ytb-b3wz3",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -2664,6 +2986,16 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "The Basement",
+   "title": "Field Guide & Georgia Harmer",
+   "date": "2027-01-29",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "The End",
    "title": "Emo Night Karaoke – 18+",
    "date": "2027-01-29",
@@ -2672,6 +3004,27 @@
    "url": "https://endnashville.com/event/emo-night-karaoke-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/98317281/emo-night-karaoke-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "615 INDIE LIVE",
+   "date": "2027-01-30",
+   "time": "12:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "Puckett's Nashville",
+   "title": "Hayley Payne Duo",
+   "date": "2027-01-30",
+   "time": "20:00",
+   "endTime": "21:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/hayley-payne-duo-13027",
+   "tickets": "",
+   "source": "puckett-nashville"
   }
  ]
 }
