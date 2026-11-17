@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-16T21:06:56.111Z",
+ "updatedAt": "2026-11-17T19:56:23.943Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 65,
+   "count": 64,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 68,
+   "count": 81,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 27,
+   "count": 26,
    "error": "",
    "stale": false
   },
@@ -51,84 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 61,
+   "count": 60,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "Farmacy Kitchen & Stage closed on Mondays!",
-   "date": "2026-11-16",
-   "time": "00:01",
-   "endTime": "23:59",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/farmacy-kitchen-stage-closed-on-mondays-rgr4k-jdy28",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Cody Lee Rose",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/cody-lee-rose-111626",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Hippie Death Cult w/ Maanta Raay",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "ROCK NITE",
-   "date": "2026-11-16",
-   "time": "20:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "Bryan Andrews w/ Lou Ridley",
-   "date": "2026-11-16",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Sweet Fruits w/The T-Rexes & Between 4th & 5th – 18+",
-   "date": "2026-11-16",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/sweet-fruits-w-the-t-rexes-between-4th-5th-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/72378393/sweet-fruits-wthe-trexes-between-4th-5th-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Daring Greatly w/ Max Struther",
-   "date": "2026-11-16",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "TRIO CLAVE (Carco Clave’s Jazz Band)",
@@ -139,6 +67,16 @@
    "url": "https://www.joeltonhardware.com/events/y95xd87slr843mp",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "POP A TOP TUESDAY FT. THE 14 KARAT COWBOYS",
+   "date": "2026-11-17",
+   "time": "17:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   },
   {
    "venue": "Joelton Hardware",
@@ -191,16 +129,6 @@
    "url": "https://endnashville.com/event/fielder-w-leah-marlene-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/32827885/fielder-wleah-marlene-18-nashville-the-end?partner_id=100",
    "source": "end"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-11-17",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "Joelton Hardware",
@@ -812,7 +740,7 @@
    "venue": "Skinny Dennis",
    "title": "BUSCH & BARDSTOWN & BRUISERS HAPPY HOUR",
    "date": "2026-11-27",
-   "time": "16:00",
+   "time": "17:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
@@ -1353,6 +1281,17 @@
    "source": "basement"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "TIM JONES & FRIENDS",
+   "date": "2026-12-06",
+   "time": "11:00",
+   "endTime": "14:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/tim-jones-friends-43a79",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "DIME AT A TIME VINTAGE MARKET",
    "date": "2026-12-06",
@@ -1363,6 +1302,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "La la la la Ladies Night Karaoke",
+   "date": "2026-12-06",
+   "time": "16:00",
+   "endTime": "20:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/tim-jones-friends-wb9bf-b654t",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "The Basement",
    "title": "Spring Term, Stewart Arp and Sungold",
    "date": "2026-12-06",
@@ -1371,6 +1321,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "Farmacy Kitchen & Stage closed on Mondays!",
+   "date": "2026-12-07",
+   "time": "00:01",
+   "endTime": "23:59",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/farmacy-kitchen-stage-closed-on-mondays-rgr4k-jdy28-twnj5-43ptr-yhmx7",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1592,6 +1553,17 @@
    "source": "end"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "HAPPY HOUR BAND (Variety)",
+   "date": "2026-12-11",
+   "time": "16:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/happy-hour-band-variety-3z88h-9756p-5smln-r7eha-awtpz-xfp9c-l8228-er4kr-wtc7f-6sdjl-6amjt",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "BUSCH & BARDSTOWN & BRUISERS HAPPY HOUR",
    "date": "2026-12-11",
@@ -1645,7 +1617,7 @@
   },
   {
    "venue": "Joelton Hardware",
-   "title": "THE MUSIC OF DUSTY SPRINGFIELD (& more including holiday tunes) featuring JAMIE-SUE SEAL w/THE EARL ERB TRIO",
+   "title": "THE MUSIC OF DUSTY SPRINGFIELD (& more, including holiday tunes) featuring JAMIE-SUE SEAL w/THE EARL ERB TRIO",
    "date": "2026-12-12",
    "time": "10:30",
    "endTime": "12:00",
@@ -1708,6 +1680,17 @@
    "source": "basement"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "Sunday Brunch with THE BRUNCH BOYZ (variety)",
+   "date": "2026-12-13",
+   "time": "11:00",
+   "endTime": "14:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/sunday-brunch-with-the-brunch-boyz-variety-f5krr",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "DIME AT A TIME VINTAGE MARKET",
    "date": "2026-12-13",
@@ -1716,6 +1699,17 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "La la la la Ladies Night Karaoke",
+   "date": "2026-12-13",
+   "time": "16:00",
+   "endTime": "20:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/tim-jones-friends-wb9bf-5d53e",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "The Basement East",
@@ -1736,6 +1730,17 @@
    "url": "https://endnashville.com/event/schlick-w-slim-guerilla-almighty-bumpin-mike-wvtts-baby-tokie-qwan-lennon-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/84240390/schlick-wslim-guerillaalmighty-bumpinmike-wvttsbaby-tokie-qwan-lennon-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "Farmacy Kitchen & Stage closed on Mondays!",
+   "date": "2026-12-14",
+   "time": "00:01",
+   "endTime": "23:59",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/farmacy-kitchen-stage-closed-on-mondays-rgr4k-jdy28-twnj5-43ptr-yhmx7-7rjd9",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1938,6 +1943,17 @@
    "source": "end"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "HAPPY HOUR BAND (Variety)",
+   "date": "2026-12-18",
+   "time": "16:00",
+   "endTime": "19:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/happy-hour-band-variety-3z88h-9756p-5smln-r7eha-awtpz-xfp9c-l8228-er4kr-wtc7f-6sdjl-6amjt-ajg9a",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "BUSCH & BARDSTOWN & BRUISERS HAPPY HOUR",
    "date": "2026-12-18",
@@ -2063,6 +2079,17 @@
    "source": "basement"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "SUNDAY BRUNCH with music by JOHNNY SHORTRIDGE!",
+   "date": "2026-12-20",
+   "time": "11:00",
+   "endTime": "14:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/sunday-brunch-with-music-by-the-brunch-boyz-2-a9spn-jlgb6-6tlzj-kn6fs-hphwc-pt8nt-g6yyb-ghn68",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "DIME AT A TIME VINTAGE MARKET",
    "date": "2026-12-20",
@@ -2073,6 +2100,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "La la la la Ladies Night Karaoke",
+   "date": "2026-12-20",
+   "time": "16:00",
+   "endTime": "20:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/tim-jones-friends-wb9bf-5d53e-mze8x",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "The Basement East",
    "title": "NIGHT 1: Evergreen Christmas featuring Melissa Greene and Ryan Greenawalt",
    "date": "2026-12-20",
@@ -2081,6 +2119,17 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "Farmacy Kitchen & Stage closed on Mondays!",
+   "date": "2026-12-21",
+   "time": "00:01",
+   "endTime": "23:59",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/farmacy-kitchen-stage-closed-on-mondays-rgr4k-jdy28-twnj5-43ptr-yhmx7-7rjd9-7labd",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -2244,6 +2293,17 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "Joelton Hardware",
+   "title": "SUNDAY BRUNCH with music by THE HOMEMADE JAM BAND!",
+   "date": "2026-12-27",
+   "time": "11:00",
+   "endTime": "14:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/sunday-brunch-with-music-by-the-brunch-boyz-2-a9spn-jlgb6-6tlzj-kn6fs-hphwc-pt8nt-g6yyb-ehsfw-8wf7b",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "DIME AT A TIME VINTAGE MARKET",
    "date": "2026-12-27",
@@ -2252,6 +2312,28 @@
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
    "source": "skinny"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "La la la la Ladies Night Karaoke",
+   "date": "2026-12-27",
+   "time": "16:00",
+   "endTime": "20:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/tim-jones-friends-wb9bf-5d53e-mze8x-fc6ea",
+   "tickets": "",
+   "source": "joelton"
+  },
+  {
+   "venue": "Joelton Hardware",
+   "title": "Farmacy Kitchen & Stage closed on Mondays!",
+   "date": "2026-12-28",
+   "time": "00:01",
+   "endTime": "23:00",
+   "doors": "",
+   "url": "https://www.joeltonhardware.com/events/farmacy-kitchen-stage-closed-on-mondays-rgr4k-jdy28-twnj5-43ptr-yhmx7-7rjd9-7labd-eksa8",
+   "tickets": "",
+   "source": "joelton"
   },
   {
    "venue": "Puckett's Nashville",
@@ -2560,7 +2642,7 @@
   },
   {
    "venue": "The Basement East",
-   "title": "Feelin' 22 - A Tribute to Taylor Swift",
+   "title": "Feeling 22 - A Tribute to Taylor Swift",
    "date": "2027-01-09",
    "time": "20:00",
    "doors": "19:00",
@@ -3016,6 +3098,26 @@
    "source": "skinny"
   },
   {
+   "venue": "The Basement",
+   "title": "615 Indie Live - Certainly So, Connor Clark & Blue Rhythm Revival, Paul McDonald & the Mourning Doves, The Great Outdoors, & Under High Street",
+   "date": "2027-01-30",
+   "time": "19:00",
+   "doors": "19:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "The Basement East",
+   "title": "SOLD OUT! Enter Shikari: 2027 Tour",
+   "date": "2027-01-30",
+   "time": "19:00",
+   "doors": "18:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Hayley Payne Duo",
    "date": "2027-01-30",
@@ -3025,6 +3127,16 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/hayley-payne-duo-13027",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "DIME AT A TIME VINTAGE MARKET",
+   "date": "2027-01-31",
+   "time": "12:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   }
  ]
 }
