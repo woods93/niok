@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T19:56:23.943Z",
+ "updatedAt": "2026-11-18T19:30:14.896Z",
  "venues": [
   {
    "id": "basement",
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 81,
+   "count": 79,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "error": "",
    "stale": false
   },
@@ -34,7 +34,7 @@
    "url": "https://the5spotnashville.com/",
    "ok": false,
    "count": 0,
-   "error": "fetch failed",
+   "error": "reader returned no upcoming shows",
    "stale": false
   },
   {
@@ -42,7 +42,7 @@
    "name": "Skinny Dennis",
    "url": "https://skinnydennisnashville.com/calendar/",
    "ok": true,
-   "count": 63,
+   "count": 62,
    "error": "",
    "stale": false
   },
@@ -51,85 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 60,
+   "count": 59,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "TRIO CLAVE (Carco Clave’s Jazz Band)",
-   "date": "2026-11-17",
-   "time": "17:00",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/y95xd87slr843mp",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "POP A TOP TUESDAY FT. THE 14 KARAT COWBOYS",
-   "date": "2026-11-17",
-   "time": "17:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "BLUEGRASS TUESDAYS with TIM GRAVES & THE FARMHANDS",
-   "date": "2026-11-17",
-   "time": "19:00",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/sw4gk3y27c6wt3y-t7s5t",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Ben Owens",
-   "date": "2026-11-17",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/ben-owens-111726",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "New Faces Night feat.",
-   "date": "2026-11-17",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "Protomartyr w/ J.R.C.G.",
-   "date": "2026-11-17",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Fielder w/ Leah Marlene – 18+",
-   "date": "2026-11-17",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/fielder-w-leah-marlene-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/32827885/fielder-wleah-marlene-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
@@ -371,7 +298,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "Fungkshui",
+   "title": "Fungkshui w/ Ruminate and Friends (Improv Set)",
    "date": "2026-11-20",
    "time": "21:00",
    "doors": "20:30",
@@ -623,7 +550,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "New Faces Night feat.",
+   "title": "New Faces Night feat. Ramblers Union, Russ Baum, Eric Hamblen, Lambie and the Livestock, Alyssa Mongiovi, Shamiere, and Parker Bandit",
    "date": "2026-11-24",
    "time": "19:00",
    "doors": "18:30",
@@ -1595,6 +1522,16 @@
    "source": "joelton"
   },
   {
+   "venue": "The Basement",
+   "title": "Middle Finger Fest ft Ryan Nelson, Ben Brandt, Reverend Lee, and PJ Strange",
+   "date": "2026-12-11",
+   "time": "19:30",
+   "doors": "19:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Christmas with the Pat Sheridan Trio",
    "date": "2026-12-11",
@@ -1646,6 +1583,16 @@
    "url": "https://www.joeltonhardware.com/events/tsctkrxdzz4yzs6smx8amfj2f8rh6t",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "The Basement",
+   "title": "See Night",
+   "date": "2026-12-12",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
   },
   {
    "venue": "Joelton Hardware",
