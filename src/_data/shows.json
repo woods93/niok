@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-18T19:30:14.896Z",
+ "updatedAt": "2026-11-19T19:35:26.638Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 64,
+   "count": 63,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 79,
+   "count": 77,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
    "stale": false
   },
@@ -34,7 +34,7 @@
    "url": "https://the5spotnashville.com/",
    "ok": false,
    "count": 0,
-   "error": "reader returned no upcoming shows",
+   "error": "fetch failed",
    "stale": false
   },
   {
@@ -51,95 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 59,
+   "count": 58,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
-   "date": "2026-11-18",
-   "time": "17:00",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/gene-dunlap-w-jonell-mosser-z-band-lmmzk-r5hxf-j9lth-ybzph-ppr7b-64en6-yblkl-88rse-rlgbm-njjbn-4sn35-eb75y-68ewr-3sk6x-9lcdz-ehb79-ey4ym-gdep8-5ace4-6znmb-ta9s6-apdyd-msmy3-slnmx-djyac-rmegm",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "JOSHUA HEDLEY'S WESTERN WEDNESDAY",
-   "date": "2026-11-18",
-   "time": "18:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Katrina Burgoyne",
-   "date": "2026-11-18",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/katrina-burgoyne-111826",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Olive Jones w/ Lindsey Lomis",
-   "date": "2026-11-18",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "TRAVIS PORTERFIELD & THC (THE HARDWARE COLLECTIVE)(southern rock/country)",
-   "date": "2026-11-18",
-   "time": "19:30",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/travis-porterfield-thc-the-hardware-collective",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "Fruit Bats w/ Sarah Klang",
-   "date": "2026-11-18",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Lake Drive x Nightbreakers w/Cherry Vance & Luchiano – 18+",
-   "date": "2026-11-18",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/lake-drive-x-nightbreakers-w-cherry-vance-luchiano-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/55907000/lake-drive-x-nightbreakers-wcherry-vance-luchiano-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Materializer Record Release Show w/ Blood Root",
-   "date": "2026-11-18",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "EARL ERB TRIO",
@@ -392,7 +309,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "League of Sound Disciples",
+   "title": "League of Sound Disciples w/ Cheeko",
    "date": "2026-11-21",
    "time": "21:00",
    "doors": "20:30",
@@ -591,12 +508,12 @@
   },
   {
    "venue": "Puckett's Nashville",
-   "title": "Blake Nolan",
+   "title": "Myles Mancuso",
    "date": "2026-11-25",
    "time": "19:00",
    "endTime": "20:30",
    "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/blake-nolan-112526",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/myles-mancuso-112526",
    "tickets": "",
    "source": "puckett-nashville"
   },
@@ -2567,6 +2484,16 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "The Basement",
+   "title": "Wanderbout w/ The Moguls",
+   "date": "2027-01-08",
+   "time": "21:00",
+   "doors": "20:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
    "date": "2027-01-09",
@@ -3080,6 +3007,26 @@
    "title": "DIME AT A TIME VINTAGE MARKET",
    "date": "2027-01-31",
    "time": "12:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "The Basement",
+   "title": "The Back Alley - Back At Home Tour 2027 w/ Moravian",
+   "date": "2027-02-01",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
+   "date": "2027-02-02",
+   "time": "21:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
