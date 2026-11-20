@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-19T19:35:26.638Z",
+ "updatedAt": "2026-11-20T19:12:26.831Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 63,
+   "count": 62,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 77,
+   "count": 75,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 24,
+   "count": 22,
    "error": "",
    "stale": false
   },
@@ -51,95 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 58,
+   "count": 57,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "EARL ERB TRIO",
-   "date": "2026-11-19",
-   "time": "17:00",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/earl-erb-trio-1-fnc5c-kdngy-8952j-np2ep-xncyk-8j5kl-dg2ar-4tlbz-ec2gr-ws492-24wxc-xrnh8-ap2r9-5mc7l-ct72n-et3tn-flc2p-lrsp4-yyybf-kj6eh-lrpx7-6arcr-atr63",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Brittany Elise",
-   "date": "2026-11-19",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/brittany-elise-111926",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "STEEVIE STEEVES (soulful originals)",
-   "date": "2026-11-19",
-   "time": "19:30",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/p6xhsfw5plk2k4nyzbces8b7rk6esb-s8e2h",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "TOBACCO ROAD WITH WIM TAPLEY & THE CANNONS",
-   "date": "2026-11-19",
-   "time": "20:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "King Buffalo w/ L.A. Witch",
-   "date": "2026-11-19",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "*CANCELLED* Megafaunaa w/Sorry Mom & House Warmer – 18+",
-   "date": "2026-11-19",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/cancelled-megafaunaa-w-sorry-mom-house-warmer-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/54857952/cancelledmegafaunaa-wsorry-mom-house-warmer-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The End",
-   "title": "*CANCELLED* Taylor McCall – 18+",
-   "date": "2026-11-19",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/cancelled-taylor-mccall-18-2/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/35960760/cancelledtaylor-mccall-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Rigometrics - Wake Up Tour w/ Carson Bull and the Cousins",
-   "date": "2026-11-19",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "HAPPY HOUR BAND (Variety)",
@@ -992,7 +909,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "An Evening with Sammy Arriaga - With Special Guest A Night of Holiday Classics & Fan-Favorite Originals",
+   "title": "An Evening with Sammy Arriaga - With Special Guests: A Night of Holiday Classics & Fan-Favorite Originals",
    "date": "2026-12-04",
    "time": "19:00",
    "doors": "18:30",
@@ -3023,10 +2940,30 @@
    "source": "basement"
   },
   {
+   "venue": "The Basement East",
+   "title": "Jake Minch - Getting Big Tour with special guest Alix Page",
+   "date": "2027-02-02",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
    "date": "2027-02-02",
    "time": "21:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "JOSHUA HEDLEY'S WESTERN WEDNESDAY",
+   "date": "2027-02-03",
+   "time": "18:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
