@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-20T19:12:26.831Z",
+ "updatedAt": "2026-11-22T18:36:07.833Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 62,
+   "count": 59,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 75,
+   "count": 70,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 22,
+   "count": 26,
    "error": "",
    "stale": false
   },
@@ -42,7 +42,7 @@
    "name": "Skinny Dennis",
    "url": "https://skinnydennisnashville.com/calendar/",
    "ok": true,
-   "count": 62,
+   "count": 61,
    "error": "",
    "stale": false
   },
@@ -51,189 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 57,
+   "count": 55,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "HAPPY HOUR BAND (Variety)",
-   "date": "2026-11-20",
-   "time": "16:00",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/happy-hour-band-variety-3z88h-9756p-5smln-r7eha-awtpz-xfp9c-l8228-er4kr-wtc7f",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "BUSCH & BARDSTOWN & BRUISERS HAPPY HOUR",
-   "date": "2026-11-20",
-   "time": "16:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Slack Times and Country Westerns",
-   "date": "2026-11-20",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "ROCK CITY REWIND (rock tribute)",
-   "date": "2026-11-20",
-   "time": "19:30",
-   "endTime": "22:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/kiss-led-zeppelin-and-rush-cover-band",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Montgomery Pike",
-   "date": "2026-11-20",
-   "time": "20:00",
-   "endTime": "21:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/montgomery-pike-112026",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "The Last Waltz Tribute",
-   "date": "2026-11-20",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "David Wimbish & The Collection w/Jesse James DeConto – 18+",
-   "date": "2026-11-20",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/david-wimbish-the-collection-w-jesse-james-deconto-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/86900244/david-wimbish-the-collection-wjesse-james-deconto-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Fungkshui w/ Ruminate and Friends (Improv Set)",
-   "date": "2026-11-20",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "OPEN COMMUNITY JAM Noon-5pm",
-   "date": "2026-11-21",
-   "time": "12:00",
-   "endTime": "17:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/open-jam-s2tcg-aesa2-sbhgh-ez2hk-l7xz6-efd3t-s7mya-g4kk5-yexge-jdyww-48c96-mb6ha-6tz25-s35as-mnde6-cwbfb-yalkk-7wa69-52r8n-5jg6y",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "PICKERS VODKA HAPPIEST OF HAPPY HOURS FT. SANTA'S ICE COLD PICKERS",
-   "date": "2026-11-21",
-   "time": "15:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "TRIPLE DOG DARE (acoustic roots rock)",
-   "date": "2026-11-21",
-   "time": "17:30",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/4879u3rku9vz3si7usq1ftf4p9k4bs-tk89l",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement",
-   "title": "BAILEN - SWIM!!! At Your Own Risk Tour",
-   "date": "2026-11-21",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "Alyssa Grace",
-   "date": "2026-11-21",
-   "time": "19:00",
-   "doors": "18:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "The Human Condition w/ Hard Reset, Weighed Down, Rotten Luck, Nightwake – 18+",
-   "date": "2026-11-21",
-   "time": "19:00",
-   "doors": "18:00",
-   "url": "https://endnashville.com/event/the-human-condition-w-hard-reset-weighed-down-rotten-luck-nightwake-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/82906977/the-human-condition-whard-resetweighed-downrotten-lucknightwake-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "PENTATONIC JOHNEEZE (rock)",
-   "date": "2026-11-21",
-   "time": "20:00",
-   "endTime": "22:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/pentatonic-johneez-rock-a8bst-3rxkl",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Adam & Amy Pope",
-   "date": "2026-11-21",
-   "time": "20:00",
-   "endTime": "21:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/adam-and-amy-pope-112126",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "League of Sound Disciples w/ Cheeko",
-   "date": "2026-11-21",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "JOHNNY \"BRUNCH\" (SHORTRIDGE) - variety",
@@ -1241,6 +1064,16 @@
    "source": "basement"
   },
   {
+   "venue": "The End",
+   "title": "Do Geese See God w/Superpuller, Chasing Dane & Snipe – 18+",
+   "date": "2026-12-09",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/do-geese-see-god-w-superpuller-chasing-dane-snipe-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/41282286/do-geese-see-god-wsuperpullerchasing-dane-snipe-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "EARL ERB TRIO",
    "date": "2026-12-10",
@@ -1659,6 +1492,16 @@
    "url": "https://www.joeltonhardware.com/events/mo-emily-pitney-ticketed-eventresidency",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "The End",
+   "title": "Absolute Silence w/The Suites, MOAB & The Bandana Brothers – 18+, FREE SHOW",
+   "date": "2026-12-16",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/absolute-silence-w-the-suites-moab-the-bandana-brothers-18-free-show/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/97464908/absolute-silence-wthe-suitesmoab-the-bandana-brothers-18free-show-nashville-the-end?partner_id=100",
+   "source": "end"
   },
   {
    "venue": "Joelton Hardware",
@@ -2338,6 +2181,16 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "The End",
+   "title": "Dead Before Impact w/Threnodian & Nocturnal Pulse – 18+",
+   "date": "2027-01-06",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/dead-before-impact-w-threnodian-nocturnal-pulse-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/77632485/dead-before-impact-wthrenodian-nocturnal-pulse-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "EARL ERB TRIO",
    "date": "2027-01-07",
@@ -2399,6 +2252,16 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/martini-and-steel-1827",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "The End",
+   "title": "Eley – 18+",
+   "date": "2027-01-08",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/eley-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/31401129/eley-18-nashville-the-end?partner_id=100",
+   "source": "end"
   },
   {
    "venue": "The Basement",
@@ -2473,6 +2336,16 @@
    "source": "skinny"
   },
   {
+   "venue": "The End",
+   "title": "Fieldtrip w/Jerseybird & Whispellia – 18+",
+   "date": "2027-01-11",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/fieldtrip-w-jerseybird-whispellia-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/31980579/fieldtrip-wjerseybird-whispellia-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Taylor Hughes",
    "date": "2027-01-12",
@@ -2482,6 +2355,16 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/taylor-hughes-11227",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "The End",
+   "title": "Nave & The Ghost Collectors w/Jay Rin Band & Julielle – 18+",
+   "date": "2027-01-12",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/nave-the-ghost-collectors-w-jay-rin-band-julielle-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/60868123/nave-the-ghost-collectors-wjay-rin-band-julielle-18-nashville-the-end?partner_id=100",
+   "source": "end"
   },
   {
    "venue": "Skinny Dennis",
@@ -2807,6 +2690,16 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "The Basement",
+   "title": "Caleb Joel Montgomery With Special Guest Austin Miller",
+   "date": "2027-01-28",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Megan Faith",
    "date": "2027-01-28",
@@ -2964,6 +2857,36 @@
    "title": "JOSHUA HEDLEY'S WESTERN WEDNESDAY",
    "date": "2027-02-03",
    "time": "18:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "The Basement East",
+   "title": "Bo Staloch - The 'Too Big, Too Big&rsquo; Tour w/ RYMAN",
+   "date": "2027-02-03",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "The Basement East",
+   "title": "Bumpin Uglies with Jakob's Castle & Plainview Vibes",
+   "date": "2027-02-04",
+   "time": "19:30",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "BUSCH & THE BRUISERS HAPPY HOUR: WILD BILL & THE BRUISERS",
+   "date": "2027-02-05",
+   "time": "16:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
