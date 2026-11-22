@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T18:46:28.821Z",
+ "updatedAt": "2026-11-22T18:51:25.180Z",
  "venues": [
   {
    "id": "basement",
@@ -80,16 +80,6 @@
    "source": "joelton"
   },
   {
-   "venue": "Skinny Dennis",
-   "title": "DIME AT A TIME VINTAGE MARKET",
-   "date": "2026-11-22",
-   "time": "12:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
    "venue": "Joelton Hardware",
    "title": "La la la la Ladies Night Karaoke",
    "date": "2026-11-22",
@@ -109,6 +99,16 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "BEGINNER TWO STEP LESSON WITH ZG SMITH",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   },
   {
    "venue": "The Basement East",
