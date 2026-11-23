@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T18:51:25.180Z",
+ "updatedAt": "2026-11-23T03:13:50.295Z",
  "venues": [
   {
    "id": "basement",
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 70,
+   "count": 67,
    "error": "",
    "stale": false
   },
@@ -58,39 +58,6 @@
  ],
  "shows": [
   {
-   "venue": "Joelton Hardware",
-   "title": "JOHNNY \"BRUNCH\" (SHORTRIDGE) - variety",
-   "date": "2026-11-22",
-   "time": "11:00",
-   "endTime": "14:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/johnny-brunch-shortridge-variety",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "SUNDAY BRUNCH with music by JOHNNY SHORTRIDGE!",
-   "date": "2026-11-22",
-   "time": "11:00",
-   "endTime": "14:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/sunday-brunch-with-music-by-the-brunch-boyz-2-a9spn-jlgb6-6tlzj-kn6fs-hphwc-pt8nt-g6yyb",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "La la la la Ladies Night Karaoke",
-   "date": "2026-11-22",
-   "time": "16:00",
-   "endTime": "20:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/tim-jones-friends-wb9bf-6skp8-c29fd-b9gf3",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
    "venue": "The Basement",
    "title": "SOLD OUT! Jonah Kagen",
    "date": "2026-11-22",
@@ -127,7 +94,7 @@
    "time": "20:00",
    "doors": "19:00",
    "url": "https://endnashville.com/event/spoken-in-tongues-w-ghosthood-slurry-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/75284845/spoken-in-tongues-wghosthood-slurry-18-nashville-the-end?partner_id=100",
+   "tickets": "",
    "source": "end"
   },
   {
@@ -154,7 +121,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "Jonah Kagen",
+   "title": "SOLD OUT! Jonah Kagen",
    "date": "2026-11-23",
    "time": "19:00",
    "doors": "18:30",
