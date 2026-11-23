@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-23T16:35:23.496Z",
+ "updatedAt": "2026-11-23T17:20:36.896Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 58,
+   "count": 59,
    "error": "",
    "stale": false
   },
@@ -594,6 +594,16 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/austin-byrd-12326",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "The Basement",
+   "title": "ALLEN CARRESCIA w/ CASY MEIKLE & AUSTIN DERRYBERRY",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
   },
   {
    "venue": "Joelton Hardware",
