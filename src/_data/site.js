@@ -3,7 +3,7 @@ export default {
   title: 'The Nashville I Once Knew',
   tagline: 'News about Nashville and Nashville music, with an eye for the stories that look back.',
   description:
-    'Nashville and Nashville music news from many sources, with a focus on stories that look back at the 1980s and early 1990s scene.',
+    'Nashville and Nashville music news from many sources, with a focus on stories that look back at the 1980 to 2001 scene.',
   // Email shown on the About page for corrections and takedown requests. Leave empty to hide the line.
   contact: '',
   // Link to the podcast (website or podcast app page). Leave empty to hide the link.

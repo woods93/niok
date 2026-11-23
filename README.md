@@ -1,6 +1,6 @@
 # The Nashville I Once Knew: news aggregator
 
-A static website that collects Nashville and Nashville music news, flags stories that look back at the 1980s and early 1990s scene, and links to the original publishers. A scheduled GitHub Actions job refreshes it every 4 hours. There is no server and no database.
+A static website that collects Nashville and Nashville music news, flags stories that look back at the 1980 to 2001 scene, and links to the original publishers. A scheduled GitHub Actions job refreshes it every 4 hours. There is no server and no database.
 
 ## How it works
 

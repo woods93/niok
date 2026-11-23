@@ -27,7 +27,7 @@ export function buildScorer(cfg) {
     const base = esc(norm(wild ? p.slice(0, -1) : p));
     return new RegExp(`(?<![\\w])${base}${wild ? '\\w*' : ''}(?![\\w])`, 'i');
   });
-  const eraRe = /(?<![\w])(19(?:8\d|9[0-5])s?|'?(?:80|90)s|eighties|nineties)(?![\w])/gi;
+  const eraRe = /(?<![\w])((?:19(?:8\d|9\d)s?|200[01])|'?(?:80|90)s|eighties|nineties)(?![\w])/gi;
 
   function score(text) {
     const t = norm(text);
