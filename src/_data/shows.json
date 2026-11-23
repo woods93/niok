@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-23T04:32:50.213Z",
+ "updatedAt": "2026-11-23T16:35:23.496Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 59,
+   "count": 58,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 26,
+   "count": 30,
    "error": "",
    "stale": false
   },
@@ -42,7 +42,7 @@
    "name": "Skinny Dennis",
    "url": "https://skinnydennisnashville.com/calendar/",
    "ok": true,
-   "count": 60,
+   "count": 61,
    "error": "",
    "stale": false
   },
@@ -57,36 +57,6 @@
   }
  ],
  "shows": [
-  {
-   "venue": "The Basement",
-   "title": "SOLD OUT! Jonah Kagen",
-   "date": "2026-11-22",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The Basement East",
-   "title": "SOLD OUT! Ethan Regan - Young Regan Tour w/ Lily Kershaw",
-   "date": "2026-11-22",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Spoken In Tongues w/Ghosthood & Slurry – 18+",
-   "date": "2026-11-22",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/spoken-in-tongues-w-ghosthood-slurry-18/the-end/",
-   "tickets": "",
-   "source": "end"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "Farmacy Kitchen & Stage closed on Mondays!",
@@ -2407,6 +2377,16 @@
    "source": "skinny"
   },
   {
+   "venue": "The End",
+   "title": "Dani Bubblez Presents: Mouthwatering Mayhem & Metal Burlesque Variety Show – 18+",
+   "date": "2027-01-16",
+   "time": "19:30",
+   "doors": "18:30",
+   "url": "https://endnashville.com/event/dani-bubblez-presents-mouthwatering-mayhem-metal-burlesque-variety-show-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/70403034/dani-bubblez-presentsmouthwatering-mayhem-metal-burlesque-variety-show-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Jake & Mikayla",
    "date": "2027-01-16",
@@ -2521,6 +2501,16 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "The End",
+   "title": "Riley Lauren w/Cadence Cohen & Daire McLeod – 18+",
+   "date": "2027-01-20",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/riley-lauren-w-cadence-cohen-daire-mcleod-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/47374626/riley-lauren-wcadence-cohen-daire-mcleod-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "The Basement",
    "title": "Boy Golden",
    "date": "2027-01-21",
@@ -2542,6 +2532,16 @@
    "source": "puckett-nashville"
   },
   {
+   "venue": "The End",
+   "title": "Holland Jablonski w/Coen Ogier, Stone & Kadyn Lilliana – 18+",
+   "date": "2027-01-21",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/holland-jablonski-w-coen-ogier-stone-kadyn-lilliana-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/37014709/holland-jablonski-wcoen-ogierstone-kadyn-lilliana-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
    "venue": "Skinny Dennis",
    "title": "BUSCH & THE BRUISERS HAPPY HOUR: WILD BILL & THE BRUISERS",
    "date": "2027-01-22",
@@ -2561,6 +2561,16 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/the-hobbs-sisters-12227",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "The End",
+   "title": "More Weight w/Dromia, Stammer & Pyramia – 18+",
+   "date": "2027-01-22",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/more-weight-w-dromia-stammer-pyramia-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/44430397/more-weight-wdromiastammer-pyramia-18-nashville-the-end?partner_id=100",
+   "source": "end"
   },
   {
    "venue": "Skinny Dennis",
@@ -2844,6 +2854,36 @@
    "title": "BUSCH & THE BRUISERS HAPPY HOUR: WILD BILL & THE BRUISERS",
    "date": "2027-02-05",
    "time": "16:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "The Basement East",
+   "title": "Rayland Baxter: The True Violet Tour",
+   "date": "2027-02-05",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "The End",
+   "title": "As Cities Burn – 18+",
+   "date": "2027-02-06",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://endnashville.com/event/as-cities-burn-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/45513964/as-cities-burn-18-nashville-the-end?partner_id=100",
+   "source": "end"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "EMILY KIDD",
+   "date": "2027-02-06",
+   "time": "21:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
