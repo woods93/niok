@@ -1,32 +1,32 @@
 {
- "checkedAt": "2026-11-22T18:29:23.859Z",
+ "checkedAt": "2026-11-23T22:37:17.644Z",
  "sources": [
   {
    "name": "Saving Country Music",
    "kind": "feed",
    "ok": true,
    "fetched": 38,
-   "added": 1,
+   "added": 2,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Music Row",
    "kind": "feed",
    "ok": true,
    "fetched": 10,
-   "added": 5,
+   "added": 10,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "WPLN News",
    "kind": "feed",
    "ok": true,
    "fetched": 16,
-   "added": 1,
+   "added": 5,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Billboard Country",
@@ -35,70 +35,70 @@
    "fetched": 10,
    "added": 1,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Rolling Stone Country",
    "kind": "feed",
    "ok": true,
    "fetched": 10,
-   "added": 0,
+   "added": 1,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"Exit/In\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 13,
-   "added": 7,
+   "fetched": 22,
+   "added": 10,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"Station Inn\" Nashville",
    "kind": "feed",
    "ok": true,
    "fetched": 6,
-   "added": 2,
+   "added": 1,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"Bluebird Cafe\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 12,
-   "added": 1,
+   "fetched": 25,
+   "added": 10,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"Ryman Auditorium\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 29,
-   "added": 13,
+   "fetched": 53,
+   "added": 26,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"Tootsie's Orchid Lounge\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 7,
-   "added": 1,
+   "fetched": 6,
+   "added": 0,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"Springwater Supper Club\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 3,
+   "fetched": 2,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"The Cannery\" Nashville",
@@ -107,88 +107,88 @@
    "fetched": 2,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"328 Performance Hall\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 1,
+   "fetched": 0,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"Music Row\" Nashville",
    "kind": "feed",
    "ok": true,
    "fetched": 38,
-   "added": 1,
+   "added": 2,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"Printers Alley\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 1,
+   "fetched": 0,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: \"Elliston Place\" Nashville",
    "kind": "feed",
    "ok": true,
-   "fetched": 9,
+   "fetched": 8,
    "added": 6,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: Nashville music history",
    "kind": "feed",
    "ok": true,
-   "fetched": 30,
-   "added": 10,
+   "fetched": 33,
+   "added": 8,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: Nashville songwriters tribute",
    "kind": "feed",
    "ok": true,
-   "fetched": 22,
-   "added": 2,
+   "fetched": 23,
+   "added": 3,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: site:nashvillescene.com music",
    "kind": "feed",
    "ok": true,
-   "fetched": 71,
-   "added": 2,
+   "fetched": 100,
+   "added": 15,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: site:nashvillescene.com venue closing",
    "kind": "feed",
    "ok": true,
-   "fetched": 55,
+   "fetched": 68,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   },
   {
    "name": "Google News: site:nashvillescene.com concert OR songwriter OR \"Music Row\" OR nightclub",
    "kind": "feed",
    "ok": true,
-   "fetched": 70,
+   "fetched": 72,
    "added": 0,
    "error": "",
-   "checkedAt": "2026-11-22T18:29:23.859Z"
+   "checkedAt": "2026-11-23T22:37:17.644Z"
   }
  ]
 }

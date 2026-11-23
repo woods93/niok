@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-23T17:24:16.685Z",
+ "updatedAt": "2026-11-23T22:44:05.936Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 59,
+   "count": 61,
    "error": "",
    "stale": false
   },
@@ -101,7 +101,7 @@
   },
   {
    "venue": "Joelton Hardware",
-   "title": "TRIO CLAVE (Carco Clave’s Jazz Band)",
+   "title": "EARL ERB sitting in with TRIO CLAVE in place of Carco tonight! (Carco Clave’s Jazz Band)",
    "date": "2026-11-24",
    "time": "17:00",
    "endTime": "19:00",
@@ -251,7 +251,7 @@
    "venue": "Skinny Dennis",
    "title": "BUSCH & BARDSTOWN & BRUISERS HAPPY HOUR",
    "date": "2026-11-27",
-   "time": "17:00",
+   "time": "16:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
@@ -259,7 +259,7 @@
   },
   {
    "venue": "Joelton Hardware",
-   "title": "KRIS HOUSER & FRIENDS After-Thanksgiving Jam!",
+   "title": "KRIS & ELIOT HOUSER & FRIENDS After-Thanksgiving Jam!",
    "date": "2026-11-27",
    "time": "19:30",
    "endTime": "22:00",
@@ -835,6 +835,16 @@
   },
   {
    "venue": "The Basement",
+   "title": "615 Indie Live Showcase: Mak, Peace Cult and Meesha",
+   "date": "2026-12-06",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "The Basement",
    "title": "Spring Term, Stewart Arp and Sungold",
    "date": "2026-12-06",
    "time": "21:00",
@@ -864,6 +874,16 @@
    "url": "https://www.puckettsrestaurant.com/nashville/music/matt-marinchick-12726",
    "tickets": "",
    "source": "puckett-nashville"
+  },
+  {
+   "venue": "The Basement",
+   "title": "Wily w/ Los Locos Tristes",
+   "date": "2026-12-07",
+   "time": "19:00",
+   "doors": "18:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
   },
   {
    "venue": "Skinny Dennis",
