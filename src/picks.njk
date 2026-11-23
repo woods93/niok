@@ -8,8 +8,6 @@ permalink: /picks/
 <p class="lede">Stories the hosts flagged, with their notes and links to the episodes that cover them.</p>
 {% if pickList.length %}
   {% for a in pickList %}{{ card(a) }}{% endfor %}
-{% else %}
-  <p class="empty">No picks yet. Add rows to the host picks sheet and they appear here after the next update.</p>
 {% endif %}
 
 <section class="ask-agent">
