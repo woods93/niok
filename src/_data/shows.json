@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-23T23:33:02.990Z",
+ "updatedAt": "2026-11-24T21:16:45.528Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 61,
+   "count": 62,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 67,
+   "count": 66,
    "error": "",
    "stale": false
   },
@@ -51,54 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 55,
+   "count": 54,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "Farmacy Kitchen & Stage closed on Mondays!",
-   "date": "2026-11-23",
-   "time": "00:01",
-   "endTime": "23:59",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/farmacy-kitchen-stage-closed-on-mondays-rgr4k-jdy28-twnj5",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Austin Gray",
-   "date": "2026-11-23",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/austin-gray-112326",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "SOLD OUT! Jonah Kagen",
-   "date": "2026-11-23",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "UNCLE DADDY & THE FAMILY SECRET",
-   "date": "2026-11-23",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "EARL ERB sitting in with TRIO CLAVE in place of Carco tonight! (Carco Clave’s Jazz Band)",
@@ -520,6 +478,16 @@
    "url": "https://www.joeltonhardware.com/events/8na2frecg2x7xjy",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "The Basement",
+   "title": "FREE SHOW! - BMI PLUG & PLAY ft.",
+   "date": "2026-12-02",
+   "time": "17:30",
+   "doors": "17:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
   },
   {
    "venue": "Skinny Dennis",
@@ -950,12 +918,12 @@
   },
   {
    "venue": "The End",
-   "title": "Johanna Velez w/Anna Vitale, Cameron Thorne & Amber Toon- 18+",
+   "title": "Johanna Veles w/Anna Vitale, Cameron Thorne & Amber Toon- 18+",
    "date": "2026-12-08",
    "time": "20:00",
    "doors": "19:00",
-   "url": "https://endnashville.com/event/johanna-velez-w-anna-vitale-cameron-thorne-amber-toon-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/97105106/johanna-velez-wanna-vitalecameron-thorne-amber-toon18-nashville-the-end?partner_id=100",
+   "url": "https://endnashville.com/event/johanna-veles-w-anna-vitale-cameron-thorne-amber-toon-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/97105106/johanna-veles-wanna-vitalecameron-thorne-amber-toon18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -1294,12 +1262,12 @@
   },
   {
    "venue": "The End",
-   "title": "Schlick w/Slim Guerilla, Almighty Bumpin’, Mike Wvtts, Baby Tokie & Qwan Lennon – 18+",
+   "title": "*CANCELLED* Schlick w/Slim Guerilla, Almighty Bumpin’, Mike Wvtts, Baby Tokie & Qwan Lennon – 18+",
    "date": "2026-12-13",
    "time": "20:00",
    "doors": "19:00",
-   "url": "https://endnashville.com/event/schlick-w-slim-guerilla-almighty-bumpin-mike-wvtts-baby-tokie-qwan-lennon-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/84240390/schlick-wslim-guerillaalmighty-bumpinmike-wvttsbaby-tokie-qwan-lennon-18-nashville-the-end?partner_id=100",
+   "url": "https://endnashville.com/event/cancelled-schlick-w-slim-guerilla-almighty-bumpin-mike-wvtts-baby-tokie-qwan-lennon-18/the-end/",
+   "tickets": "https://www.etix.com/ticket/p/84240390/cancelledschlick-wslim-guerillaalmighty-bumpinmike-wvttsbaby-tokie-qwan-lennon-18-nashville-the-end?partner_id=100",
    "source": "end"
   },
   {
@@ -2891,8 +2859,18 @@
   },
   {
    "venue": "The Basement East",
-   "title": "Rayland Baxter: The True Violet Tour",
+   "title": "Rayland Baxter: The True Violet Tour w/ Dylan LeBlanc",
    "date": "2027-02-05",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "The Basement East",
+   "title": "Saxsquatch - The Conspiracy Theory Tour w/ MOLLYWATER",
+   "date": "2027-02-06",
    "time": "20:00",
    "doors": "19:00",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
@@ -2914,6 +2892,16 @@
    "title": "EMILY KIDD",
    "date": "2027-02-06",
    "time": "21:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "BEGINNER TWO STEP LESSON WITH ZG SMITH",
+   "date": "2027-02-07",
+   "time": "20:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
