@@ -1,12 +1,12 @@
 {
- "updatedAt": "2026-11-24T21:16:45.528Z",
+ "updatedAt": "2026-11-25T20:34:37.380Z",
  "venues": [
   {
    "id": "basement",
    "name": "The Basement",
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "ok": true,
-   "count": 62,
+   "count": 63,
    "error": "",
    "stale": false
   },
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 66,
+   "count": 64,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
    "stale": false
   },
@@ -42,7 +42,7 @@
    "name": "Skinny Dennis",
    "url": "https://skinnydennisnashville.com/calendar/",
    "ok": true,
-   "count": 61,
+   "count": 63,
    "error": "",
    "stale": false
   },
@@ -51,75 +51,12 @@
    "name": "Puckett's Nashville",
    "url": "https://www.puckettsrestaurant.com/nashville/music",
    "ok": true,
-   "count": 54,
+   "count": 53,
    "error": "",
    "stale": false
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "EARL ERB sitting in with TRIO CLAVE in place of Carco tonight! (Carco Clave’s Jazz Band)",
-   "date": "2026-11-24",
-   "time": "17:00",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/y95xd87slr843mp-yftd7",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "BLUEGRASS TUESDAYS with TIM GRAVES & THE FARMHANDS",
-   "date": "2026-11-24",
-   "time": "19:00",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/sw4gk3y27c6wt3y-t7s5t-cnwb4",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Amberlea Bruch",
-   "date": "2026-11-24",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/amberlea-bruch-112426",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "The Basement",
-   "title": "New Faces Night feat. Ramblers Union, Russ Baum, Eric Hamblen, Lambie and the Livestock, Alyssa Mongiovi, Shamiere, and Parker Bandit",
-   "date": "2026-11-24",
-   "time": "19:00",
-   "doors": "18:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
-  {
-   "venue": "The End",
-   "title": "Starletta w/Reeve Stimpson & Luke Bodine – 18+",
-   "date": "2026-11-24",
-   "time": "20:00",
-   "doors": "19:00",
-   "url": "https://endnashville.com/event/starletta-w-reeve-stimpson-luke-bodine-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/86433238/starletta-wreeve-stimpson-luke-bodine-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-11-24",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
@@ -193,6 +130,16 @@
    "url": "https://www.joeltonhardware.com/events/happy-thanksgiving-from-joelton-hardware",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "HAPPY THANKSGIVING! BAR & KITCHEN OPEN 4PM",
+   "date": "2026-11-26",
+   "time": "16:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   },
   {
    "venue": "Joelton Hardware",
@@ -417,6 +364,16 @@
    "source": "joelton"
   },
   {
+   "venue": "Skinny Dennis",
+   "title": "POP A TOP TUESDAY FT. TIMBO",
+   "date": "2026-12-01",
+   "time": "17:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Krystal King",
    "date": "2026-12-01",
@@ -429,7 +386,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "New Faces Night feat.",
+   "title": "New Faces Night feat. Casey Ray, Lindy Urban, Valued Customer, Cally Cole & The Cosmos, Dan Parks, Miss Lonely, & Really Regular Band",
    "date": "2026-12-01",
    "time": "19:00",
    "doors": "18:30",
@@ -457,16 +414,6 @@
    "url": "https://www.joeltonhardware.com/events/myxcs2kj98phsxntcy8kzhedxfplmb-rbzel-m6mf8-c2knl-ddjw2-695ar-byldf-77ked-39rfz-8jbfd-x4c7r-cp98k-ldehr-tam43-zll97-28msc-yhz35-dtzm5-rrt3b-estz9-6xd53-y28xy-njy72-tafjh-38mph-n38l7-nrewx-8cll9",
    "tickets": "",
    "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-12-01",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "Joelton Hardware",
@@ -885,6 +832,16 @@
    "source": "joelton"
   },
   {
+   "venue": "Skinny Dennis",
+   "title": "POP A TOP TUESDAY FT. TIMBO",
+   "date": "2026-12-08",
+   "time": "17:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "BLUEGRASS TUESDAYS with TIM GRAVES & THE FARMHANDS",
    "date": "2026-12-08",
@@ -925,16 +882,6 @@
    "url": "https://endnashville.com/event/johanna-veles-w-anna-vitale-cameron-thorne-amber-toon-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/97105106/johanna-veles-wanna-vitalecameron-thorne-amber-toon18-nashville-the-end?partner_id=100",
    "source": "end"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-12-08",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "Joelton Hardware",
@@ -980,7 +927,7 @@
   },
   {
    "venue": "The Basement East",
-   "title": "Ben Chapman's Peach Jam w/ Marcus King, Madeline Edwards, Zack Logan, Meg Mcree, Briley King and more!",
+   "title": "Ben Chapman's Peach Jam w/ Marcus King, Madeline Edwards, Zack Logan, Meg Mcree, Belle Frantz, Briley King and more!",
    "date": "2026-12-09",
    "time": "20:00",
    "doors": "19:00",
@@ -1314,6 +1261,16 @@
    "source": "joelton"
   },
   {
+   "venue": "Skinny Dennis",
+   "title": "POP A TOP TUESDAY FT. TIMBO",
+   "date": "2026-12-15",
+   "time": "17:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "BLUEGRASS TUESDAYS with TIM GRAVES & THE FARMHANDS",
    "date": "2026-12-15",
@@ -1354,16 +1311,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-12-15",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "Joelton Hardware",
@@ -1702,6 +1649,16 @@
    "source": "basement"
   },
   {
+   "venue": "Skinny Dennis",
+   "title": "ROCK NITE",
+   "date": "2026-12-21",
+   "time": "20:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
    "venue": "Joelton Hardware",
    "title": "TRIO CLAVE (Carco Clave’s Jazz Band)",
    "date": "2026-12-22",
@@ -1711,6 +1668,16 @@
    "url": "https://www.joeltonhardware.com/events/3n6d38rfnhzpbs3",
    "tickets": "",
    "source": "joelton"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "POP A TOP TUESDAY FT. TIMBO",
+   "date": "2026-12-22",
+   "time": "17:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
   },
   {
    "venue": "Puckett's Nashville",
@@ -1743,16 +1710,6 @@
    "url": "https://www.joeltonhardware.com/events/nancy-marshall-variety",
    "tickets": "",
    "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-12-22",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "Joelton Hardware",
@@ -1917,6 +1874,16 @@
    "source": "joelton"
   },
   {
+   "venue": "Skinny Dennis",
+   "title": "POP A TOP TUESDAY FT. TIMBO",
+   "date": "2026-12-29",
+   "time": "17:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
    "venue": "Puckett's Nashville",
    "title": "Kennedy Scott",
    "date": "2026-12-29",
@@ -1936,16 +1903,6 @@
    "url": "https://www.thebasementnashville.com/basement-east/calendar/",
    "tickets": "",
    "source": "basement"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
-   "date": "2026-12-29",
-   "time": "21:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
   },
   {
    "venue": "Joelton Hardware",
@@ -2869,6 +2826,16 @@
   },
   {
    "venue": "The Basement East",
+   "title": "Saxsquatch - The Conspiracy Theory Tour - 2 Day Pass Ticket",
+   "date": "2027-02-06",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "The Basement East",
    "title": "Saxsquatch - The Conspiracy Theory Tour w/ MOLLYWATER",
    "date": "2027-02-06",
    "time": "20:00",
@@ -2901,6 +2868,26 @@
    "venue": "Skinny Dennis",
    "title": "BEGINNER TWO STEP LESSON WITH ZG SMITH",
    "date": "2027-02-07",
+   "time": "20:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "The Basement East",
+   "title": "Saxsquatch - The Conspiracy Theory Tour",
+   "date": "2027-02-07",
+   "time": "20:00",
+   "doors": "19:00",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "ROCK NITE",
+   "date": "2027-02-08",
    "time": "20:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
