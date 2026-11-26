@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T20:34:37.380Z",
+ "updatedAt": "2026-11-26T20:16:37.954Z",
  "venues": [
   {
    "id": "basement",
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 64,
+   "count": 62,
    "error": "",
    "stale": false
   },
@@ -24,7 +24,7 @@
    "name": "The End",
    "url": "https://endnashville.com/events/",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
    "stale": false
   },
@@ -57,69 +57,6 @@
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "GENE DUNLAP w/JONELL MOSSER & zBand",
-   "date": "2026-11-25",
-   "time": "17:00",
-   "endTime": "19:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/gene-dunlap-w-jonell-mosser-z-band-lmmzk-r5hxf-j9lth-ybzph-ppr7b-64en6-yblkl-88rse-rlgbm-njjbn-4sn35-eb75y-68ewr-3sk6x-9lcdz-ehb79-ey4ym-gdep8-5ace4-6znmb-ta9s6-apdyd-msmy3-slnmx-djyac-rmegm-pz6bn",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Puckett's Nashville",
-   "title": "Myles Mancuso",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "endTime": "20:30",
-   "doors": "",
-   "url": "https://www.puckettsrestaurant.com/nashville/music/myles-mancuso-112526",
-   "tickets": "",
-   "source": "puckett-nashville"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "WAYLON PAYNE",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
-  {
-   "venue": "The End",
-   "title": "Legacy Concerts Presents: Primer 55 w/ Redefind, Emerge, Head Trauma – 18+",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "doors": "18:00",
-   "url": "https://endnashville.com/event/legacy-concerts-presents-primer-55-w-redefind-emerge-head-trauma-18/the-end/",
-   "tickets": "https://www.etix.com/ticket/p/95865182/legacy-concerts-presentsprimer-55-wredefindemergehead-trauma-18-nashville-the-end?partner_id=100",
-   "source": "end"
-  },
-  {
-   "venue": "Joelton Hardware",
-   "title": "THOMAS TOWNSLEY (swing, blues, folk)",
-   "date": "2026-11-25",
-   "time": "19:30",
-   "endTime": "21:00",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/thomas-townsley-swing-blues-folk",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "The Basement",
-   "title": "Big Bill w/ Wesley & The Boys and Barcode",
-   "date": "2026-11-25",
-   "time": "21:00",
-   "doors": "20:30",
-   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
-   "tickets": "",
-   "source": "basement"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "HAPPY THANKSGIVING from JOELTON HARDWARE!",
@@ -386,7 +323,7 @@
   },
   {
    "venue": "The Basement",
-   "title": "New Faces Night feat. Casey Ray, Lindy Urban, Valued Customer, Cally Cole & The Cosmos, Dan Parks, Miss Lonely, & Really Regular Band",
+   "title": "New Faces Night feat. Casey Ray, Lindy Urban, Valued Customer, Cally Cole & The Cosmos, Dan Parks, Miss Lonely, Really Regular, & BKVLT",
    "date": "2026-12-01",
    "time": "19:00",
    "doors": "18:30",
@@ -487,6 +424,16 @@
    "url": "https://endnashville.com/event/emma-martin-w-lisa-curtis-beila-18/the-end/",
    "tickets": "https://www.etix.com/ticket/p/89304502/emma-martin-wlisa-curtis-beila-18-nashville-the-end?partner_id=100",
    "source": "end"
+  },
+  {
+   "venue": "The Basement",
+   "title": "Jeremy Bettman Band With Guests",
+   "date": "2026-12-02",
+   "time": "21:00",
+   "doors": "20:30",
+   "url": "https://www.thebasementnashville.com/basement-east/calendar/",
+   "tickets": "",
+   "source": "basement"
   },
   {
    "venue": "Joelton Hardware",
@@ -1948,6 +1895,17 @@
    "source": "skinny"
   },
   {
+   "venue": "Puckett's Nashville",
+   "title": "New Year’s Eve with Douglas Riley Band",
+   "date": "2026-12-31",
+   "time": "18:30",
+   "endTime": "20:30",
+   "doors": "",
+   "url": "https://www.puckettsrestaurant.com/nashville/music/new-years-eve-with-douglas-riley-band-123126",
+   "tickets": "",
+   "source": "puckett-nashville"
+  },
+  {
    "venue": "The Basement East",
    "title": "My So-Called Band: The Ultimate 90s New Year&rsquo;s Eve!",
    "date": "2026-12-31",
@@ -2889,6 +2847,16 @@
    "title": "ROCK NITE",
    "date": "2027-02-08",
    "time": "20:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
+   "date": "2027-02-09",
+   "time": "21:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
