@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T20:16:37.954Z",
+ "updatedAt": "2026-11-27T15:56:42.878Z",
  "venues": [
   {
    "id": "basement",
@@ -15,7 +15,7 @@
    "name": "Joelton Hardware",
    "url": "https://www.joeltonhardware.com/events",
    "ok": true,
-   "count": 62,
+   "count": 61,
    "error": "",
    "stale": false
   },
@@ -57,27 +57,6 @@
   }
  ],
  "shows": [
-  {
-   "venue": "Joelton Hardware",
-   "title": "HAPPY THANKSGIVING from JOELTON HARDWARE!",
-   "date": "2026-11-26",
-   "time": "00:01",
-   "endTime": "23:59",
-   "doors": "",
-   "url": "https://www.joeltonhardware.com/events/happy-thanksgiving-from-joelton-hardware",
-   "tickets": "",
-   "source": "joelton"
-  },
-  {
-   "venue": "Skinny Dennis",
-   "title": "HAPPY THANKSGIVING! BAR & KITCHEN OPEN 4PM",
-   "date": "2026-11-26",
-   "time": "16:00",
-   "doors": "",
-   "url": "https://skinnydennisnashville.com/calendar/",
-   "tickets": "",
-   "source": "skinny"
-  },
   {
    "venue": "Joelton Hardware",
    "title": "HAPPY HOUR BAND (Variety)",
@@ -2857,6 +2836,16 @@
    "title": "COORS COUNTRY BANQUET WITH GOWA GIBBS & THE COUNTRY BANQUET BAND",
    "date": "2027-02-09",
    "time": "21:00",
+   "doors": "",
+   "url": "https://skinnydennisnashville.com/calendar/",
+   "tickets": "",
+   "source": "skinny"
+  },
+  {
+   "venue": "Skinny Dennis",
+   "title": "THE STARLIGHT JAMBOREE FT. THE COWTOWN DOZEN",
+   "date": "2027-02-10",
+   "time": "19:00",
    "doors": "",
    "url": "https://skinnydennisnashville.com/calendar/",
    "tickets": "",
